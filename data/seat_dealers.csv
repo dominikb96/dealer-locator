@@ -1,0 +1,948 @@
+name,brand,street,zip,city,country,latitude,longitude,phone,email,website
+Peter Ullrich e.K.,SEAT,Dorfstr. 39,47661,Issum-Sevelen,DE,51.49372,6.42635,02835/5124,info@autohaus-ullrich.com,https://autohaus-ullrich.seat.de
+Hahn Automobile GmbH + Co. KG,SEAT,Rudolf-Diesel-Straße 20,71032,Böblingen,DE,48.676,9.01739,07031-722 0,seat.boeblingen@hahn-automobile.de,
+Autohaus Weiland GmbH,SEAT,Untere Bliesstraße 61,66539,Neunkirchen,DE,49.35236,7.21963,06821-401730,seat-nk@autohaus-weiland.de,https://autohaus-weiland-nk.seat.de
+Groß Automobile GmbH,SEAT,Schneeberger Str. 32,08321,Zschorlau,DE,50.5708,12.6563,03771-45090,info@seat-zschorlau.de,https://gross-sachsen.seat.de
+Schnieder GmbH,SEAT,Herforder Str. 79,32602,Vlotho,DE,52.16127,8.84733,05733-881990,info@schnieder.de,https://schnieder.seat.de
+Autohaus Possögel GmbH,SEAT,Weißenfelser Str. 22-24,06618,Naumburg,DE,51.15078,11.81777,03445-70540,info@autohaus-possoegel.com,https://possoegel.seat.de
+Löhr Auto SZ GmbH,SEAT,Mainzer Str. 130,65189,Wiesbaden,DE,50.06096,8.25416,0611/505074-40,info.sew@loehrgruppe.de,https://wiesbaden.seat.de
+Auto Halbig GmbH & Co. KG,SEAT,Nürnberger Str. 64,91710,Gunzenhausen,DE,49.12109,10.7628,09831-80020,info@auto-halbig.de,
+Autohaus Timmer GmbH,SEAT,Nordring 212-214,46325,Borken,DE,51.84194,6.83674,02861-9423-0,seat.bor@auto-timmer.de,https://timmer-borken.seat.de
+AutoCenter Benz GmbH,SEAT,Sandgrabenstr. 48,88400,Biberach an der Riss,DE,48.10958,9.80179,07351-587920,service@autocenter-benz.de,https://autocenter-benz-biberach.seat.de
+Autohaus Dehner GmbH,SEAT,Wasserwiesen 13,72336,Balingen,DE,48.26035,8.85223,07433-997440,seat@autohaus-dehner.de,https://dehner.seat.de
+Autohaus Jost GmbH & Co. KG,SEAT,Niedereimerfeld 41-43,59823,Arnsberg,DE,51.42348,8.03384,02932-4759990,seat@autohaus-jost.de,https://autohaus-jost.seat.de
+Autohaus Gebr. Schwarte Aurich GmbH,SEAT,Emder Str. 31,26607,Aurich,DE,53.47059,7.46323,04941-15100,seat.aurich@autohaus-schwarte.de,autohaus-schwarte.seat.de
+Tiemeyer automobile GmbH & Co. KG,SEAT,Vestische Str. 229,46145,Oberhausen,DE,51.51275,6.85856,0208/69955-0,info.seatoberhausen@tiemeyer.de,https://tiemeyer-oberhausen.seat.de
+Autohaus Ostmann GmbH & Co. KG,SEAT,Am Jahnsportplatz 4-8,34369,Hofgeismar,DE,51.48596,9.38819,05671 507 771 0,info-hog@autohaus-ostmann.de,https://ostmann-hofgeismar.seat.de
+Auto-Krause GmbH & Co. KG,SEAT,Siemensstrasse 2,48341,Altenberge,DE,52.0435,7.45519,02505 9336 0,seat@autokrause-familie.de,
+Emil Frey Küstengarage GmbH,SEAT,Curslacker Neuer Deich 72,21029,Hamburg,DE,53.47668,10.20492,040 72561-0,seat.hh@kuestengarage.de,https://kuestengarage-hamburg.seat.de/
+Autohaus Neuling GmbH & Co. KG,SEAT,Poppauer Straße 37,38486,Klötze,DE,52.63319,11.15623,03909-4606,info@autohaus-neuling.de,
+Auto-Center Weber GmbH & Co. KG,SEAT,Otto-Schmidt Straße 8,04425,Taucha,DE,51.36805,12.47581,034298 504 0,seat-taucha@auto-center-weber.de,
+W.Potthoff GmbH,SEAT,Hüserstraße 1,59075,Hamm,DE,51.6892,7.77387,02381 79980,seatpartner@potthoff.de,https://potthoff.seat.de
+Kalletaler Autohaus ,SEAT,Lüdenhaus Str. 19,32689,Kalletal,DE,52.08571,9.00315,05264-69950,info@kalletaler-autohaus.de,https://kalletalerautohaus.seat.de
+Autohaus Fischbach GmbH & Co. KG,SEAT,Industriestraße 5,56472,Hof,DE,50.66311,8.0189,02661-930500,info@autohaus-fischbach.com,https://fischbach.seat.de
+Autohaus Schmitz GmbH - Service,SEAT,Dernbacher Str. 65,56424,Ebernhahn,DE,50.46756,7.77705,02623-7180,info@ahschmitz.de,https://ahschmitz.seat.de
+Autohaus Früchtl GmbH,SEAT,An der B 8,93102,Pfatter,DE,48.95842,12.36776,09481-244,info@autohaus-fruechtl.de,https://fruechtl.seat.de
+Siemon GmbH,SEAT,In den Rietbroken 28,49525,Lengerich,DE,52.17891,7.84856,05481 9459-0,lengerich@autohaus-siemon.de,https://autohaus-siemon.seat.de
+Audi Zentrum Zwickau GmbH,SEAT,Oskar-Arnold-Straße 30,08056,Zwickau,DE,50.7084,12.50278,0375 560 86 0,seat-cupra@audi-zentrum-zwickau.de,https://zentrum-zwickau.seat.de
+Bernhardt Nutzfahrzeuge GmbH,SEAT,In der Gabel 14-16,69123,Heidelberg,DE,49.41404,8.63884,06221 535 300,service@autohausbernhardt.de,
+Autohaus Pusl GmbH,SEAT,Neuhauser Strasse 22,83727,Schliersee,DE,47.71125,11.86976,08026 60656 0,seat@autohaus-pusl.de,
+Erwin Pfister GmbH & Co. KG,SEAT,Heidenfelder Straße 9,97525,Schwebheim,DE,49.98507,10.24426,09723 91550,info@autohaus-pfister.de,https://pfister.seat.de
+Ehrhardt AG NL Halle,SEAT,Rosenfelder Str. 5,06116,Halle,DE,51.50134,12.0303,0345-4447980,seat.halle@ah-ehrhardt.com,https://ehrhardt-halle.seat.de
+Volkswagen Automobile Stuttgart GmbH,SEAT,Hauptstraße 166,70563,Stuttgart,DE,48.73265,9.09248,0711 737300-0,Backoffice.Vai@vw-as.de,
+Autohaus Gebr. Schwarte Cloppenburg GmbH,SEAT,Emsteker Str. 75,49661,Cloppenburg,DE,52.84237,8.06004,04471 9173 14,seat.cloppenburg@autohaus-schwarte.de,https://schwarte-cloppenburg.seat.de
+Dinkel + Heiny GmbH,SEAT,Bugstr. 3,79336,Herbolzheim,DE,48.22223,7.766,07643 9336890,info@dinkel-heiny.de,https://dinkel-heiny.seat.de/
+Auto Singer GmbH & Co. KG,SEAT,Rudolf-Diesel-Straße 2,86807,Buchloe,DE,48.04152,10.70792,0824150990,info-bu@autosinger.de,https://auto-singer-buchloe.seat.de
+bhg Autohandelsgesellschaft mbH,SEAT,Ernst-Abbe-Straße 20,72770,Reutlingen,DE,48.49798,9.15296,07124 583 100,seat-reutlingen22246@bhg-mobile.de,https://bhg-autohaus-reutlingen.seat.de
+bhg Autohandelsgesellschaft mbH,SEAT,Sigmaringer Str. 48,72458,Albstadt,DE,48.20689,9.03756,07431 9356 0,seat-albstadt@bhg-mobile.de,https://bhg-albstadt.seat.de/
+bhg Autohandelsgesellschaft mbH,SEAT,Lörracher Str. 4,79115,Freiburg,DE,47.98463,7.82633,0761 4902 0,seat-freiburg@bhg-mobile.de,https://bhg-freiburg.seat.de
+AVEMO Hanau GmbH,SEAT,Luise-Kiesselbach-Str. 17,63452,Hanau,DE,50.14896,8.92757,06181 4908 0,info@audi-zentrum-hanau.de,
+Autowelt Bader GmbH & Co. KG,SEAT,Münchener Straße 2,83052,Bruckmühl,DE,47.87829,11.96474,08061 497770,cupra-seat.hf@autowelt-bader.de,
+Autohaus Prüller e.K.,SEAT,Am Schwalbanger 39,86633,Neuburg,DE,48.72598,11.19106,08431 6767 0,seat@autohaus-prueller.de,https://autohaus-prueller.seat.de
+Autohaus Rainer Pust,SEAT,Greifswalder Straße 26 A,17389,Anklam,DE,53.86567,13.68737,03971-20150,AH-Pust@gmx.de,https://pust.seat.de
+Auto-Hofmann GmbH & Co.KG,SEAT,Diesdorfer Graseweg 99,39110,Magdeburg,DE,52.12719,11.57448,0391-7391003,autohofmann@mail.de,https://hofmann.seat.de
+Autohaus Kässner GmbH,SEAT,Limbacher Straße 54,09247,Chemnitz,DE,50.86443,12.8248,03722-52250,kaessner@t-online.de,https://seat-kaessner-chemnitz.de
+Theodor Miller Kraftfahrzeuge Inhaber Stefan Miller,SEAT,Füssenerstrasse 23,87672,Roßhaupten,DE,47.6509,10.72219,08367 338,info@autohaus-miller.de,https://miller.seat.de
+Autohaus Preuss GmbH,SEAT,Am Kleinen Stadtfeld 2,23966,Wismar,DE,53.87316,11.44803,03841-73330,seat@autohaus-preuss.de,https://autohaus-preuss.seat.de
+SMW Autovertrieb GmbH,SEAT,Am Neuen Friedhof 2,17489,Greifswald,DE,54.09223,13.35413,03834-58590,smw@hgwnet.de,https://smw.seat.de
+VGRDD GmbH,SEAT,Wilsdruffer Straße 35/37,01705,Freital,DE,51.01334,13.64708,0351 649880,seat.service.jan@wirthgen.de,
+"Autohaus Jürgen Stüwe, Inhaber  Ralf Stüwe",SEAT,Werdohler Str. 22,17153,Reuterstadt Stavenhagen,DE,53.68807,12.90972,039954-21122,autohaus-stuewe@t-online.de,https://ah-stuewe.seat.de
+Lerdon GmbH,SEAT,Esperstedter Str. 25,06567,Bad Frankenhausen,DE,51.35573,11.11268,034671-55990,info@lerdon-seat.de,https://lerdon.seat.de
+Autohaus Grünhage GmbH & Co. KG,SEAT,Schokholtzstr. 1,06217,Merseburg,DE,51.37837,11.98647,03461-200428,autohaus.gruenhage@gmx.de,https://merseburg.seat.de
+Voets Autozentrum Magdeburg Süd GmbH,SEAT,Werner-v.-Siemens-Ring 5,39116,Magdeburg,DE,52.08108,11.57962,0391-60990,info@voets-md-sued.de,https://voets.seat.de
+Auto-Centrum Hoffmann GmbH ,SEAT,Mittlerer Watzenbach 8 b,07318,Saalfeld,DE,50.65736,11.342,03671-5355700,vwslf@hoffmann-mobile.de,https://hoffmann-mobile.seat.de/
+Auto & Service PIA GmbH,SEAT,Frankfurter Ring 216,80807,München,DE,48.18643,11.60413,089-323706-2172,info.nord@autoundservice.de,https://muenchen-nord.seat.de
+Amore Automobile Moresco e.K. ,SEAT,Mariannenstr. 9 - 10,10999,Berlin,DE,52.49963,13.42249,030-6169190,team@amore-automobile.de,
+Autohaus KAHLE GmbH & Co. KG,SEAT,Werner-v.-Siemens-Str. 6,29664,Walsrode,DE,52.86139,9.61601,05161-98990,seat.wal@kahle.de,https://kahle.seat.de
+Autohaus Hüttel GmbH,SEAT,Dresdner Landstraße 14 F,01744,Dippoldiswalde,DE,50.90773,13.6914,03504-64770,info@autohaus-huettel.de,https://huettel.seat.de
+Gövert GmbH,SEAT,Goethestraße 15,44534,Lünen,DE,51.62054,7.53016,02306-757770,seat@goevert.de,
+Auto Rasch GmbH & Co. KG,SEAT,Augsburger Straße 38-40,82256,Fürstenfeldbruck,DE,48.18684,11.24788,08141-2940,willi.brugglehner@auto-rasch.de,https://auto-rasch.seat.de
+Auto Bierschneider Aalen GmbH,SEAT,Steinheimer Str. 61,89518,Heidenheim a.d. Brenz,DE,48.67948,10.10779,07321 988870,info.heidenheimaudi@bierschneider.de,https://bierschneider-aalen.seat.de
+Autohaus am Bungsberg GmbH & Co. KG,SEAT,Ringstr. 20,23758,Oldenburg,DE,54.29535,10.91563,04361-90910,info@ambungsberg.de,
+Autohaus Ohnheiser GmbH & Co. KG,SEAT,Industriestr. 4,86637,Wertingen,DE,48.56182,10.6885,08272 99770,info@ohnheiser.de,
+Autohaus Kämpflein GmbH & Co. KG,SEAT,Bismarckstraße 130,56470,Bad Marienberg,DE,50.64375,7.92494,02661 95500,seat@kaempflein.de,
+Automobile Werner Handel und Service GmbH,SEAT,Chemnitzer Str. 32 a-b,09648,Mittweida,DE,50.97483,12.98123,03727 62100,seat@automobile-werner.de,automobile-werner.seat.de
+AMB Automobile Borna GmbH,SEAT,Geschw.-Scholl-Str. 12-14,04552,Borna,DE,51.1246,12.49232,03433-2490,seat.borna@amb-autowelt.de,https://borna.seat.de
+Dost Automobile GmbH,SEAT,Porschestr. 1,31135,Hildesheim,DE,52.16427,9.9778,05121-507-0,info@dost.de,https://dost.seat.de/
+Autohaus Brandt Stuhr GmbH,SEAT,Max-Planck-Str. 3,28816,Stuhr,DE,53.0216,8.76709,0421-565400,stuhr@autohaus-brandt.com,https://autohaus-brandt.seat.de
+Audi Zentrum Ingolstadt Karl Brod GmbH,SEAT,Neuburger Straße 75,85057,Ingolstadt,DE,48.76894,11.39894,0841-49140,REisenschenk@audi-zentrum-ingolstadt.de,https://brod-ingolstadt.seat.de
+Treffpunkt Thierolf GmbH & Co. KG,SEAT,An der B 45 / 47,64720,Michelstadt,DE,49.67718,9.00512,06061-7090,seat@thierolf.de,
+Emil Frey Küstengarage GmbH,SEAT,Andreas-Clausen-Str. 5,25813,Husum,DE,54.49367,9.08307,04841-83530,seat.hu@kath-gruppe.de,https://kuestengarage-husum.seat.de
+Autohaus Weeber GmbH,SEAT,Merklinger Str. 14,71263,Weil der Stadt,DE,48.75458,8.86918,07033-522-0,info-seat-wds@autohaus-weeber.de,https://ah-weeber-wds.seat.de
+Schmidt & Hoffmann Baltic GmbH & Co. KG,SEAT,Projensdorfer Str. 174,24106,Kiel,DE,54.35745,10.11797,0431-305530,info@skoda-kiel.de,https://schmidt-hoffmann-baltic.seat.de/
+"Autohaus Festl, Inh. Jasmin Festl",SEAT,Borner Straße 21-23,42897,Remscheid,DE,51.17983,7.25401,02191-933680,info@autohaus-festl.de,
+Autohaus Müller Wurzen GmbH,SEAT,Nischwitzer Breite 15,04808,Wurzen,DE,51.38606,12.73204,03425-819730,info@automobile-mueller.info,https://mueller-wurzen.seat.de
+Scherer GmbH & Co. KG,SEAT,Kelberger Straße 83,56727,Mayen,DE,50.32338,7.20898,02651-96110,seat.mayen@scherer-gruppe.de,https://scherer-mayen.seat.de/.
+Auto-Ringler-Service GmbH,SEAT,Hartkirchner Straße 45,94060,Pocking,DE,48.40337,13.32845,08531-80900,seat.pocking@auto-ringler.de,https://seat-auto-ringler-pocking.de
+Autohaus Louis Dresen GmbH,SEAT,Friedrich-Ebert-Str. 27,41352,Korschenbroich,DE,51.19239,6.50755,02161-9929990,seat-korschenbroich@dresen.de,https://dresen-korschenbroich.seat.de
+Auto Zeilinger GmbH,SEAT,Am Baumgarten 3,91463,Dietersheim,DE,49.55865,10.54121,09161-88750,werkstatt@auto-zeilinger.de,https://auto-zeilinger.seat.de
+Weber GmbH & Co. KG,SEAT,Kurpfalzstraße 55,97944,Boxberg,DE,49.48525,9.64728,07930-6346,y.weber@weber-mobile.de,
+Autohaus Wilhelm Graf GmbH,SEAT,Schwabacher Straße 382,90763,Fürth,DE,49.44445,10.99051,0911-997130,seat.fuerth@feser-graf.de,https://graf-fuerth.seat.de
+Auto Bierschneider GmbH ,SEAT,Schütterlettenweg 1/3,85053,Ingolstadt,DE,48.74995,11.46091,0841-966880,info.ingolstadt@bierschneider.de,https://bierschneider-ingolstadt.seat.de
+Autohaus Berolina GmbH,SEAT,Ringstraße 50,12105,Berlin,DE,52.43695,13.3901,030-338009-0,info@autohaus-berolina.de,https://berolina-tempelhof.seat.de
+Herrmann & Langer GmbH,SEAT,Ulmenstraße 10,14482,Potsdam,DE,52.37927,13.1106,0331-70478140,seat@herrmann-langer.de,https://herrmann-langer.seat.de
+Autohaus Fischer GmbH,SEAT,Baumschulenweg 2,29227,Celle,DE,52.60017,10.10631,05141-3747474,info@fischer-autohaus.com,https://fischer-autohaus.seat.de
+Autohaus Burmeister GmbH,SEAT,Westring 1,19370,Parchim,DE,53.42747,11.82917,03871-6218-0,info@ah-burmeister.de,https://burmeister.seat.de
+Autohaus M.Herrmann GmbH,SEAT,Wolkensteiner Str. 24 A,09514,Pockau-Lengefeld,DE,50.71496,13.18218,037367-3190,SEAT_Herrmann@t-online.de,https://herrmann.seat.de
+Autohaus Herklotz GmbH,SEAT,Dresdner Straße 66,01689,Weinböhla,DE,51.15147,13.56658,035243-32283,info@autohaus-herklotz.de,https://herklotz.seat.de
+Autohaus Frank Nagel,SEAT,Straße am Berg 15,18182,Bentwisch,DE,54.12133,12.21457,0381-609220,service@seatnagel.de,https://nagel-bentwisch.seat.de
+Autohaus Himpel GmbH,SEAT,Wasserturmstr. 15,09603,Großschirma,DE,51.03172,13.30289,035242-62779,autohaus_himpel@t-online.de,https://autohaus-himpel.seat.de
+VGRDD GmbH,SEAT,Großenhainer Straße 81/83,01127,Dresden,DE,51.08021,13.73134,0351-85277-4000,seat.service.holm@wirthgen.de,
+Autohaus van Kolck GmbH,SEAT,Müglitztalstraße 60-62,01809,Dohna,DE,50.96429,13.8565,03529-56890,info@vankolck.de,https://autohaus-van-kolck.seat.de
+Ratio Mobil Autohandel und Service GmbH - Gornau,SEAT,Am Einkaufszentrum 2,09405,Gornau,DE,50.75853,13.05185,03725-34900,gornau@ratiomobil.de,https://ratiomobil.seat.de
+Automobile Michael Pagel,SEAT,Friedrich-Ebert-Str. 7,17213,Malchow,DE,53.47736,12.42143,039932-16020,seatpagel@t-online.de,https://pagel.seat.de
+Autohaus Huhmann,SEAT,Brauereistr. 6,17159,Dargun,DE,53.90348,12.86844,039959-20180,seat@autohaus-huhmann.de,https://huhmann.seat.de
+Autohaus Freytag GmbH ,SEAT,Probstzellaer Straße 15,98743,Gräfenthal,DE,50.52731,11.31267,036703-80536,com@seat-autohaus-freytag.de,https://freytag.seat.de
+Autohaus Leubnitz GmbH,SEAT,Neuostra 3-6,01219,Dresden,DE,51.0151,13.76461,0351-4706905,info@autohaus-leubnitz.de,https://autohaus-leubnitz.seat.de
+Autohaus Bachmann e.K. Inhaber Thomas Bachmann,SEAT,Kalistraße 9,06406,Bernburg,DE,51.77671,11.74126,03471-311164,d33251@autohausbachmann.de,https://autohausbachmann.seat.de
+Autohaus Jacob Fleischhauer GmbH & Co. KG,SEAT,Düsseldorfer Str. 12,41238,Mönchengladbach,DE,51.16958,6.45763,02166 1298 0,mg_seat@fleischhauer.com,https://autohaus-fleischhauer.seat.de/
+Autohaus Frank Nagel,SEAT,Beim Handweiser 14,18311,Ribnitz-Damgarten,DE,54.23946,12.4043,03821-88530,seatnagel@freenet.de,https://nagel-ribnitz.seat.de
+Autopark Hackerott GmbH & Co. Handels- u. Service KG,SEAT,Mühlenfeld 5,30853,Langenhagen,DE,52.45039,9.73209,0511-973670,langenhagen@hackerott.de,https://autohaus-hackerott.seat.de
+Autohaus Link GmbH,SEAT,Aufseßring 26,63925,Laudenbach,DE,49.73771,9.18013,09372 9998 0,info@auto-link.de,
+Fitschen&Klindworth GmbH,SEAT,Lange Straße 7,27404,Elsdorf,DE,53.24571,9.34768,04286-93030,elsdorf@klindworth-gruppe.de,https://klindworth.seat.de
+Autozentrum Beilstein Ritter & Gümüs GmbH ,SEAT,Heerweg 50,71717,Beilstein,DE,49.03594,9.31391,07062-916600,info@vw2000.de,https://ritter-guemues.seat.de
+Autohaus Kühl GmbH & Co. KG,SEAT,Wolfsburger Straße 3,38518,Gifhorn,DE,52.46198,10.54675,05371-8070,seatgf@autohaus-kuehl.de,https://kuehl.seat.de/
+Waldhausen & Bürkel GmbH & Co. KG,SEAT,Hohenzollernstraße 230,41063,Mönchengladbach,DE,51.20799,6.44249,02161-27570,info@waldhausen-buerkel.de,https://waldhausen-buerkel.seat.de
+Autohaus Senne GmbH & Co. KG,SEAT,Rehrbrinkstraße 8,30890,Barsinghausen,DE,52.30453,9.45994,05105-52420,info@Autohaus-Senne.de,https://autohaus-senne.seat.de
+Autohaus Dittmar Mäke,SEAT,Gewerbegebiet Süd 4,09618,Brand Erbisdorf,DE,50.85539,13.32141,037322-3320,info@autohaus-maeke.de,https://autohaus-maeke.seat.de
+AHG GmbH & Co. KG,SEAT,Cyrusstr. 22,99867,Gotha,DE,50.92293,10.71447,03621-4504-300,info@ahg-online.de,https://ahg-gotha.seat.de
+Egon Baumhoff GmbH & Co. KG,SEAT,Hagener Str. 68,57368,Lennestadt,DE,51.11019,8.06521,02723 9667 0,seat@autohaus-baumhoff.de,
+Hans Laatzig Automobile GmbH,SEAT,Eichhorster Weg 91,13435,Berlin,DE,52.60284,13.33496,030-4090030,info@laatzig.de,https://laatzig.seat.de
+Autohaus am Bungsberg GmbH & Co. KG,SEAT,Bei der Lohmühle 3,23554,Lübeck,DE,53.87625,10.66509,0451-2905790,info@ambungsberg.de,https://ambungsberg-luebeck.seat.de
+Autohaus Wolfenbüttel GmbH,SEAT,Frankfurter Straße 37,38304,Wolfenbüttel,DE,52.16408,10.50991,05331-40090,info@AHWF.de,
+MH Autoforum GmbH & Co.KG,SEAT,An der Automeile 17,35394,Gießen,DE,50.57424,8.71142,0641-499090,info@mh-autoforum.de,https://mh-autoforum.seat.de
+Autohaus Schnitzler GmbH & Co. KG,SEAT,Auf dem Sand 36,40721,Hilden,DE,51.17515,6.91628,02103-9450400,info@autohaus-schnitzler.de,https://schnitzler-hilden.seat.de
+Autohaus Jacob Fleischhauer GmbH & Co. KG,SEAT,Roitzheimer Straße 123,53879,Euskirchen,DE,50.65194,6.80447,02251-981810,service-euskirchen@fleischhauer.com,https://fleischhauer-euskirchen.seat.de
+Koch Mobile GmbH ,SEAT,Aschenhausweg 5,74523,Schwäbisch Hall,DE,49.10561,9.71608,0791-2021342710,seat-sha@koch-autogruppe.de,https://koch-mobile.seat.de
+Auto Zentrum Nürnberg-Feser GmbH Zweigniederlassung Höchstadt,SEAT,Fürther Str. 12a,91315,Höchstadt a.d. Aisch,DE,49.69511,10.80297,09193-50400,seat.erlangen@feser-graf.de,https://feser-hoechstadt.seat.de
+Autohaus Schandert GmbH,SEAT,Mannheimer Strasse 16,06847,Dessau,DE,51.82334,12.21638,0340 5711560,seat.dessau@auto-schandert.de,https://auto-schandert.seat.de
+Autohaus Lackmann GmbH,SEAT,Carl-Ruß-Str. 1,42719,Solingen,DE,51.18643,7.05699,0212-64590-0,seat@lackmanngruppe.com,https://lackmann-solingen.seat.de
+Autohaus Hessenkassel  GmbH+Co. Vertriebs KG,SEAT,Königstor. 68-72,34119,Kassel,DE,51.31275,9.47715,0561-5006-0,seat.hessenkassel@glinicke.de,https://hessenkassel.seat.de
+Feser Magdeburg GmbH,SEAT,Pallasweg 10,39118,Magdeburg,DE,52.08139,11.61276,0391 50979-6000,seat.am-boerdepark@feser-graf.de,https://feser-magdeburg-boerdepark.seat.de
+Auto Singer GmbH & Co. KG,SEAT,Augsburger Str 85-87,87600,Kaufbeuren,DE,47.88617,10.63867,08341-95155,seat-service@autosinger.de,https://autosinger.seat.de
+Auto Meyer GmbH,SEAT,Bergweg 41,49393,Lohne,DE,52.66434,8.25673,04442-93550,info@amlo.de,
+Autohaus Albertsmeyer Mühlhausen GmbH,SEAT,Kasseler Straße 45,99974,Mühlhausen,DE,51.20386,10.43749,03601 4850 0,info@albertsmeyer.com,https://albertsmeyer-muehlhausen.seat.de
+Autohaus Marnet GmbH & Co. KG,SEAT,Schwalheimer Straße 71,61231,Bad Nauheim,DE,50.35722,8.74629,06032 9399 0,seat-badnauheim@marnet.de,https://marnet-badnauheim.seat.de/
+Motor-Nützel Vertriebs-GmbH,SEAT,Nürnberger Str. 95,95448,Bayreuth,DE,49.92636,11.59922,0921-3360-400,seat-bayreuth@motor-nuetzel.de,https://bayreuth.seat.de
+Autohaus Weeber GmbH,SEAT,Ferd.-von-Steinbeiss-Str. 2,75365,Calw,DE,48.70416,8.75962,07051 79790,info-calw@autohaus-weeber.de,
+Autohaus Laufenberg GmbH,SEAT,Siegburger Straße 314,53639,Königswinter,DE,50.73427,7.25856,02244-912135,43541@ahlaufenberg.de,https://laufenberg.seat.de
+Autohaus Ostermaier GmbH,SEAT,Chamer Str. 50,94315,Straubing,DE,48.89023,12.57787,09421 8402 0,seat.sr@ostermaier.de,https://autohaus-ostermaier.seat.de
+Autohaus Bauer & Scherg GmbH & Co. KG,SEAT,Raiffeisenstraße 32,85276,Pfaffenhofen,DE,48.53974,11.51612,08441-89990,info@autobauer-paf.de,https://bauer.seat.de
+Autohaus Marnet GmbH & Co. KG,SEAT,Anna-Birle-Straße 10,55252,"Wiesbaden, Mainz-Kastel",DE,50.0271,8.28072,06134 584290 0,seat-wiesbaden@marnet.de,
+Autohaus Stefan Semler GmbH & Co. KG,SEAT,Ottostraße 16-18,64347,Griesheim,DE,49.87085,8.55942,06155 8380 0,info@autohaus-semler.de,https://www.autohaus-semler.seat.de/
+Autohaus Klinkner GmbH,SEAT,Wolfsborn 50-56,66679,Losheim am See,DE,49.50815,6.76192,06872 91400,seat@autohaus-klinkner.de,https://autohaus-klinkner.seat.de
+AVP Autoland GmbH & Co.KG,SEAT,Neuburger Str. 141-143,94036,Passau,DE,48.55857,13.42065,09931-709400,passau@avp-autoland.de,https://avp-autoland-passau.seat.de
+Auto-Technik Dähne GmbH,SEAT,Grünauer Fenn 5,14712,Rathenow,DE,52.57838,12.33707,03385 4999 0,info-srn@a-t-d.de,
+Volkswagen Automobile Frankfurt GmbH,SEAT,Donaustr. 32,63452,Hanau,DE,50.15127,8.9337,06181 90095000,seat.hu@volkswagen-frankfurt.de,https://vw-automobile-hanau.seat.de
+Deisenroth & Söhne GmbH & Co. KG,SEAT,Zum Wolfsgraben 13,36088,Hünfeld,DE,50.68903,9.7546,06652 96900,seat.huenfeld@autohaus-deisenroth.de,https://deisenroth-soehne-huenfeld.seat.de
+Hansa Automobile Rostock GmbH,SEAT,Lise-Meitner-Ring 2,18059,Rostock,DE,54.05867,12.11788,0381-405120,info@cupra-rostock.com,https://hansa-automobile.seat.de
+Auto Thomas GmbH,SEAT,August-Lepper-Str. 1-12,53604,Bad Honnef,DE,50.63769,7.22019,02224 9424 0,info-badhonnef@auto-thomas.de,https://auto-thomas-badhonnef.seat.de
+Autohaus Ansbach W. Oberseider GmbH & Co. KG,SEAT,Feuchtwangerstr. 36+77,91522,Ansbach,DE,49.29492,10.56046,0981 46123 0,info@autohaus-ansbach.de,https://autohaus-ansbach.seat.de/
+Kfz.-Service GmbH,SEAT,Brüxer Staße 5,09544,Neuhausen,DE,50.6739,13.4664,037361-45292,info@seat-neuhausen.de,kfz-service.seat.de
+Autohaus Horst Ikert e.K.,SEAT,Gröditzer Straße 52,01609,Röderaue ,DE,51.3927,13.46362,035263-68586,info@autohaus-ikert.de,https://autohaus-ikert.seat.de
+Autohaus Petri Inh. Isabel Petri e.K.,SEAT,Plautstraße 13,04179,Leipzig,DE,51.33019,12.30943,0341-4804300,info@autohauspetri.de,https://petri.seat.de
+Hahn Automobile GmbH + Co. KG,SEAT,Stuttgarter Str. 31-57,73614,Schorndorf,DE,48.80519,9.51536,07181 4092 0,seat-schorndorf@hahn-automobile.de,
+Hahn Automobile GmbH + Co. KG NL Pforzheim,SEAT,Kelterstrasse 9,75179,Pforzheim,DE,48.89484,8.68323,07231-139950 ,SEAT_HAENDLEREINGANG@hahn-automobile-pforzheim.de,https://hahn-pforzheim.seat.de/
+Autohaus Kretschmann GmbH,SEAT,Gewerbering West 24,39240,Calbe,DE,51.89848,11.75451,039291-4420,service@ah-kretschmann.de,https://autohaus-kretschmann.seat.de
+Autohaus am Bungsberg GmbH & Co. KG,SEAT,Industriestraße 1,23701,Eutin,DE,54.12689,10.62079,04521-790190,info@ambungsberg.de,https://bungsberg.seat.de
+Autohaus Joachim Huster GmbH,SEAT,Guteborner Allee 6,08393,Meerane,DE,50.83956,12.44884,03764-18000,seat@huster.de,
+Autohaus Stegelmann GmbH & Co. KG,SEAT,Stegelmann Straße 1,32657,Lemgo,DE,52.02153,8.88537,05261-25970,INFO@Stegelmann.de,
+Autohaus Pietsch GmbH,SEAT,Herrenteich 89,49324,Melle,DE,52.20217,8.35205,05422-94850,info.seat@autohaus-pietsch.de,https://autohaus-pietsch.seat.de
+Autohaus West Zweigbetrieb der Jepsen Betriebs GmbH & Co. KG,SEAT,Prüfeninger Str. 135,93049,Regensburg,DE,48.9929,12.10423,0941-30722-0,service.info@autohaus-west.de,https://audi-service-regensburg.seat.de
+Graf Hardenberg GmbH & Co. KG,SEAT,Otto-Hahn-Str. 3,77652,Offenburg,DE,48.48333,7.93791,0781-92020,info.og@grafhardenberg.de,https://hardenberg.seat.de
+Auto König GmbH & Co. KG,SEAT,Heidenheimer Str. 11,89312,Günzburg,DE,48.47013,10.277,08221-9000-0,info@autokoenig.de,
+Autohaus Saur GmbH & Co. KG,SEAT,Blaubeurer Str. 45,89077,Ulm,DE,48.40195,9.97674,0731-935540,INFO@AUTOHAUS-SAUR.DE,https://saur.seat.de
+"Autohaus Nachtweide,  Inh. Autohaus Fischer GmbH",SEAT,Nachtweide 24,67433,Neustadt/Weinstraße ,DE,49.34698,8.17556,06321-188756,autohaus-nachtweide@gmx.de,https://nachtweide.seat.de
+Autohaus Schmidt GmbH,SEAT,An der Ritzer Brücke 5,29410,Salzwedel,DE,52.85212,11.18296,03901 83330,autohaus-salzwedel@belling-schmidt.de,
+Autohaus Habinghorst GmbH & Co. KG ,SEAT,Rheinstraße 3,44579,Castrop-Rauxel,DE,51.58843,7.30052,02305-973460,Seat@autohaus-habinghorst.de,https://habinghorst.seat.de
+Service-Auto-Garage Hein & Montnacher GmbH  Rehlingen,SEAT,Zur Schleuse 6,66780,Rehlingen,DE,49.3692,6.69407,06835-67750,seat@service-auto-garage.de,https://service-auto-garage.seat.de
+Autohaus Jacob Fleischhauer GmbH & Co. KG,SEAT,Clevischer Ring 45,51063,Köln,DE,50.9646,7.0057,0221-67040,verkauf-muelheim@fleischhauer.com,https://fleischhauer-muelheim.seat.de
+F.A.M. Autohaus Kiener GmbH & Co. KG,SEAT,Boveristraße 36,68526,Ladenburg,DE,49.47846,8.59575,06203-3286,info@ahkiener.de,https://kiener.seat.de
+Autohaus am Limes Golderer GmbH & Co.KG,SEAT,Daimlerstraße 3,74731,Walldürn,DE,49.58989,9.38025,06282-92440,info@golderer.de,https://golderer.seat.de
+Tepass Gevelsberg GmbH + Co. KG,SEAT,Hagener Straße 113,58285,Gevelsberg,DE,51.3254,7.35311,02332-969600,seat@ah-roettger.de,https://tepassgevelsberg.seat.de
+Autopark Wilhelm Köster e.K.,SEAT,Gabelstraße 55,46147,Oberhausen,DE,51.54942,6.82005,0208-8848480,info@autopark-koester.de,https://koester.seat.de
+Wegst GmbH ,SEAT,Leibnizstr. 2,70806,Kornwestheim ,DE,48.86782,9.19961,07154-801120,info@wegst-automobile.de,https://wegst.seat.de
+Gottfried Schultz Automobilhandels SE ,SEAT,Prof.-Oehler-Straße 13,40589,Düsseldorf,DE,51.16868,6.84618,0211-98980,seat-nordrhein@gottfried-schultz.de,https://duesseldorf.seat.de
+Autohaus Wilhelm Nielsen GmbH & Co. KG,SEAT,Bischheimer Str. 11,67292,Kirchheimbolanden,DE,49.66939,8.01992,06352-4001-0,seat@autohaus-nielsen.de,
+Autohaus Wildi oHG,SEAT,Planckstr. 1,88677,Markdorf,DE,47.71558,9.40081,07544-95150,seat@auto-wildi.de,https://wildi.seat.de
+Autohaus Jacob Fleischhauer GmbH & Co. KG,SEAT,Bornheimer Straße 206-220,53119,Bonn,DE,50.74,7.07639,0228-7264-0,service-bonn@fleischhauer.com,https://fleischhauer-bonn.seat.de
+Steinböhmer GmbH & Co. KG,SEAT,Jöllenbecker Str. 325,33613,Bielefeld,DE,52.0567,8.51784,0521-9865432,infoseat@steinboehmer.de,
+Auto & Service PIA GmbH,SEAT,Lechwiesenstraße 54,86899,Landsberg,DE,48.06933,10.85984,08191-91780,info.landsberg@autoundservice.de,https://autoservice-weilheim.seat.de
+Auto & Service PIA GmbH,SEAT,Olympiastraße 4-8,82362,Weilheim,DE,47.84551,11.14894,0881-604-0,info.weilheim@autoundservice.de,https://weilheim.seat.de
+Autohaus Konrad GmbH & Co. KG,SEAT,Sinziger Str. 13-15,53424,Remagen,DE,50.57288,7.23507,02642 90635-0,info@ah-konrad.de,https://ah-konrad.seat.de
+Ehrhardt AG Niederlassung Ilmenau,SEAT,Bücheloher Straße 15 - 17,98693,Ilmenau,DE,50.69111,10.94156,03677-4680-1351,seat.ilmenau@ah-ehrhardt.com,https://ilmenau.seat.de
+Autohaus Franz Harich GmbH & Co. KG,SEAT,Neue Balinger Straße 19,72336,Balingen,DE,48.29909,8.84522,07433-18610,frank.harich@autohaus-harich.de,
+Die Schneider Gruppe GmbH,SEAT,An der Feuerwache 1-3,09669,Frankenberg,DE,50.90369,13.02999,037206-8590,seat.frankenberg@dieschneidergruppe.de,https://schneidergruppefrankenberg.seat.de
+Autohaus Mohme & Piepho KG,SEAT,Kreuzbreite 3,31675,Bückeburg,DE,52.26479,9.06536,05722-89200,info@mohme-piepho.de,https://mopi.seat.de
+Autohaus Ostermaier GmbH,SEAT,Landshuter Straße 160,84307,Eggenfelden,DE,48.39906,12.7234,08721-50602-0,eggenfelden@ostermaier.de,
+Autohaus Südring GmbH,SEAT,Südring 2,31582,Nienburg,DE,52.62013,9.2012,05021-97620,seat@autohaus-suedring.de,https://suedring.seat.de
+MGS Motor Gruppe Sticht GmbH & Co. KG ,SEAT,Bismarckstraße 73-75,95444,Bayreuth,DE,49.93949,11.55858,0921-507205-0,seat@mgs-autozentrum.de,https://mgs.seat.de
+Fischer Automobile GmbH & Co. KG,SEAT,Juraallee 1 - 3,92289,Ursensollen,DE,49.4056,11.76478,09628-923760,seat.ursensollen@fischer-automobile.de,https://fischer.seat.de
+Autohaus Berglar GmbH,SEAT,Am Mondschein 31,59557,Lippstadt,DE,51.67224,8.37346,02941-5086,verwaltung_seat@berglar.com,https://berglar.seat.de
+Fischer Automobile GmbH,SEAT,Nürnberger Straße 45-47,92318,Neumarkt,DE,49.28941,11.43904,09181-4755-0,seat.fischer@fischer-automobile.de,https://fischer-automobile.seat.de
+AutoCenter Benz GmbH,SEAT,Biberacher Straße 64,88471,Laupheim,DE,48.22115,9.87827,07392-9723-0,mail@autocenter-benz.de,https://autocenter-benz.seat.de
+ATB Dieter Braun,SEAT,Harry-à-Wengen-Str. 1,75387,Neubulach,DE,48.65105,8.67487,07053-39294,info@autoteilebraun.de,https://braun.seat.de
+Auto-Häuser GmbH & Co. KG,SEAT,Gießener Straße 124,35415,Pohlheim,DE,50.54195,8.70623,06403-97979-0,info@autohaeuser-pohlheim.de,https://haeuser.seat.de
+Autohaus Vetter GmbH & Co KG,SEAT,Kronacher Straße 22,96332,Pressig,DE,50.34285,11.30504,09265-9950,vetter.pressig@autohaus-vetter.com,https://vetter.seat.de
+Autohaus Jacob Fleischhauer GmbH & Co. KG,SEAT,Europaplatz,52068,Aachen,DE,50.77973,6.10982,0241-51803-0,service-aachen@fleischhauer.com,https://aachen.seat.de
+Autohaus Jakob + Morweiser GmbH,SEAT,Forsthausstraße 18,68642,Bürstadt,DE,49.64802,8.46992,06206-98760,autohaus@morweiser.de,https://morweiser.seat.de
+Auto-Ringler-Service GmbH,SEAT,Bahnhofstraße 24,94081,Fürstenzell,DE,48.51914,13.31932,08502-91220,seat.fuerstenzell@auto-ringler.de,https://auto-ringler.seat.de
+Ehrhardt AG Niederlassung Eisfeld,SEAT,Hildburghäuser Straße 82,98673,Eisfeld,DE,50.41948,10.89279,03686-390616,seat.eisfeld@ah-ehrhardt.com,https://eisfeld.seat.de
+Auto Zolleis Inh. Helmut Zolleis,SEAT,Daimlerstraße 4A,91301,Forchheim,DE,49.70484,11.06194,09191-61690,info@zolleis.de,
+Auto Bierschneider GmbH,SEAT,Am Gewerbepark 10,93339,Riedenburg,DE,48.95794,11.70059,09442-9218-0,info.riedenburg@bierschneider.de,https://ah-bierschneider.seat.de
+Auto Weber Inh. M. Cerminara,SEAT,Alte Landstraße 12-14,85521,Ottobrunn,DE,48.07314,11.65492,089-60807770,skoda-seat-ottobrunn@gmx.de,
+Autohaus Eckernförde GmbH,SEAT,Noorstraße 28-32,24340,Eckernförde,DE,54.4727,9.82696,04351-71750,info@autohaus-eckernfoerde.de,https://ahe.seat.de
+BaderMainzl GmbH & Co. KG,SEAT,Äußere Münchner Straße 60,83026,Rosenheim,DE,47.84601,12.0899,08031-8706-0,rosenheim@badermainzl.de,
+Auto Hubert Schultes -  Service,SEAT,Friedrich-Krupp-Str. 7-9,52511,Geilenkirchen,DE,50.98185,6.11218,02451-72700,J.Schultes@auto-schultes.de,
+Schoch Automobile e.K.,SEAT,Ehinger Str. 10,88416,Ochsenhausen-Reinstetten,DE,48.11045,9.94428,07352-7273,info@schoch-automobile.de,
+Elspass Autoland GmbH & Co. KG,SEAT,Emmericher Str. 112,47138,Duisburg,DE,51.46815,6.79045,0203-429150,info@elspass.de,https://duisburg.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,Schimmelbuschstr. 1,40699,Erkrath,DE,51.21543,6.94453,02104-3001-0,seat.erkrath@gottfried-schultz.de,https://erkrath.seat.de
+Auto Bierschneider GmbH ,SEAT,Sulzweg 2,92360,Mühlhausen ,DE,49.16224,11.44754,09185-94000,info.mue@bierschneider.de,https://bierschneider-muehlhausen.seat.de
+Autohaus Louis Dresen GmbH,SEAT,Untergath 171,47805,Krefeld,DE,51.32019,6.58864,02151-80700,seat-krefeld@dresen.de,https://dresen-krefeld.seat.de
+Elspass Autoland GmbH & Co. KG,SEAT,Rheinberger Str. 193-195,47445,Moers,DE,51.47453,6.63244,02841 881111,info@elspass.de,https://elspass-autoland.seat.de
+Autohaus Meinhold GmbH,SEAT,Meinholdstraße 1,08209,Auerbach,DE,50.52169,12.38302,03744 18810,seat@autohaus-meinhold.de,
+Autohaus Hunzinger GmbH,SEAT,Bundesstraße 3,79426,Seefelden-Buggingen,DE,47.85629,7.63675,07634 550990,seat@autohaus-hunzinger.de,https://autohaus-hunzinger.seat.de
+Graf Hardenberg GmbH,SEAT,Hauptstr. 125,76344,Eggenstein,DE,49.07322,8.39228,0721 970470,eggenstein@grafhardenberg.de,
+Autohaus Hoff GmbH & Co. KG,SEAT,Urbacher Str. 8,53842,Troisdorf-Spich,DE,50.83395,7.10806,02241 951260,seatspich@ah-hoff.de,https://autohaus-hoff.seat.de/
+Tölke & Fischer GmbH & Co. KG,SEAT,Kempener Str. 90-92,47839,Krefeld-Hüls,DE,51.3694,6.49994,02151 988651,seat-huels@toefi.de,https://toelke-fischer-krefeld.seat.de
+Autohaus Lübbe GmbH,SEAT,Im Bulloh 40,29331,Lachendorf,DE,52.62989,10.23398,05145 9898 0,info@autohaus-luebbe.de,https://autohaus-luebbe.seat.de
+"Knubel GmbH & Co. KG, Zweigniederlassung Coesfeld",SEAT,Druffels Weg 91/91a,48653,Coesfeld,DE,51.93195,7.17147,02541 9484 0,service-coesfeld@knubel.de,https://coesfeld.seat.de
+Autohaus Seitz GmbH,SEAT,Siemensstraße 1,89257,Illertissen,DE,48.23231,10.10317,07303 9690 0,seat@seitz-illertissen.de,
+Hoppmann & Schneider GmbH,SEAT,Marburger Str. 16,57339,Erndtebrück,DE,50.98856,8.25949,02753-5941-0,seat.voelkel@hoppmann-autowelt.de,https://h-s-erndtebrueck.seat.de
+Auto-Tröndle GmbH & Co. KG,SEAT,Schaffhauser Str. 1,79865,Grafenhausen,DE,47.77519,8.25602,07748 929190,info@auto-troendle.de,https://troendle-grafenhausen.seat.de
+Autohaus Glinicke GmbH & Co. Vertriebs KG,SEAT,Mühlhäuser Landstr. 15,99947,Bad Langensalza,DE,51.11213,10.63949,03603 86100,kontakt@glinicke-bad-langensalza.de,https://autohaus-glinicke.seat.de
+Autohaus Huttenstrasse GmbH,SEAT,Huttenstraße 92,06110,Halle,DE,51.46337,11.98088,0345 48230,seat@autohaus-huttenstrasse.de,https://autohaus-huttenstrasse.seat.de
+Motor Center Heinen GmbH,SEAT,Kiebitzweg 1,58708,Menden,DE,51.4363,7.75459,02373 179090,menden@heinen-nrw.de,https://motor-center-heinen.seat.de
+Gohm + Graf Hardenberg GmbH,SEAT,Laubwaldstraße 6,78224,Singen,DE,47.75581,8.85661,07731-16991-0,info.cupra@grafhardenberg.de,https://singen.seat.de
+ABT Servicecenter GmbH,SEAT,Johann-Abt-Straße 2,87437,Kempten,DE,47.75367,10.32768,0831 57140 0,info@abt-sportsline.de,
+Coler GmbH & Co. KG,SEAT,Albersloher Weg 275,48155,Münster,DE,51.93647,7.65941,0251 6710 700,carservice@coler.de,
+Autohaus Sand am Main Gelder & Sorg GmbH,SEAT,Zeiler Str. 56,97522,Sand am Main,DE,49.99361,10.59028,09524 8225 0,seat-sand@gelderundsorg.de,
+Autohaus Raab GmbH,SEAT,Dr.-Joh.-Stark-Str. 8,92637,Weiden,DE,49.69229,12.13823,0961 670950,seat@autohaus-raab.de,https://auto-raab.seat.de
+Scherer GmbH & Co. KG,SEAT,Alliger Weg 24,56642,Kruft,DE,50.38929,7.3297,02652 9293-0,seat-kruft@scherer-gruppe.de,
+Walter Schneider GmbH & Co. KG,SEAT,Zur Brüche 2,57223,Kreuztal,DE,50.9593,8.02402,02732 5836 0,seat@walter-schneider.de,https://schneider-kreutztal.seat.de
+P.Jacobs Automobile GmbH - Krings Automobile,SEAT,Bundesstraße 91-93,52152,Simmerath,DE,50.60645,6.33126,02473927890,seat@krings-automobile.de,https://jacobs-automobile-simmerath.seat.de
+Auto-Center W & B GmbH,SEAT,Willy-Messerschmitt-Str. 12,73457,Essingen,DE,48.82053,10.0501,07365 9225533,info@autocenterwb.de,https://auto-center-wb.seat.de
+Autohaus Hoppe & Oppotsch GmbH,SEAT,Gut Rehorn 2,26180,Rastede,DE,53.25899,8.21594,04402 7222,info@hoppe-oppotsch.de,https://autohaus-hoppe-oppotsch.seat.de
+Volkswagen Automobile Frankfurt GmbH,SEAT,Offenbacher Straße 138,63263,Neu-Isenburg,DE,50.05361,8.70722,06102 73818000,terminvergabe.ni@volkswagen-frankfurt.de,https://automobile-frankfurt.seat.de
+Zemke Autohaus Bernau GmbH,SEAT,Am Heidering 27,16515,Oranienburg,DE,52.77471,13.25979,03301 8307 0,seat-oranienburg@zemke.de,https://www.zemke-oranienburg.seat.de
+Autohaus Fischer GmbH Triptis Betriebsstätte Oettersdorf,SEAT,Löhmaer Weg 43,07907,Oettersdorf,DE,50.60196,11.82562,03663 42433 0,seat.partner@fischer-oettersdorf.de,https://autohaus-oettersdorf.seat.de
+AUTO POINT GmbH,SEAT,Neue Schichtstraße 1,09366,Niederdorf bei Stollberg,DE,50.72273,12.78401,037296 5290,seat-partner@auto-point-stollberg.de,
+AUTO POINT GmbH,SEAT,Gewerbering 20,09456,Annaberg-Buchholz,DE,50.59966,13.02209,03733 6780180,seat-partner@auto-point-annaberg.de,
+Autohaus Koch GmbH,SEAT,Am Airport 1,12529,Schönefeld,DE,52.36876,13.47036,03379 444444,schoenefeld-seat@koch-ag.de,
+Auto Gorges GmbH,SEAT,Hans-Georg-Mettler-Straße 1,54497,Morbach,DE,49.79263,7.10672,06533 9383 0,info@auto-gorges.de,
+Autowelt Bolz GmbH & Co. KG,SEAT,Donatusstr. 101b,50259,Pulheim,DE,50.96196,6.79932,02234 202550,seat@autowelt-bolz.de,https://autowelt-bolz.seat.de
+Auto Lehmann GmbH & Co. KG,SEAT,Hausacher Str. 14,77793,Gutach,DE,48.28356,8.19158,07831 9695400,seat@vw-lehmann.de,https://auto-lehmann.seat.de
+Auto-Technik Dähne GmbH,SEAT,Münstersche Str. 1/4,14772,Brandenburg a.d.H.,DE,52.44078,12.52529,03381-2600-200,info-css@a-t-d.de,
+Auto-Zentrum Schwinn GmbH & Co. KG,SEAT,Im Flürchen 27,66571,Eppelborn,DE,49.41477,6.92399,06881 924860,seat@auto-zentrum-schwinn.de,https://auto-zentrum-schwinn.seat.de
+Auto Koch GmbH,SEAT,Herrenwiesenstr. 34,97980,Bad Mergentheim,DE,49.49731,9.76911,07931-97000,audi-mgh@koch-autogruppe.de,
+Hoppmann Automobil GmbH,SEAT,Bruchstr. 85,57462,Olpe,DE,51.01685,7.84029,02761 8268 0,info-olpe@hoppmann-autowelt.de,
+Autohaus Gebr. Schwarte Bünde GmbH,SEAT,Engerstraße 13+15,32257,Bünde,DE,52.18853,8.57522,05223 18590,seat.buende@autohaus-schwarte.de,https://schwarte-buende.seat.de
+Autohaus Spindler Kitzingen GmbH & Co.KG,SEAT,Mainstraße 45-51,97318,Kitzingen,DE,49.72361,10.16418,09321 3008 1000,seat-kt@spindler-gruppe.de,https://spindler-kitzingen.seat.de/
+Senger Holstein GmbH,SEAT,Hamburger Straße 85,23843,Bad Oldesloe,DE,53.8032,10.36303,04531 89990,info.bad-oldesloe@auto-senger.de,senger-holstein.seat.de
+Volkswagen Automobile Rhein-Neckar GmbH,SEAT,Viernheimer Straße 53-55,69469,Weinheim,DE,49.55627,8.65447,06201 989 0,info-weinheim@vw-arn.de,https://vw-weinheim.seat.de
+Autohaus an der B13 GmbH & Co. KG,SEAT,Heideckstr. 8,86633,Neuburg a.d. Donau,DE,48.72191,11.1925,08431 909460,info@autohausb13.de,
+bhg Autohandelsgesellschaft mbH,SEAT,Saline 8,78628,Rottweil,DE,48.14675,8.63731,0741/288-0,seat-rottweil@bhg-mobile.de,https://bhg-rottweil.seat.de/
+Motor-Nützel Vertriebs GmbH,SEAT,Fuhrmannstraße 25,95030,Hof,DE,50.30919,11.87346,09281-707130,seat-hof@motor-nuetzel.de,
+Autohaus Tatje GmbH & Co. KG,SEAT,Im Sandbrinke 14,31515,Steinhude,DE,52.451,9.35568,05033 8000,info@autohaus-tatje.de,https://autohaus-tatje.seat.de/
+Scherer GmbH & Co. KG,SEAT,Wieblinger Weg 99,69123,Heidelberg,DE,49.41075,8.64731,06221-84970,seat-heidelberg@scherer-gruppe.de,https://scherer-heidelberg.seat.de
+Auto Brugger GmbH,SEAT,Biberacher Straße 20,88436,Eberhardzell-Füramoos,DE,48.00012,9.89188,07358 96197 0,seat@auto-brugger.de,https://auto-brugger.seat.de
+PS Zentrum GmbH & Co. KG,SEAT,Laerstraße 16,33775,Versmold,DE,52.05268,8.14696,05423 204000,seat@ps-zentrum.de,https://ps-zentrum.seat.de
+Borgmann Automobilhändler GmbH,SEAT,Nassauer Ring 45,47803,Krefeld,DE,51.34361,6.56037,02151 7688 177,seat.info@borgmann-krefeld.de,https://borgmann-krefeld.seat.de
+Hahn Automobile GmbH & Co. KG,SEAT,Weissacher Str. 73,71522,Backnang,DE,48.9357,9.4475,07191 901 02,seat.backnang@hahn-automobile.de,
+Autohaus Käsmann GmbH,SEAT,Industriestr. 1a,74821,Mosbach,DE,49.34282,9.12055,06261 9282 0,seat@kaesmann.de,kaesmann.seat.de
+ACS Vetter GmbH,SEAT,Schreberstr. 43,96515,Sonneberg,DE,50.34412,11.16877,03675-89090,vetter.sonneberg@autohaus-vetter.com,
+Autohaus Feser-Heise GmbH,SEAT,Heidestr. 75,06842,Dessau-Roßlau,DE,51.8185,12.2421,0340 87010,seat-dessau@feser-graf.de,https://feser-dessau-rosslau.seat.de
+"Knubel GmbH & Co. KG, Zweigniederlassung Beckum",SEAT,Neubeckumer Str. 74c,59269,Beckum,DE,51.76737,8.04216,02521 9399 0,service-beckum@knubel.de,https://beckum.seat.de
+Gottfried Schultz Vertrieb GmbH & Co. KG,SEAT,Weststraße 1,58089,Hagen,DE,51.38716,7.44352,02331 309100,seat_41@gottfried-schultz.de,
+Atzert & Weber Autowelt Fulda GmbH & Co. KG,SEAT,Leipziger Straße 151,36039,Fulda,DE,50.57026,9.69549,0661 6007 0,seat.fulda-vwz@atzert-weber.de,https://autowelt-fulda.seat.de
+Autohaus Gebr. Schwarte Leer GmbH,SEAT,Hauptstraße 79,26789,Leer,DE,53.235,7.4777,0491 977777,seat.leer@autohaus-schwarte.de,https://schwarte-leer.seat.de
+Auto Koch-Nölscher GmbH,SEAT,Rothenburgerstr. 3,91610,Lohr / Insingen,DE,49.32701,10.16766,09861 9500 0,audi-lohr@koch-autogruppe.de,
+Löhr Auto SZ GmbH,SEAT,Rheinallee 195,55120,Mainz,DE,50.02534,8.22864,06131 96222 0,info.szm@loehrgruppe.de,https://loehr-mainz.seat.de
+Autohaus Freising Schowalter GmbH & Co. Autohandels-KG ,SEAT,Haggertystr. 8,85356,Freising,DE,48.39647,11.77069,08161 9999 0,seat@autohaus-schowalter.de,https://autohaus-freising.seat.de
+Odendahl & Heise GmbH,SEAT,Robert-Perthel-Straße 65-69,50739,Köln,DE,50.98921,6.90767,0221 957400 0,seat@odendahl-heise.de,https://odendahl-heise.seat.de
+Autohaus Claas GmbH,SEAT,Hauptstraße 165-167,51399,Burscheid,DE,51.08646,7.10016,02174 7845 0,seat@claas.lauer-suewer.de,https://claas.seat.de
+Ernst Müller Autohaus GmbH & Co KG,SEAT,Messkircher Str. 39,88512,Mengen,DE,48.04378,9.32065,07572 76660,post@muellerautohaus.de,https://ernst-mueller.seat.de/
+Emil Frey Sehner Automobile GmbH,SEAT,Ravensburger Straße 13,88214,Ravensburg,DE,47.7668,9.60068,0751 76090,info.ravensburg@emilfrey-sehner.de,https://emil-frey-sehner.seat.de
+Auto Caspers Inh. Theo Klünter e.K.,SEAT,Hauptstrasse 54,54587,Birgel,DE,50.31663,6.62706,06597 686,info@auto-caspers.de,
+Zemke Autohaus Bernau GmbH,SEAT,Schwanebecker Chaussee 21b,16321,Bernau bei Berlin,DE,52.67069,13.58452,03338 3699 0,seat-bernau@zemke.de,https://www.zemke-bernau.seat.de/
+Autohaus Schmidt GmbH,SEAT,Am Sachsenring 1,09337,Bernsdorf,DE,50.78663,12.68444,03723 6960 0,seat@schmidt-sachsenring.de,
+Hoppmann & Schneider GmbH,SEAT,Berliner Str. 45,35683,Dillenburg,DE,50.72434,8.29329,02771-8972-0,seat-cupra-dillenburg@hoppmann-autowelt.de,https://h-s-dillenburg.seat.de
+Löhr Automobile GmbH,SEAT,Bitburgerstraße 4,54550,Daun,DE,50.19723,6.81595,06592 9684 0,info.lad@loehrgruppe.de,https://loehr-automobile.seat.de
+Betken & Potthoff GmbH,SEAT,Gewerbepark 36,59069,Hamm,DE,51.62219,7.85425,02385 1755,seat@betkenundpotthoff.de,https://betken-potthoff.seat.de
+Autohaus Brass Vertriebs GmbH & Co. KG,SEAT,Auweg 1,63920,Großheubach,DE,49.7116,9.24069,09371-40300,info.grossheubach@brass-gruppe.de,https://brass-grossheubach.seat.de/
+Autohaus Rengstl GmbH,SEAT,Industriestr. 3,93342,Saal / Donau,DE,48.90576,11.92639,09441 174740,info@autohaus-rengstl.de,autohaus.rengstl.seat.de
+Autohaus am Steinheimer Tor GmbH,SEAT,Am Steinheimer Tor 4,63450,Hanau,DE,50.12844,8.91451,06181 42828 0,info@seat-hanau.com,https://steinheimer-tor.seat.de
+Autohaus Wunderlich e.K.,SEAT,Bismarckstr. 18,12169,Berlin,DE,52.45555,13.33855,030 7948860,seat-st@autohaus-wunderlich.de,
+AUTO POINT GmbH,SEAT,Neefestrasse 90,09116,Chemnitz,DE,50.81832,12.88605,0371 369970,seat-partner@auto-point-chemnitz.de,
+Emil Schmolck GmbH,SEAT,Am Elzdamm 2,79312,Emmendingen,DE,48.11062,7.85243,07641 4602 500,seat@schmolck.de,https://schmolck-emmendingen.seat.de
+Autohaus Bataille GmbH,SEAT,An der Vogelstange 93b,52428,Jülich,DE,50.90914,6.35912,02461 93750,seat-cupra@autohaus-bataille.de,
+Autohaus Weber GmbH,SEAT,Friedrich-Schmelzer-Str. 5,39340,Haldensleben,DE,52.28459,11.43052,03904 725910,info@autos-weber.de,
+bhg Autohandelsgesellschaft mbH,SEAT,Straßburger Str. 11,77694,Kehl,DE,48.57617,7.81941,07851 892 100,seat-kehl@bhg-mobile.de,https://bhg-kehl.seat.de
+Autohaus Elitzsch GmbH,SEAT,Riesstraße 2,01471,Radeburg,DE,51.2031,13.73064,035208 9620,seat-rabu@auto-elitzsch.de,https://radeburg.elitzsch.seat.de
+bhg Autohandelsgesellschaft mbH,SEAT,Europastraße 57,72072,Tübingen,DE,48.50952,9.04283,07071/79760-0,seat-tuebingen22340@bhg-mobile.de,https://bhg-tuebingen.seat.de/
+Friedrich Hoffmann GmbH & Co. KG,SEAT,Wickersdorfer Ring 6,35099,Burgwald-Bottendorf,DE,51.03522,8.80878,06451 23020 0,Seat22391@friedrich-hoffmann.de,https://hoffmann-burgwald-bottendorf.seat.de
+Mense GmbH,SEAT,Hüttenbrink 204,33332,Gütersloh,DE,51.89457,8.45079,05241 9302500,seat@autohaus-mense.de,https://mense-gmbh.seat.de/
+Autohaus Parente GmbH,SEAT,Grafenbergweg 6,73614,Schorndorf,DE,48.81157,9.51713,07181 4829720,seat@autohaus-parente.de,https://autohaus-parente.seat.de
+Waldhausen & Bürkel Viersen GmbH & Co. KG,SEAT,Viersener Straße 135,41751,Viersen,DE,51.25495,6.34983,02162-48194-0,seat-viersen@waldhausen-buerkel.de,https://w-b-viersen.seat.de/
+Autohaus Ostmann GmbH & Co. KG,SEAT,Im Wehrengrund 1,34560,Fritzlar,DE,51.14182,9.27638,05622 79799 10,kundendienst-seat-fz@autohaus-ostmann.de,https://autohaus-ostmann.seat.de
+bhg Autohandelsgesellschaft mbH,SEAT,Vimbucher Str. 82-84,77815,Bühl,DE,48.72402,8.11263,07223 9888 0,seat-buehl@bhg-mobile.de,https://bhg-buehl.seat.de
+Deisenroth & Söhne GmbH & Co. KG,SEAT,Kreuzgrundweg 12,36100,Petersberg,DE,50.55716,9.72624,06652-96900,seat.alsfeld@autohaus-deisenroth.de,https://deisenroth-soehne-fulda.seat.de
+Koch-BAG-Auto GmbH,SEAT,In der Au 4,73479,Ellwangen,DE,48.95386,10.11847,07961 9030 0,vw-elw@koch-autogruppe.de,
+Zemke Autohaus Bernau GmbH,SEAT,Magistrale 2-4,16244,Schorfheide,DE,52.84875,13.68996,03335 45090,seat@zemke.de,https://zemke-autohaus.seat.de/
+Automobil Zentrum Leverkusen GmbH & Co. KG,SEAT,Willy-Brandt-Ring 10,51373,Leverkusen,DE,51.02186,6.9954,02171-70726,info@seat-leverkusen.de,https://leverkusen.seat.de
+Autozentrum Josten GmbH & Co. KG,SEAT,Niederstraße 7,40789,Monheim,DE,51.09947,6.88963,02173-109490,monheim@auto-josten.de,https://josten-monheim.seat.de
+Autohaus Ost GmbH,SEAT,Klausdorfer Weg 173,24148,Kiel,DE,54.31774,10.18018,0431-720830,info@autohaus-ost.de,https://ost.seat.de
+Willi's Autohof GmbH & Co. KG,SEAT,Rathsbergstraße 79,90411,Nürnberg,DE,49.49065,11.10323,0911-519670,info@willisautohof.vapn.de,https://willi.seat.de
+Auto Schirra GmbH,SEAT,Losheimer Str. 9-11,66663,Merzig,DE,49.44696,6.65416,06861-1313,info-autoschirra@web.de,https://schirra-merzig.seat.de
+Auto Bierschneider GmbH,SEAT,Kelheimer Straße 35-37,92339,Beilngries,DE,49.02775,11.48703,08461-64240,info.beilngries@bierschneider.de,https://bierschneider.seat.de
+Auto & Service PIA GmbH,SEAT,Seeshaupter Str. 19,82377,Penzberg,DE,47.7601,11.36837,08856-9090,info.penzberg@autoundservice.de,https://penzberg.seat.de
+Autohaus Ostermaier GmbH,SEAT,Landshuter Str. 9,84137,Vilsbiburg,DE,48.4488,12.3515,08741-9256-0,VerkaufSeat@ostermaier.de,https://autos.seat.de/
+Autohaus Schlögl GmbH & Co. KG,SEAT,Trostberger Str. 1+3,83301,Traunreut,DE,47.96138,12.60639,08669-50910,service@schloegl.de,
+Autohaus Gartner GmbH & Co. KG,SEAT,Rosenheimer Str. 22,83549,Eiselfing,DE,48.03754,12.23914,08071-92030,seat@autohaus-gartner.de,https://gartner.seat.de
+Autohaus Eberstein GmbH,SEAT,Zum Fruchthof 3,21614,Buxtehude,DE,53.4708,9.67044,04161-7087-70,info-seat@autohaus-eberstein.de,https://autohaus-eberstein.seat.de
+Auto  Pielmeier Inh. Pielmeier,SEAT,Wiedenhof 1,93167,Falkenstein,DE,49.1216,12.45866,09462-706,auto-pielmeier@t-online.de,
+Vohburger Autohaus GmbH & Co. KG,SEAT,Regensburger Straße 30,85088,Vohburg,DE,48.76869,11.62364,08457-929611,w.linder@vohburger-autohaus.de,https://vohburger-autohaus.seat.de
+Autohaus Müller Paunsdorf GmbH,SEAT,Schongauer Str. 29,04328,Leipzig,DE,51.34857,12.47315,0341-2587540,info@automobile-mueller.info,https://mueller-paunsdorf.seat.de
+Maschek Weiden GmbH & Co. KG,SEAT,Etzenrichter Straße 1,92637,Weiden,DE,49.65251,12.14124,0961-4708 800,info@rsz-stegmann.de,https://maschek-automobile-weiden.seat.de
+Ehrhardt AG Niederlassung Suhl,SEAT,Auenstraße 3 - 5,98529,Suhl,DE,50.60767,10.68218,03681-4552-2330,seat.suhl@ah-ehrhardt.com,https://suhl.seat.de
+Gotta Automobile GmbH & Co. KG,SEAT,Frankfurter Landstr. 4 - 6,64546,Mörfelden-Walldorf,DE,49.99904,8.58749,06105-96120,info@gotta-automobile.de,https://gotta-automobile.seat.de
+Autohaus Ladurner GmbH,SEAT,Faulenbachstraße 2,78532,Tuttlingen,DE,47.98933,8.79192,07461-12011,info@autohaus-ladurner.de,https://ladurner.seat.de
+Autozentrum Dobler GmbH,SEAT,Industriestraße 30,75417,Mühlacker,DE,48.95261,8.85185,07041-96640,info@autozentrum-dobler.de,https://autozentrum-dobler.seat.de
+Die Schneider Gruppe GmbH,SEAT,Müllerstr. 33,09113,Chemnitz,DE,50.84491,12.91923,0371-45000-1000,seat.chemnitz@dieschneidergruppe.de,https://schneidergruppechemnitz.seat.de
+Autohaus Michael GmbH & Co. KG,SEAT,Holstenhofweg 55,22043,Hamburg,DE,53.57398,10.10374,040-65690060,service@autohaus-michael.de,https://michael.seat.de
+Arndt und Büdenbender GmbH,SEAT,Bilsteiner Straße 3,57462,Olpe,DE,51.03538,7.85604,02761-82750,info@arndt-autohaus.de,https://autohaus-arndt.seat.de
+MGS Motorgruppe Sachsen GmbH & Co. KG,SEAT,Fischhausstraße 15,01099,Dresden,DE,51.07086,13.78874,0351-8119960,info@mgs-sachsen.de,https://elbkontor.seat.de
+Autohaus M. Meyer GmbH,SEAT,Am Moor 1,21629,Neu Wulmstorf OT Elstorf,DE,53.42901,9.78172,04168-91250,info@meyer-elstorf.de,https://meyer.seat.de
+Autohaus Scheel GmbH,SEAT,Hans-Böckler-Ring 1,22851,Norderstedt,DE,53.69297,10.04881,040-5248556,info@autohausscheel.de,
+Auto Zentrum Nürnberg - Feser GmbH,SEAT,Heisterstraße 6 - 10,90441,Nürnberg,DE,49.42686,11.06185,0911-42360,info@Seat-nuernberg.com,https://feser-nuernberg.seat.de
+Autohaus Stiglmayr GmbH,SEAT,Augsburger Straße 47,86529,Schrobenhausen,DE,48.55021,11.25963,08252-88730,info@stiglmayr-sob.de,https://stiglmayr.seat.de
+Auto-Park Vetter GmbH,SEAT,Wildbaderstr. 55,75394,Oberreichenbach,DE,48.7339,8.66324,07051 968683,autopark-vetter@web.de,https://autopark-vetter.seat.de
+Autopark Hackerott GmbH & Co. Handels- u. Service KG,SEAT,Lüneburger Straße 22,30880,Laatzen,DE,52.29568,9.82564,05102-89038-0,service-laatzen@hackerott.de,https://hackerott-laatzen.seat.de
+MGS Motor Gruppe Sticht GmbH & Co. KG,SEAT,Dr. Hans Bunte Straße 1,95632,Wunsiedel,DE,50.03411,11.99084,09232-9944-0,seat@mgs-autozentrum.de,https://mgs-wunsiedel.seat.de
+Auto Treml GmbH,SEAT,Moosweg 7,94249,Bodenmais,DE,49.0779,13.07304,09924-902280,auto-treml@t-online.de,
+Seitz Autohandels- GmbH + Co. KG,SEAT,Ludwigstr. 78a,87437,Kempten,DE,47.71335,10.31184,0831-6972360,seat@autohaus-seitz.de,https://seitz.seat.de
+Hahn Automobile GmbH + Co. KG,SEAT,Ottostr. 6,73734,Esslingen,DE,48.73757,9.29407,0711-93848-100,seat.esslingen@hahn-automobile.de,https://hahn-automobile-esslingen.seat.de
+Auto und Spaß,SEAT,Almer Feldweg 39,59929,Brilon,DE,51.39822,8.57494,02961-972244,info@autoundspass.de,https://autoundspass.seat.de
+Autohaus Marnet GmbH & Co. KG,SEAT,Aufhausener Str. 23 + 25,89520,Heidenheim,DE,48.71398,10.15895,07321 918910,seat-heidenheim@marnet.de,
+Horst Büchner Automobile GmbH,SEAT,Ringstraße 2,02727,Neugersdorf,DE,50.97962,14.62651,03586-77440,seat-neugersdorf@ambestenbuechner.de,https://autohaus-fehrmann.seat.de
+Autohaus Scherhag GmbH,SEAT,In der Laach 76,56072,Koblenz,DE,50.35199,7.55106,0261-404080,info@Scherhag.de,
+MTS Automobile GmbH,SEAT,Ottostr. 6,61169,Friedberg,DE,50.34649,8.75447,06031-1880-0,seat-friedberg@mts-mobile.de,https://mts-mobile-fb.seat.de
+Automobile Basdorf GmbH,SEAT,Alfred-Zingler-Straße 3,45881,Gelsenkirchen,DE,51.53755,7.0743,0209-940400,kd-service@automobile-basdorf.de,
+Autohaus Diehl GmbH ,SEAT,Steubenstraße 1,35576,Wetzlar,DE,50.57168,8.49644,06441 37760,seat@auto-diehl.de,
+Schwaba GmbH Schwaba Autocenter,SEAT,Neuburger Str. 135-139,86167,Augsburg,DE,48.38853,10.91559,0821-700130,info.autocenter@schwaba.de,https://schwaba.seat.de
+AUTO POINT GmbH,SEAT,Nordstraße 4,09648,Altmittweida,DE,50.96793,12.97944,03727 99773,seat-partner@auto-point-mittweida.de,
+Autohaus Michael Bohnes,SEAT,Hein.-A.-Schulte-Str. 22,44147,Dortmund,DE,51.52013,7.43331,0231-5844844-0,info@autohaus-bohnes.de,https://bohnes.seat.de
+Autohaus Holst GmbH,SEAT,Vareler Weg 60-64,27383,Scheeßel,DE,53.17988,9.4913,04263 306 0,seat@autohaus-holst.de,https://autohaus-holst.seat.de
+Volkswagen Automobile Hannover GmbH,SEAT,Rudolf-Petzold-Ring 1,31275,Lehrte,DE,52.39546,9.97274,05132 5006-0,info_lehrte@vw-arh.de,https://seat-service-hannover.seat.de
+Müfit Automobile GmbH,SEAT,Berliner Ring 20,64625,Bensheim ,DE,49.66989,8.60702,06251-67776,info@muefit-automobile.de,https://muefit.seat.de/services
+Zander Automobile GmbH,SEAT,Vorwaldstraße 1a,94575,Otterskirchen,DE,48.62081,13.29355,08546-973190,info@autohaus-zander.de,https://zander.seat.de
+Wagner + Schmid Automobile GmbH,SEAT,Lange Str. 61,01587,Riesa,DE,51.30353,13.26797,03525-50220,info@wagner-und-schmid.de,https://wagner-schmid.seat.de
+Autohaus Schandert GmbH,SEAT,Dresdener Str. 41,06886,Lutherstadt Wittenberg,DE,51.86449,12.68808,03491-7696-0,seat.wittenberg@auto-schandert.de,https://auto-schandert-lutherstadt.seat.de
+Autohaus Ostmann Melsungen GmbH,SEAT,Nürnberger Str. 52-54,34212,Melsungen,DE,51.12117,9.53716,05661-7055-0,info-meg@autohaus-ostmann.de,https://seat-carpoint-melsungen.seat.de
+Autohaus Evers GmbH & Co. KG,SEAT,Kaiser-Wilhelm-Str. 70,46395,Bocholt,DE,51.82555,6.61484,02871 217 660,seat.boh@evers-auto.de,https://evers-bocholt.seat.de/
+Ulrich Senger GmbH - Service,SEAT,Lingener Damm 1,48429,Rheine,DE,52.28826,7.43957,05971-7910-2561,mail@auto-senger.de,https://rheine.seat.de
+Auto Bierschneider GmbH,SEAT,Alois-Senefelder-Str. 17,92318,Neumarkt,DE,49.25831,11.44048,09181 32020,seat.nm@bierschneider.de,https://bierschneider-neumarkt.seat.de/
+Franke Automobile GmbH & Co. KG,SEAT,Dresdner Straße 42,09599,Freiberg,DE,50.91527,13.35799,03731 678-200,kontakt@franke-auto.de,
+Auto König GmbH & Co. KG,SEAT,Dillinger Str. 47b,86609,Donauwörth,DE,48.71795,10.76464,0906 70635 0,infodonaudi@autokoenig.de,https://auto-koenig.seat.de/
+Jacobs Automobile Heinsberg GmbH Zweigstelle Erkelenz,SEAT,Krefelder Str. 2,41812,Erkelenz,DE,51.07694,6.30797,02431 977730,info@jacobs-erkelenz.de,https://jacobs-automobile-erkelenz.seat.de
+Autohaus Feser-Heise GmbH,SEAT,Prosigker Kreisstraße 9,06366,Köthen,DE,51.74129,11.99638,0340 87010,seat-koethen@feser-graf.de,
+Gottfried Schultz Automobil Solingen GmbH & Co. KG,SEAT,Kuller Str. 16,42651,Solingen,DE,51.18118,7.08332,0212 54640,seat_44@gottfried-schultz.de,
+Autohaus Heerdegen GmbH,SEAT,Ilmenauer Landstraße 22,98693,Ilmenau,DE,50.7114,10.97418,036785-58585,info@autohaus-heerdegen.de,https://heerdegen.seat.de
+Auto & Service PIA GmbH München West,SEAT,Landsberger Str. 230,80687,München,DE,48.14252,11.51293,089-897029-2300,info.west@autoundservice.de,https://muenchen-west.seat.de
+Löhr Automobile Vertriebs GmbH,SEAT,Bergerwiesenstr. 4,53340,Meckenheim,DE,50.63681,7.01995,02225-8897-0,seat.ahk@loehrgruppe.de,https://meckenheim.seat.de
+Auto-Technik Dähne GmbH,SEAT,Carl-Reichstein-Straße 37,14770,Brandenburg,DE,52.41492,12.50403,03381-33540,info-bs@a-t-d.de,https://auto-technik.seat.de
+ATB Autotechnik GmbH Bamberg-Schweinfurt ,SEAT,Kärntenstraße 13,96052,Bamberg,DE,49.91334,10.89937,0951-40629-0,dispo@autotechnik-bamberg.de,https://atb.seat.de
+EF S Automobile GmbH,SEAT,Felix-Wankel-Straße 40,70794,Filderstadt,DE,48.67742,9.19559,0711-709770,info@autozentrum-leypoldt.de,
+Elspass Autoland GmbH & Co. KG,SEAT,K.H.-Klingen-Straße 106,46539,Dinslaken,DE,51.56299,6.75448,02064-60090,info@elspass.de,https://dinslaken.seat.de
+Auto Epple Erich Epple GmbH,SEAT,Renninger Straße 24,71277,Rutesheim,DE,48.80738,8.94209,07152-9933-0,info@auto-epple.com,https://epple-rutesheim.seat.de
+Autohaus Robert Köhler GmbH,SEAT,Heeserstraße 56,57072,Siegen,DE,50.88019,8.02456,0271-3846250,info@koehler-seat.de,https://ahkoehler.seat.de
+Automobilwelt Eifel-Mosel GmbH,SEAT,Dieselstraße 18,54634,Bitburg,DE,49.95082,6.53202,06561-6004-800,mail@eifelmosel.de,
+Autohaus Weeber GmbH,SEAT,Raistinger Str. 43,71083,Herrenberg,DE,48.58951,8.85621,07032-2790-0,info-hbg-seat@autohaus-weeber.de,https://ah-weeber-hbg.seat.de
+Autohaus Bäumer GmbH,SEAT,Gutenbergstraße 27,49479,Ibbenbüren,DE,52.25935,7.72618,05451-50910,th.baeumer@autohaus-baeumer.de,https://baeumer.seat.de
+Autohaus Lehmann GmbH,SEAT,Zörbiger Straße 49a,06749,Bitterfeld-Wolfen,DE,51.62396,12.29497,03493-37630,autohaus-lehmann@t-online.de,https://lehmann.seat.de
+Auto Bierschneider GmbH,SEAT,Nürnberger Straße 40,91781,Weißenburg,DE,49.03817,10.97122,09141-85990,seat.weissenburg@bierschneider.de,https://bierschneider-weissenburg.seat.de
+Auto Bierschneider GmbH,SEAT,Prüller Weg 5,93055,Regensburg,DE,48.99254,12.12488,0941-785328-0,info.regensburg@bierschneider.de,https://auto-bierschneider.seat.de
+Tix Automobile GmbH,SEAT,Monaiser Straße 3,54294,Trier,DE,49.72175,6.59044,0651-966500,info@tix.de,https://tix.seat.de
+Autohaus Vetter Vertriebsgesellschaft mbh,SEAT,Ludwigsstädter Str. 8,96317,Kronach,DE,50.24949,11.31906,09261-60140,vetter.kronach@autohaus-vetter.com,
+Autohaus Hermann Klein GmbH & Co. KG,SEAT,Niedervellmarsche Str. 25 a,34233,Fuldatal,DE,51.35078,9.52023,0561-8103-0,info@autohaus-klein.de,https://autohaus-klein.seat.de
+Ehrhardt AG NL Weimar,SEAT,Nordstr. 8,99427,Weimar,DE,51.00001,11.32606,03643-771090,seat.weimar@ah-ehrhardt.com,https://weimar.seat.de
+Auto Götz GmbH,SEAT,Moosweg 14,92318,Neumarkt,DE,49.25862,11.45453,09181-40616-0,neumarkt@auto-goetz.de,
+Autohaus Claas Penning GmbH,SEAT,Westersteder Str. 6 -14a,26340,Zetel OT Neuenburg,DE,53.38745,7.95275,04452-91200,info@autohaus-penning.de,https://penning.seat.de
+Feser-Graf Roth GmbH,SEAT,Fuggerstraße 4,91154,Roth,DE,49.24802,11.10807,09171-849-0,seat.roth@feser-graf.de,https://feser-joachim.seat.de
+Autohaus Boullier GmbH Betriebsstätte Löhne,SEAT,Brückenstraße 96,32584,Löhne,DE,52.21489,8.75975,05731-74740,info@boullier.de,https://boullier.seat.de
+Automobilecenter Schmid GmbH,SEAT,Industriestraße 30,85072,Eichstätt,DE,48.88038,11.20615,08421-97650,Florian.Schmid@automobilecenter-schmid.de,https://automobilecenter-schmid.seat.de
+Scherer GmbH & Co. KG,SEAT,Koblenzer Straße 103,55469,Simmern,DE,49.99279,7.52709,06761-83425,seat.simmern@scherer-gruppe.de,https://scherer-simmern.seat.de
+Autohaus Cordes GmbH & Co. KG,SEAT,Harburger Straße 89/91,21680,Stade,DE,53.59058,9.48618,04141-60780,buchhaltung@autohaus-cordes.de,https://autohaus-cordes.seat.de
+Autohaus Anton Ortner GmbH & Co. KG,SEAT,Weilheimer Straße 18,82418,Murnau,DE,47.68377,11.20412,08841-610061,murnau@ortner-gruppe.de,https://ortner.seat.de
+Feser-Biemann Baiersdorf GmbH,SEAT,Industriestraße 5,91083,Baiersdorf,DE,49.66045,11.0397,09133-4755-0,juergen.baumann@de687050.vapn.de,
+Gauch GmbH,SEAT,Zielstrasse 2-4,68169,Mannheim,DE,49.51131,8.46896,0621-30944-0,gauch@gauch.de,https://gauch.seat.de
+Jürgen Schultes Automobile GmbH - Verkauf,SEAT,Friedrich-Krupp-Str. 7-9,52511,Geilenkirchen,DE,50.98185,6.11218,02451-72700,J.Schultes@auto-Schultes.de,https://schultes.seat.de
+Glinicke Automobile Baunatal GmbH & Co. KG,SEAT,Porschestraße 2-8,34225,Baunatal,DE,51.26071,9.42452,0561-499010,seat.baunatal@glinicke.de,https://glinicke.seat.de
+Braasch GmbH & Co. KG,SEAT,Bremer Heerstr. 1,26135,Oldenburg,DE,53.12948,8.22972,0441-21010-700,seat@seat-braasch.de,https://braasch.seat.de
+Leiting Automobile GmbH,SEAT,Van-den-Bergh-Straße 63-65,47533,Kleve,DE,51.79031,6.15376,02821-970730,info@leiting-automobile.de,https://leiting-automobile-kleve.seat.de
+Autohaus Feicht GmbH ,SEAT,Münchener Straße 39,85540,Haar,DE,48.11115,11.71418,089-453037-0,info@feicht.de,https://feicht.seat.de
+Auto Bierschneider GmbH,SEAT,Lehengütingen 23a,91626,Schopfloch ,DE,49.10769,10.30576,09857-9777-0,info.schopfloch@bierschneider.de,https://bierschneider-schopfloch.seat.de
+Autohaus Kühn e.K.,SEAT,Industriestraße 10,76470,Ötigheim,DE,48.88363,8.24146,07222-7748630,info@seat-Kuehn.de,https://kuehn.seat.de
+Feser Lauf GmbH ,SEAT,Industriestr. 15-17,91207,Lauf a.d. Pegnitz,DE,49.50224,11.29022,09123-9401-200,info@feser-lauf.de,https://feser-lauf.seat.de
+Auto Hortz Inh. Wilhelm Josef Hortz,SEAT,Großenbaumer Allee 77-87,47269,Duisburg,DE,51.37082,6.7796,0203-710600,auto.hortz@auto-hortz.de,
+Autohaus Berolina GmbH,SEAT,Brunsbütteler Damm 50,13581,Berlin,DE,52.53478,13.18986,030-338009-0,info@autohaus-berolina.de,https://berolina-automeile.seat.de
+Autohaus Seitz GmbH ,SEAT,Brahmsstraße 3,87700,Memmingen ,DE,47.99724,10.19737,08331-920090,seat@seitz-memmingen.de,https://autohaus-seitz.seat.de
+Autozentrum Nord GmbH,SEAT,Liebigstr. 3,24941,Flensburg,DE,54.76974,9.42701,0461-902050,info.seat@azf-gruppe.de,https://flensburg.seat.de
+Ehrhardt AG NL Leipzig ,SEAT,Essener Str. 34,04129,Leipzig,DE,51.37631,12.39275,0341-9406344-0,seat.leipzig@ah-ehrhardt.com,https://leipzig.seat.de
+CarUnion HESS GmbH,SEAT,Blaue Liede 1,36282,Hauneck,DE,50.84978,9.72734,06621-5109020,bad-hersfeld@carunion.de,https://carunion-hess.seat.de
+ABB AH Görlitz GmbH ,SEAT,Nieskyer Str. 913,02828,Görlitz ,DE,51.17326,14.96668,03581-3824-0,steffen.rost@autohausgoerlitz.de,https://autohausgoerlitz.seat.de
+Seitz GmbH,SEAT,Gaußstraße 4,88250,Weingarten,DE,47.81901,9.64187,0751 56096-0,kontakt@seitz-weingarten.de,https://seitz-weingarten.seat.de
+Automobilgruppe Harz-Leine GmbH,SEAT,Bornhardtstraße 6,38644,Goslar,DE,51.92385,10.41725,05321 5704 0,seat-goslar@wentorf-schenkhut.de,https://wus-goslar.seat.de/
+Autohaus Burger GmbH & Co. KG,SEAT,Ehinger Straße 17 + 21-25,89143,Blaubeuren,DE,48.40347,9.77925,07344-9600-0,info@autohaus-burger.de,https://autohaus-burger.seat.de
+Autohaus Elmshorn GmbH & Co. KG,SEAT,Farmers Ring 2-6,25337,Kölln-Reisiek,DE,53.74874,9.69663,04121-2650200,seat@autohaus-elmshorn.de,elmshorn.seat.de
+Auto Zellmann GmbH,SEAT,Rudower Straße 25-29,12524,Berlin,DE,52.42252,13.52867,030-679721-0,seat@auto-zellmann.de,
+Motor-Nützel Vertriebs-GmbH,SEAT,Kärntenstr. 9/11,96052,Bamberg,DE,49.91284,10.90009,0951 94222-200,seat-bamberg@motor-nuetzel.de,https://bamberg.seat.de
+Automobilgruppe Harz-Leine GmbH,SEAT,Harztor 19,37154,Northeim,DE,51.70703,10.00864,05551-70070,seat@autohaus-am-harztor.de,
+Herrmann & Langer GmbH,SEAT,Gewerbepark 11,15745,Wildau,DE,52.31942,13.59831,03375-529390,wildau@herrmann-langer.de,https://herrmann-langer-wildau.seat.de
+Autohaus Muldental GmbH Grimma,SEAT,Leipziger Straße 93,04668,Grimma,DE,51.23156,12.70557,03437 9899-0,seat@ah-mtl.de,
+Autohaus Gebr. Schwarte GmbH & Co. KG,SEAT,Lingener Str. 89,49716,Meppen,DE,52.68298,7.29927,05931-9799-0,seat.meppen@autohaus-schwarte.de,https://schwarte-meppen.seat.de
+Lenz GmbH - Ihr Autohaus,SEAT,Friedrichsdorfer Landstr. 38,69412,Eberbach,DE,49.47057,8.99458,06271 92180,lenz-ihr-autohaus@seatpartner.de,https://lenz-eberbach.seat.de
+Autohaus Ostmann GmbH & Co. KG,SEAT,Ippinghäuser Straße 10,34466,Wolfhagen,DE,51.32336,9.17291,05692-9876-300,seat@autohaus-ostmann.de,https://carpoint.seat.de
+Autohaus Bema GmbH,SEAT,Muggenhofer Str. 172,90429,Nürnberg,DE,49.46246,11.02808,0911-615550,inhaber@bema-auto.de,https://bema-auto.seat.de
+Autohaus Koch GmbH - Service,SEAT,Weinbergsweg 23,14974,Ludwigsfelde,DE,52.29367,13.27373,03378- 86440,seat.ludwigsfelde41965@koch-ag.de,
+Auto Kirfel GmbH,SEAT,Altenaer Straße 222,58513,Lüdenscheid,DE,51.25266,7.62735,02351-99660,info@Seat-Kirfel.de,
+Auto König GmbH & Co. KG,SEAT,Augsburger Str. 48,86720,Nördlingen,DE,48.84364,10.50325,09081 29520,infonoerdlingen@autokoenig.de,https://koenig-noerdlingen.seat.de/
+AR Auto Roth GmbH,SEAT,Karl-Bold-Straße 2,77855,Achern,DE,48.63732,8.05353,07841 60000,cupra-seat@auto-roth.de,https://roth-archern.seat.de/
+Autohaus Johann Pfaller,SEAT,Mörlach A 27,91161,Hilpoltstein,DE,49.2009,11.25114,09174-47810,info@autohaus-pfaller.de,https://pfaller.seat.de
+BaderMainzl GmbH & Co. KG,SEAT,Münchener Str. 20/23,83620,Feldkirchen,DE,47.9107,11.83925,08063-810980,seat-skoda@badermainzl.de,https://badermainzl.seat.de
+Senger Bielefeld GmbH,SEAT,Herforder Str. 136,33609,Bielefeld,DE,52.03387,8.54708,0521-260360,seat@wenger-parschau.de,https://wup.seat.de
+Marc Zyrull GmbH ,SEAT,Fasanenallee 48,66740,Saarlouis,DE,49.31552,6.73144,06831-894140,info@autohaus-zyrull.de,https://zyrull.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,Uellendahler Str. 245,42109,Wuppertal,DE,51.27621,7.15296,0202 2757 0,seat_40@gottfried-schultz.de,https://schultz-wuppertal.seat.de
+Autohaus Manfred Knappe GmbH & Co. KG,SEAT,Rupertistr. 30,83278,Traunstein,DE,47.86402,12.62911,0861-989840,Kontakt@seat-knappe.de,https://knappe.seat.de
+Autohaus Alsbach Bayram GmbH,SEAT,Sandwiesenstr. 29-30,64665,Alsbach-Hähnlein,DE,49.73821,8.60023,06257-93230,dispo@autohaus-alsbach.de,https://bayram.seat.de
+Auto - Restle GmbH,SEAT,Malaienstr. 1,88630,Pfullendorf-Denkingen,DE,47.89257,9.3096,07552-4000060,info@auto-restle.de,https://restle.seat.de
+Autohaus Schäfer  Inh. Philipp Schäfer e.K. ,SEAT,Leppermühle 2,37297,Berkatal-Frankershsn.,DE,51.23162,9.92942,05657-1088,philipp.schaefer@autohausschaefer.info,https://schaefer.seat.de
+Auto Tibi GmbH,SEAT,Wiedengrün 1,79206,Breisach,DE,48.0381,7.57216,07667-948880,info@autotibi.de,https://autotibi.seat.de
+Autohaus Melzer e.K.,SEAT,Burgstädter Straße 22,09212,Limbach-Oberfrohna,DE,50.86452,12.77221,0371 77428100,seat.46521@autohaus-melzer.de,
+Autohaus Lossburg GmbH,SEAT,Freudenstädter Str. 16,72290,Lossburg,DE,48.41634,8.44696,07446-1600,info@ahlossburg.de,https://ahlossburg.seat.de
+Martin Eppich GmbH,SEAT,Am Bahnhof 10,83483,Bischofswiesen,DE,47.64995,12.96127,08652-63444,info@m-eppich.de,https://eppich.seat.de
+Auto-Köhler GmbH & Co. KG,SEAT,Max-Spenger-Str. 11,84048,Mainburg,DE,48.65225,11.77672,08751 8670 0,seat@auto-koehler.de,https://auto-koehler.seat.de/
+Autohaus Metz GmbH,SEAT,Heisterberger Weg 3,35767,Breitscheid,DE,50.6643,8.17284,02777-8110-0,info@autohaus-metz.de,https://autohaus-metz.seat.de
+GFB Auto-Service GmbH,SEAT,Arzbacher Str. 71,56130,Bad Ems,DE,50.3457,7.72003,02603-13001,info@gfb-seat.de,https://gfb.seat.de
+Autohaus Kobia GmbH,SEAT,Robert-Mayer-Str. 12,74889,Sinsheim,DE,49.25536,8.86404,07261-9752100,Autohaus@kobia.de,https://kobia.seat.de
+Knubel GmbH & Co. KG,SEAT,August-Horch-Str. 15,48157,Münster,DE,51.99539,7.66597,0251 92 800 0,service-muenster-nord@knubel.de,https://knubel-muenster.seat.de
+Autohaus Haag - Zweigniederlassung der Autohaus Ebersberg GmbH & Co. KG,SEAT,Münchener Str. 46,83527,Haag,DE,48.16372,12.16938,08072 37555 0,info@autohaus-haag.de,https://autohaus-haag.seat.de
+"Autohaus Neumaier, Inh. Dominik Fruhmann Berger",SEAT,Im Gewerbegebiet 4,93458,Eschlkam,DE,49.29654,12.90408,09948-94040,info@seat-neumaier.de,https://neumaier.seat.de
+Autohaus Bopp,SEAT,Leinweiler Str. 15,73579,Schechingen,DE,48.87337,9.92196,07175-7477,info@autohaus-bopp.de,https://bopp.seat.de
+Knubel GmbH & Co. KG,SEAT,Saerbecker Str. 151,48268,Greven,DE,52.11533,7.61243,02571 9311 0,service-knubel-greven@knubel.de,https://knubel-greven.seat.de
+Friedrich Hoffmann GmbH & Co. KG,SEAT,Warsteiner Str. 50,59872,Meschede,DE,51.35348,8.28237,0291 9966 0,Seat48615@friedrich-hoffmann.de,https://hoffmann-meschede.seat.de
+Auto Emotion GmbH & Co. KG,SEAT,Sprendlinger Landstr. 166,63069,Offenbach am Main,DE,50.08644,8.74748,069-832002,verwaltung@auto-emotion.de,https://auto-emotion.seat.de
+Autohaus Fuhrmann e.K.,SEAT,Hansestr. 20,29525,Uelzen,DE,52.99256,10.54065,0581-77044,info@seat-uelzen.de,https://f-u-r.seat.de
+Autohaus Franz Lutz GmbH & Co. KG,SEAT,Höchstadter Str. 15,96172,Mühlhausen,DE,49.75103,10.77418,09548-92310,seat@seat-lutz.com,https://lutz.seat.de
+"Auto Röhr Grafenau, Ndl. der Erich Röhr GmbH & Co. KG",SEAT,Frauenberg 13,94481,Grafenau,DE,48.8564,13.38545,08552 96500,seat@auto-roehr-grafenau.de,https://auto-roehr.seat.de
+Deisenroth & Söhne GmbH & Co. KG,SEAT,Schwabenröder Str. 64,36304,Alsfeld,DE,50.76069,9.26765,06631-796-0,seat.alsfeld@autohaus-deisenroth.de,https://deisenroth-soehne-alsfeld.seat.de
+Graf Hardenberg GmbH & Co. KG,SEAT,Dreyspringstrasse 19,77933,Lahr,DE,48.33685,7.86022,07821 5800 0,seat-lahr@grafhardenberg.de,https://grafhardenberg-lahr.seat.de
+"Knubel GmbH & Co. KG, Zweigniederlassung Stadtlohn",SEAT,Mühlenstraße 45,48703,Stadtlohn,DE,51.99671,6.9145,02563 9343 0,service-stadtlohn@knubel.de,https://stadtlohn.seat.de
+Autopark Hackerott GmbH & Co. Handels- u. Service KG,SEAT,Kokenhorststr. 6,30938,Burgwedel,DE,52.48926,9.84145,05139 9700650,burgwedel@hackerott.de,https://hackerott-burgwedel.seat.de
+Dannacker & Laudien GmbH,SEAT,Universitätsallee 13,21335,Lüneburg,DE,53.22431,10.40504,04131-744400,seat.lueneburg@maz-gruppe.de,https://autozentrum-uelzener-strasse.seat.de
+C.Thomsen GmbH,SEAT,Carl-Zeiss-Str. 2,25524,Itzehoe,DE,53.92312,9.50726,04821-888330,itzehoe-mail@auto-thomsen.de,https://thomsen-itzehoe.seat.de
+Autohaus von der Weppen GmbH & Co. KG,SEAT,Neckarsulmerstr. 87,74076,Heilbronn,DE,49.15607,9.22406,07131-1583-0,seat@von-der-weppen.de,https://von-der-weppen.seat.de
+Autohaus Brütsch GmbH,SEAT,Gottlieb-Daimler-Str 19,78224,Singen,DE,47.75392,8.88291,07731-90980,gl@bruetsch-gruppe.de,https://bruetsch.seat.de
+AVP Autoland GmbH & Co.KG - Verkauf,SEAT,Dr.-Wandinger-Str. 3 c,94447,Plattling ,DE,48.78554,12.84706,09931-7090,seat-plattling@avp-autoland.de,https://plattling.seat.de
+"Scherer GmbH & Co. KG, Homburg",SEAT,Auf der Windschnorr 47,66459,Kirkel,DE,49.30829,7.2749,06841-9810-0,ServiceInfo.KIR@scherer-gruppe.de,https://scherer-kirkel.seat.de
+Grassow's Automobile GmbH ,SEAT,Am Langendorfer Berg 43,18442,Langendorf/Stralsund,DE,54.30028,13.02364,03831 35798-200,seat@autowelt-grassow.de,https://grassow.seat.de
+Autohaus Hartmann GmbH,SEAT,Zum Kaiserbusch 25,48165,Münster,DE,51.91106,7.68668,0251-618070,info@autowelt-hartmann.de,https://autowelt-hartmann.seat.de
+Autohaus Brass GmbH & Co. KG,SEAT,Erbacher Straße 90,64739,Höchst im Odenwald,DE,49.79424,9.00012,06163 9342 0,seat.obernburg@brass-gruppe.de,https://brass-hoechst.seat.de/
+Autohaus Moure GmbH,SEAT,Gottlieb-Daimler-Str. 3,86830,Schwabmünchen,DE,48.19824,10.76444,08232-959000,seat.moure@autohaus-moure.de,https://moure.seat.de
+Auto Bauer GmbH,SEAT,Georg-Mayr-Str. 17-19,97828,Marktheidenfeld,DE,49.85123,9.5997,09391/9898-0,info@auto-bauer.org,https://autohausbauer.seat.de
+MTS Automobile GmbH,SEAT,Robert-Bosch-Str. 24,61267,Neu-Anspach,DE,50.2927,8.5115,06081-58290-0,Neu-Anspach-Seat@mts-mobile.de,
+Auto Kölbl GmbH - Service,SEAT,Michael-Kölbl-Str. 1-3,85716,Unterschleißheim,DE,48.28318,11.57583,089-317758-0,seatpartner@autokoelbl.de,https://autokoelbl.seat.de
+Auto Thomas GmbH,SEAT,Am Mürel 18,53945,Blankenheim,DE,50.44964,6.66581,02449-91970,seat-blankenheim@auto-thomas.de,https://auto-thomas-blankenheim.seat.de
+Karl Thiel GmbH & Co. KG,SEAT,Marienloher Str. 60,33104,Paderborn,DE,51.74244,8.72933,05254-9761-0,seat@thiel-gruppe.de,https://thiel.seat.de
+Autohaus Gerstenmaier GmbH,SEAT,Bäumbachallee 6,76571,Gaggenau,DE,48.79994,8.3112,07225-9689-0,seat-gaggenau@gerstenmaier.com,https://gerstenmaier.seat.de
+Autohaus Schneider GmbH,SEAT,Amperstraße 1,84130,Dingolfing,DE,48.63977,12.48309,08731-3254866,dingolfing@seat-schneider.de,https://ah-schneider-dingolfing.seat.de
+Georg Breitschwert GmbH & Co. KG,SEAT,Nürnberger Str. 25,91560,Heilsbronn,DE,49.34183,10.79718,09872-97160,service@breitschwert.de,https://breitschwert.seat.de
+Feser Breitschwert GmbH,SEAT,Im Herrmannshof 23,91595,Burgoberbach,DE,49.23952,10.60353,09805-93398-80,seat.ansbach@feser-graf.de,https://burgoberbach.seat.de
+Auto Östringer GmbH,SEAT,Hauptstr. 2,76684,Östringen,DE,49.21496,8.69851,07253-9270-0,seat@auto-oestringer.de,https://auto-oestringer.seat.de
+Maschek Automobile GmbH & Co. KG,SEAT,Gewerbepark 4,92442,Wackersdorf,DE,49.30977,12.16008,09431-75888-30,seat@maschek-automobile.de,https://maschek.seat.de
+Heinrich Thomas GmbH & Co. KG,SEAT,Königswinterer Str. 444,53227,Bonn,DE,50.72215,7.15383,0228-44910,seat-bonn@auto-thomas.de,https://auto-thomas-bonn.seat.de
+Hans Westkamp GmbH & Co. KG,SEAT,Kölner Str. 199-201,50226,Frechen,DE,50.91393,6.83178,02234-95781-0,buero@westkamp.com,https://westkamp.seat.de
+Autohaus Amann GmbH,SEAT,Bundesstraße 14,79780,Stühlingen,DE,47.74908,8.45532,07744-477,service@ahamann.de,https://autohaus-amann.seat.de
+Scherer GmbH & Co. KG,SEAT,Willy-Brandt-Allee 2,55411,Bingen,DE,49.92358,7.93843,06721-91810,seat-bingen@scherer-gruppe.de,https://scherer-bingen.seat.de
+Autohaus Elitzsch GmbH,SEAT,Straße A 1,02977,Hoyerswerda,DE,51.42958,14.27772,03571-48048-01,seat@auto-elitzsch.de,https://elitzsch.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,"Nevigeser Straße 151, 161, 163",42553,Velbert,DE,51.32184,7.06199,02053 491200,seat_25@gottfried-schultz.de,https://velbert.seat.de
+Autohaus Wiegand Gelnhausen GmbH,SEAT,Am Spitalacker 6,63571,Gelnhausen,DE,50.20584,9.16555,06051-92910,info.gelnhausen@auto-wiegand.de,https://wiegand-gelnhausen.seat.de
+Ehrhardt AG NL Meiningen,SEAT,Landsberger Str. 2 a,98617,Meiningen,DE,50.57557,10.41238,03693-71470,seat.meiningen@ah-ehrhardt.com,https://meiningen.seat.de
+Die Schneider Gruppe GmbH     ,SEAT,Häuersteig 23,09599,Freiberg,DE,50.89722,13.33056,03731-78600,seat.freiberg@dieschneidergruppe.de,schneidergruppefreiberg.seat.de
+Volkswagen Automobile Berlin GmbH - CUPRA Garage Berlin,SEAT,Prenzlauer Promenade 46,13089,Berlin,DE,52.56056,13.43105,030-8908-2200,info.cupra-garage@vw-ab.de,https://berlin.seat.de
+Volkswagen Automobile Stuttgart GmbH,SEAT,Wangener Str. 66,70188,Stuttgart,DE,48.78096,9.22627,0711-4602-0,Backoffice.Wan@vw-as.de,
+Schmidt + Koch GmbH,SEAT,Stresemannstraße 122,27576,Bremerhaven,DE,53.55676,8.59417,0471 594-0,seat.72@schmidt-und-koch.de,https://schmidt-und-koch.seat.de/
+Autohaus Roth GmbH & Co. KG,SEAT,Hachenburger Straße 46,57567,Daaden,DE,50.73249,7.96544,02743 9229 0,info@autohaus-roth.de,
+Autohaus Schragl KG,SEAT,Nebelhornstraße 4,87719,Mindelheim,DE,48.03652,10.49948,08261 99140,seat@schragl.de,https://schragl.seat.de/
+AWUS mobile GmbH & Co. KG,SEAT,Schweriner Straße 31,23970,Wismar,DE,53.87959,11.45554,03841 7400 0,seat-wismar@awus-mobile.de,
+Autohaus Schlesiger GmbH,SEAT,Landweg 1,06526,Sangerhausen,DE,51.46585,11.2713,03464 27 32 13,autohaus@autohaus-schlesiger.de,https://autohaus-schlesiger.seat.de
+Scherer GmbH & Co. KG,SEAT,Hohe Straße 1-19,68526,Ladenburg,DE,49.48396,8.59463,06203 9291 0,seat-ladenburg@scherer-gruppe.de,https://scherer-ladenburg.seat.de/
+Autohaus Ehingen GmbH,SEAT,Schlechtenfelder Straße 2,89584,Ehingen,DE,48.28231,9.70986,07391-70500,info@ehingen-autohaus.de,https://autohaus-ehingen.seat.de
+Motor-Nützel Vertriebs-GmbH,SEAT,Gottlieb-Daimler-Str. 5,95666,Mitterteich,DE,49.93664,12.22914,09633 92010,seat-mitterteich@motor-nuetzel.de,https://mitterteich.seat.de
+Autohaus Ostermaier GmbH,SEAT,Teplitzer Straße 25,84478,Waldkraiburg,DE,48.21143,12.41582,08638-9502100,seat.wkb@ostermaier.de,
+VHG Rittersbacher GmbH,SEAT,Pariser Straße 201,67663,Kaiserslautern,DE,49.44129,7.74469,0631-32020,seat-KL@rittersbacher.de,
+Schnurrer Autocenter GmbH,SEAT,Kirchenlamitzer Str. 108,95213,Münchberg,DE,50.18857,11.80137,09251-43011,seat.mail@schnurrer.de,https://schnurrer.seat.de
+Autohaus Schneider e.K. ,SEAT,Ingolstädter Straße 2,84030,Landshut,DE,48.56149,12.13685,0871-931560,Seat-Landshut@seat-schneider.de,https://schneider-landshut.seat.de
+Rauch Partner der Wiest Autohäuser GmbH,SEAT,Bürstädter Str. 112,68623,Lampertheim,DE,49.60635,8.46616,06206 94380,seat@autohaus-rauch.de,https://autohaus-rauch.seat.de
+Autohaus Ebersberg GmbH & Co. KG,SEAT,Gewerbepark Nordost 1-4,85560,Ebersberg,DE,48.09528,11.96525,08092-82910,seat-cupra@autohaus-ebersberg.de,https://ah-ebersberg.seat.de
+Autohaus Lecki e.K.,SEAT,Felicitasstraße 3,44263,Dortmund,DE,51.48341,7.48724,0231-436089,autohaus.lecki@t-online.de,https://lecki.seat.de
+Otteni & Strauß GmbH,SEAT,Von-Drais-Str. 30,77855,Achern,DE,48.63787,8.05754,07841-1666,otteni-strauss@t-online.de,https://otteni-strauss.seat.de
+Autohof Reimers GmbH,SEAT,An der Mühlenau 3+7,25421,Pinneberg,DE,53.65703,9.79419,04101-490894,seat-pinneberg@autohof-reimers.de,https://reimers.seat.de
+Autohaus Bahlinger GmbH,SEAT,Gutenbergstraße 4,76761,Rülzheim,DE,49.14913,8.29817,07272-919389,bahlinger-fahrzeuge@t-online.de,https://bahlinger.seat.de
+Auto Baumer oHG,SEAT,Weinbergweg 1,93309,Kelheim,DE,48.91963,11.88192,09441-2055-0,info@auto-baumer.de,https://auto-baumer.seat.de
+Auto-Scholz AHG Ingo GmbH & Co. KG,SEAT,Manchinger Str. 80,85053,Ingolstadt,DE,48.75306,11.45054,0951 9333 305,seat-service@volkswagen-ingolstadt.de,https://auto-scholz.seat.de
+Auto-Forum Bassgeige GmbH,SEAT,Alte Heerstraße 7,38644,Goslar,DE,51.92792,10.41935,05321-65667,info@seat-goslar.de,https://autoforum-bassgeige-goslar.seat.de
+Autohaus Jörg Beilfuß e.K.,SEAT,Im Haderwald 16,67661,Kaiserslautern,DE,49.43178,7.68255,0631-5344530,Seat-Autohaus-Beilfuss@t-online.de,https://auto-beilfuss.seat.de
+Hahn Automobile GmbH u. Co. KG,SEAT,Apfelallee 33-35,70825,Korntal-Münchingen,DE,48.82874,9.12761,0711-83639-0,seat.korntal@hahn-automobile.de,
+Autohaus Heilmann GmbH,SEAT,Emscherstrasse 36,45891,Gelsenkirchen,DE,51.54558,7.07942,0209-95860,info@auto-heilmann.de,https://autohaus-heilmann.seat.de
+Autohaus Melzer e.K.,SEAT,Am Erlenwald 3,09128,Chemnitz,DE,50.78795,12.99356,0371 77428100,seat.54500@autohaus-melzer.de,
+Autohaus von der Weppen GmbH & Co. KG,SEAT,Hohlweg 18,74821,Mosbach,DE,49.33027,9.10639,06261-675830,mosbach@von-der-weppen.de,https://autohausvonderweppen.seat.de
+Autohaus Stratmann GmbH & Co. KG,SEAT,Unterkirchen 17-19,42349,Wuppertal,DE,51.2029,7.1302,0202-475118,info@autohaus-stratmann.de,https://autohaus-stratmann.seat.de
+Schuler + Eisner GmbH & Co. KG,SEAT,Hauptstr. 3,97456,Dittelbrunn,DE,50.07001,10.22323,09721-74250,dittelbrunn@schuler-eisner.de,https://dittelbrunn-schuler-eisner.seat.de
+Auto Stock GmbH&Co.KG,SEAT,Freisinger Str. 73,85221,Dachau,DE,48.26981,11.43935,08131-36590,info@autostock-dachau.de,https://stock.seat.de
+Seitz + Mayr GmbH & Co. KG,SEAT,Illerstrasse 19,87527,Sonthofen,DE,47.52235,10.26299,08321 66560,seat@seitz-mayr.de,
+Autohaus Jordt Automobil Handelsgesellschaft mbH,SEAT,St.-Jürgener-Str. 52,24837,Schleswig,DE,54.53135,9.57496,04621 9544 0,info@autohausjordt.de,https://autohaus-jordt.seat.de
+Laas Automobile GmbH & Co. KG,SEAT,Waller Straße 18,38179,Schwülper,DE,52.3519,10.4579,05303-95020,seat-cupra@laas-automobile.de,https://laas-automobile.seat.de
+Gregor Tillmann GmbH,SEAT,Walther-Rathenau-Ring 2-4,59581,Warstein-Belecke,DE,51.49856,8.40897,02902-978680,info@autohaus-tillmann.de,https://tillmann.seat.de
+P. Jacobs Automobile GmbH,SEAT,Nordstr. 152,52353,Düren,DE,50.83361,6.45707,02421 91230,seat@wolff-meier-automobile.de,https://jacobs-automobile-dueren.seat.de
+"Autohaus Schneider, Inh. Klaus Schneider",SEAT,Moosburger Str. 21,85459,Berglern-Erding,DE,48.39583,11.92165,08762-3397,berglern@seat-schneider.de,https://schneider-berglern.seat.de
+Autohaus Wilken GmbH & Co. KG,SEAT,Hermann-Körner-Str. 56,21465,Reinbek,DE,53.52358,10.2438,040-57002640,service@seat-wilken.de,https://wilken.seat.de
+Autohaus Holzberg GmbH,SEAT,Hamburger Str. 23,38114,Braunschweig,DE,52.27668,10.51971,0531-388180,info@autohaus-holzberg.de,https://holzberg.seat.de
+Autohaus Minrath GmbH & Co. KG - Verkauf,SEAT,Am Jostenhof 14,47441,Moers,DE,51.45482,6.60819,02841-99824775,seat.mail@minrath.de,https://ahminrath.seat.de
+Autohaus Buddensiek GmbH,SEAT,K.-Adenauer-Str. 43,31737,Rinteln,DE,52.19692,9.08912,05751-76680,info@autohaus-buddensiek.de,https://buddensiek.seat.de
+Autohaus Behren GmbH,SEAT,Metastraße 1,56579,Rengsdorf,DE,50.51237,7.48472,02634-96840,info@autobehren.com,https://autobehren.seat.de
+Autohaus Petri GmbH,SEAT,Casteller Straße 95 a,65719,Hofheim/Taunus,DE,50.05794,8.41219,06192-5181,seat@ah-petri.de,https://petri-hofheim.seat.de/
+Auto-Winzer GmbH,SEAT,Bahnhofstraße 112,79618,Rheinfelden,DE,47.54644,7.73815,07623-47500,auto-winzer@web.de,https://winzer.seat.de
+Autohaus Kurz GmbH,SEAT,Haller Straße 48,73494,Rosenberg,DE,49.02109,10.0254,07967-505,mail@kurz-rosenberg.de,
+Autohaus Rost Auto-Forum GmbH & Co. KG,SEAT,Rendsburger Str. 199-203,24537,Neumünster,DE,54.0917,9.97397,04321-90700,h.rost@autohaus-rost.com,https://autohaus-rost.seat.de
+Autohaus Christiäner GmbH & Co. KG,SEAT,Espenhof 4,49549,Ladbergen,DE,52.14672,7.73672,05485-93770,buchhaltung@christiaener.de,https://christiaener.seat.de
+Autohaus Minrath GmbH & Co. KG - Service,SEAT,Rheinberger Straße 46+61,47441,Moers,DE,51.45738,6.62866,02841-99824775,seat.service@minrath.de,https://ahminrath.seat.de
+Auto-Hör GmbH,SEAT,Mierendorffstraße 5,69469,Weinheim,DE,49.54582,8.66,06201-99020,info@auto-hoer.de,https://hoer.seat.de
+Autohaus Streit GmbH,SEAT,Nordheimer Str. 10A,97645,Ostheim / Rhön,DE,50.45921,10.22335,09777-91660,info@ah-streit.com,https://streit.seat.de/
+Autohaus Zellhuber e.K.,SEAT,Simbacher Straße 49,84524,Neuötting,DE,48.24054,12.70549,08671-88440,geschaeftsleitung@autohaus-zellhuber.de,https://zellhuber.seat.de
+Autohaus Westend Goßler GmbH & Co. KG,SEAT,Westendstr. 219,80686,München,DE,48.13107,11.51938,089 578373 0,seat@autohaus-westend.de,https://autohaus-westend.seat.de
+Automobiltechnik Stüwe GmbH,SEAT,Reichshofstraße 198a,58239,Schwerte,DE,51.41762,7.51842,02304-67771,Automobiltechnik-Stuewe@t-online.de,https://stuewe.seat.de
+Autowelt Bader GmbH & Co. KG,SEAT,Hans-Urmiller-Ring 40,82515,Wolfratshausen,DE,47.90066,11.42865,08171 1609100,cupra-seat.wor@autowelt-bader.de,
+Autohaus Andreas Ball,SEAT,Bahnhofstraße 45,76744,Wörth,DE,49.04687,8.27238,07271-7042,info@autohaus-ball.de,https://ball.seat.de
+Autohaus Schlögl GmbH,SEAT,Salzgäßle 6,89197,Weidenstetten,DE,48.55505,9.99886,07340-96600,verkauf@autohaus-schloegl.de,https://autohaus-schloegl.seat.de
+Friedrich Hoffmann GmbH & Co. KG,SEAT,Westenfelder Str. 20,59846,Sundern,DE,51.3255,8.03833,02933 9768 0,Seat48631@friedrich-hoffmann.de,https://hoffmann-sundern.seat.de
+Autohaus Spratter e.K.,SEAT,Bodenseestraße 277,81249,München,DE,48.14195,11.41964,089-897041-0,info@autohaus-spratter.de,https://spratter.seat.de
+Autohaus Kleinschlömer GmbH,SEAT,Am Rübenmorgen 9,35582,Wetzlar,DE,50.5636,8.60835,0641-23059,info@kleinschloemer.de,https://kleinschloemer.seat.de
+Autohaus Korte & Meyer GmbH & Co. KG,SEAT,Leinenkamp 2,27299,Langwedel-Daverden,DE,52.98879,9.17898,04232-93090,info@seatkortemeyer.de,https://km.seat.de
+Autohaus Gebr. Schwarte GmbH & Co. KG,SEAT,Lingener Str. 1a,49740,Haselünne,DE,52.66915,7.48618,05961 94600,seat.haseluenne@autohaus-schwarte.de,https:/schwarte-haseluenne.seat.de
+"""Rasch"" Automobile GmbH",SEAT,Daimlerstraße 14,49661,Cloppenburg,DE,52.84064,8.07358,04471-961-300,info@rasch-automobile.de,https://rasch.seat.de
+Autohaus Rausch GmbH,SEAT,Umgehungsstraße 41,36341,Lauterbach,DE,50.6428,9.39429,06641-9626-0,info@autohaus-rausch.com,
+FRANCAR Automobile GmbH,SEAT,Vierlingstraße 32,67227,Frankenthal,DE,49.54148,8.35221,06233-32798-0,peter.henzel@autohaus-henzel.de,
+Autopark Hackerott GmbH & Co. Handels- u. Service KG,SEAT,Schulenburger Landstr. 73,30165,Hannover,DE,52.40145,9.71183,0511-38814930,service-hannover@hackerott.de,https://hackerott.seat.de
+Volkswagenzentrum Osnabrück GmbH & Co. KG,SEAT,Blumenhaller Weg 153,49078,Osnabrück,DE,52.26404,8.01039,0541-40441-0,info@starke-autos.de,https://auto-prima.seat.de
+"Autohaus del Sol, Zweign. der Volkswagen Zentrum Karlsruhe GmbH",SEAT,Gottesauer Straße 6,76131,Karlsruhe,DE,49.0082,8.41629,0721-3840-0,autohausdelsol@grafhardenberg.de,https://autohaus-delsol.seat.de
+Automobilgruppe Harz-Leine GmbH,SEAT,Lasfelder Straße 1,37520,Osterode,DE,51.74014,10.22853,05522-95080,seat@wentorf-schenkhut.de,https://wus.seat.de
+Erich Röhr GmbH & Co. KG,SEAT,Spitalhofstraße 61/70,94032,Passau,DE,48.56975,13.43195,0851 70060,seat@volkswagen-zentrum-passau.de,https://erich-roehr.seat.de
+Glinicke Automobile Lübbecke GmbH & Co. KG,SEAT,Rahdener Straße 57,32312,Lübbecke,DE,52.31452,8.61573,05741-7250,info@seatschneider.de,https://schneider.seat.de
+Autohaus Stenger GmbH,SEAT,Banfetalstraße 57,57334,Bad Laasphe-Banfe,DE,50.91789,8.3582,02752-47520,info@autohaus-stenger.de,https://stenger.seat.de
+Held & Ströhle GmbH & Co. KG,SEAT,Memminger Str. 67,89231,Neu-Ulm,DE,48.38517,10.0031,0731-80170,info.seat@held-stroehle.de,https://held-stroehle.seat.de
+Hahn Automobile GmbH + Co. KG,SEAT,Fabrikstraße 3,73061,Ebersbach,DE,48.71666,9.53688,0711 5777 0,seat.ebersbach@hahn-automobile.de,
+Deisenroth & Söhne GmbH & Co. KG,SEAT,Am Ölberg 24,36304,Alsfeld,DE,50.75454,9.26239,06631-7960,seat.alsfeld@autohaus-deisenroth.de,https://deisenroth-alsfeld.seat.de
+Hahn Automobile GmbH + Co. KG,SEAT,Leibnizstraße 1,70806,Kornwestheim,DE,48.86727,9.19831,07154 816110,seat.kornwestheim@hahn-automobile.de,https://hahn-kornwestheim.seat.de
+Autohaus Spindler Kreuzwertheim GmbH & Co. KG,SEAT,Haslocher Str. 23,97892,Kreuzwertheim,DE,49.7695,9.51255,0934 292500,seat-kwh@spindler-gruppe.de,https://spindler-kreuzwertheim.seat.de/
+AVP Autoland GmbH & Co.KG - Service,SEAT,Dr.-Wandinger-Straße 7,94447,Plattling,DE,48.78691,12.84877,09931 7090,seat-plattling@avp-autoland.de,
+Koch Mobile GmbH - Verkauf,SEAT,Herrenwiesenstraße 31,97980,Bad Mergentheim,DE,49.49628,9.76869,07931-97000,seat-mgh@koch-autogruppe.de,https://koch-mobile-bad-mergentheim.seat.de/
+Ehrhardt AG,SEAT,Dr.-Hans-Popp-Str. 2,96515,Sonneberg,DE,50.34655,11.21898,03675 4094 0,seat.sonneberg@ah-ehrhardt.com,https://ehrhardt-sonneberg.seat.de/services
+Tiemeyer automobile GmbH & Co. KG - Verkauf,SEAT,Trecknase 15,42897,Remscheid,DE,51.18046,7.25164,02191-9640-0,seat.remscheid@tiemeyer.de,https://tiemeyer-remscheid.seat.de
+Autohaus an der B13 GmbH & Co. KG ,SEAT,Münchener Str. 29,85123,Karlskron,DE,48.69328,11.45532,08450 9270 0,info@autohausb13.de,https://autohausb13.seat.de
+Petschallies Ahrensburg GmbH,SEAT,Gänseberg 7,22926,Ahrensburg,DE,53.67789,10.24848,04102-49090,ahrensburg@petschallies.de,https://petschallies-ahrensburg.seat.de
+Auto-Center Weber GmbH & Co. KG,SEAT,Zum Apelstein 3,04158,Leipzig,DE,51.39353,12.34257,0341 461090,seat-lindenthal@auto-center-weber.de,
+Orth Automobile GmbH,SEAT,Rudolfstr. 5,65510,Idstein,DE,50.22424,8.25528,06126 401000,seat@orth-automobile.de,orth-automobile-idstein.seat.de
+Autohaus Werndl GmbH & Co.,SEAT,Haager Straße 5,81671,München,DE,48.12705,11.6084,089 450 619 0,seat@autohaus-werndl.de,https://autohaus-werndl.seat.de
+Volkswagen Automobile Frankfurt GmbH,SEAT,Hügelstraße 21,60435,Frankfurt,DE,50.14913,8.67758,069 8700 167000,seat.eck@volkswagen-frankfurt.de,https://frankfurt.seat.de/
+Starke Georgsmarienhütte GmbH & Co. KG,SEAT,Topsloh 2-6,49124,Georgsmarienhütte,DE,52.19388,8.0712,05401 4809 0,service.abteilung@huelsmannundtegeler.de,https://starke-gmh.seat.de
+Amann GmbH & Co. KG,SEAT,Ostbahnstraße 130,91217,Hersbruck,DE,49.49903,11.4261,09151 3113,online@amann-hersbruck.de,
+Autohaus Marnet GmbH & Co. KG,SEAT,Frankfurter Straße 72,65520,Bad Camberg,DE,50.29374,8.2702,06434 9159 0,seat-badcamberg@marnet.de,https://marnet-badcamberg.seat.de/
+Tiemeyer automobile GmbH & Co. KG,SEAT,Hügelstraße 1a,45899,Gelsenkirchen,DE,51.54362,7.03107,0209-95717-0,info.seatgelsenkirchen@tiemeyer.de,https://tiemeyer-gelsenkirchen.seat.de/
+Auto Singer GmbH & Co. KG,SEAT,Siemensring 17,87616,Marktoberdorf,DE,47.77199,10.58575,08342 9699 0,info-mod@autosinger.de,https://autosinger-marktoberdorf.seat.de
+Autohaus Bauschatz GmbH,SEAT,Laizer Straße 3,72488,Sigmaringen,DE,48.08655,9.21149,07571-7205-0,seat.sigmaringen@autohaus-bauschatz.de,https://autohaus-bauschatz.seat.de/
+Autohaus Ratzel GmbH,SEAT,Gereut 2,73119,Zell,DE,48.64392,9.58175,07164-9449-0,seat@ratzel-dasautohaus.de,https://autohaus-ratzel.seat.de
+Auto Thomas GmbH & Co. KG,SEAT,Frankfurter Straße 137,53773,Hennef,DE,50.77957,7.27459,02242/8896-0,seat-hennef@auto-thomas.de,https://auto-thomas-hennef.seat.de
+Autohaus Schulz & Straube GmbH,SEAT,Leimbacher Straße 120,36433,Bad Salzungen,DE,50.81223,10.2089,03695-55600,seat@schulz-straube.de,https://schulz-straube.seat.de/
+Zyrull GmbH,SEAT,Tritschlerstraße 7,66606,St. Wendel,DE,49.46859,7.14281,06851-994000,info.wnd@autohaus-zyrull.de,https://zyrull-stwendel.seat.de/
+Autohaus Zehder GmbH & Co. KG,SEAT,Janahofer Str. 1,93413,Cham,DE,49.21575,12.66872,09971-89010,info@autohaus-zehder.de ,https://autohaus-zehder.seat.de
+Motor-Nützel Vertriebs-GmbH,SEAT,Am steinernen Kreuz 2,96110,Scheßlitz,DE,49.97977,11.04253,09542-77208-0,seat-schesslitz@motor-nuetzel.de,https://schesslitz.seat.de
+Motor-Nützel Vertriebs-GmbH,SEAT,Leitenacker 4+8,95326,Kulmbach,DE,50.10068,11.39824,09221 690398-60,seat-kulmbach@motor-nuetzel.de,https://kulmbach.seat.de
+AVP Autoland GmbH & Co.KG,SEAT,Römerstr. 38,84130,Dingolfing,DE,48.63953,12.45854,08731 707 700,dingolfing@avp-autoland.de,https://avp-autoland-dingolfing.seat.de
+Emil Frey Küstengarage GmbH,SEAT,Osterallee 207,24944,Flensburg,DE,54.80348,9.48892,0461-31990,seat.fl@kuestengarage.de,https://kuestengarage-flensburg.seat.de
+Emil Frey Küstengarage GmbH,SEAT,Süderdamm 1-3,25746,Heide,DE,54.19907,9.12577,04841 6800-0,seat.he@kuestengarage.de,https://kuestengarage.seat.de/
+Autohaus Ostermaier GmbH,SEAT,Wolfgang-Perger-Straße 3,84453,Mühldorf,DE,48.25248,12.52059,08631-3700,seat.mue@ostermaier.de,
+Premiumservice Andreas Pahl GmbH,SEAT,An den Reesenbetten 1,24782,Büdelsdorf,DE,54.32214,9.6992,04331-43785-0,seat@ap-zentrum.de,
+Autohaus Pretz GmbH,SEAT,Im Plonzert 2,56076,Koblenz,DE,50.33441,7.6069,0261-97272-0,info.ahp@loehrgruppe.de,https://autohauspretz.seat.de
+Autohaus Leinfelder GmbH & Co. KG,SEAT,Bahnhofstraße 37,86650,Wemding,DE,48.87255,10.71527,09092 965770,info@autohaus-leinfelder.de,
+VHG Rittersbacher GmbH,SEAT,Kirchheimer Straße 59,67269,Grünstadt,DE,49.55877,8.17106,06359-96900,seat-GRUE@rittersbacher.de,
+Autohaus Friedrich Barth GmbH & Co. KG,SEAT,Hörschweilerstraße 15,72296,Schopfloch,DE,48.46079,8.54952,07443-96808-0,info@barth-autohaus.de,
+Autohaus Heuberger GmbH Niederlassung Bernbeuren,SEAT,Schongauer Straße 14,86975,Bernbeuren,DE,47.74031,10.77957,08860-91920,seat@autohaus-heuberger.de,
+Autohaus Gebr. Schwarte GmbH & Co. KG,SEAT,Lehrer- Köhne- Straße 9-13,26871,Papenburg,DE,53.06368,7.41078,04961-9297-0,seat.papenburg@autohaus-schwarte.de,autohaus-schwarte.seat.de
+Autohaus Haas GmbH & Co. KG,SEAT,Werner-von-Siemens-Str. 14,82140,Olching,DE,48.19643,11.3262,08142-4831-0,info@autohaus-haas.de,
+Autohaus Seitz GmbH,SEAT,Wangener Str. 77,88299,Leutkirch,DE,47.82249,10.01042,07561 98580,seat@seitz-leutkirch.de,
+Scherer GmbH & Co. KG,SEAT,Schönbornstraße 52,63741,Aschaffenburg,DE,49.98827,9.16504,06021-45906-0,seat-aschaffenburg@scherer-gruppe.de,https://scherer-aschaffenburg.seat.de
+Autogalerie Köhler GmbH,SEAT,Hüttenbruchstr. 44,57482,Wenden,DE,50.96668,7.89927,02762 9244-0,wenden@koehler-seat.de,https://autogalerie-koehler-wenden.seat.de
+Gohm + Graf Hardenberg GmbH Aach,SEAT,Singener Str. 17,78267,Aach,DE,47.83875,8.86074,07774-501-0,info.aach@grafhardenberg.de,https://aach.seat.de
+ARG Auto-Rheinland GmbH,SEAT,Godesberger Str. 40 - 80,53175,Bonn,DE,50.69507,7.1408,0228-3850,seat@ARG.de,https://auto-rheinland.seat.de
+Autohaus Schmidt GmbH & Co. KG,SEAT,Rudolf-Diesel-Straße 1,36088,Hünfeld,DE,50.6868,9.75562,06652-2363,seat@schmidt-huenfeld.de,https://autohaus-schmidt.seat.de
+Autohaus Kunst GmbH & Co. Vertriebs KG,SEAT,Neustadtstraße 1,26919,Brake,DE,53.33066,8.48021,04401-5414,kunst@seat-brake.de,https://kunst.seat.de
+Autohaus Rose & Müller GmbH,SEAT,Coburger Straße 21,96472,Rödental,DE,50.28601,11.01639,09563-4808,info@rose-mueller.com,https://rose-mueller.seat.de
+Auto Wrede GmbH,SEAT,Bonner Wall 17 - 19,50677,Köln,DE,50.9167,6.95701,0221-383091,info@seat-wrede.de,https://wrede.seat.de
+"Autohaus Zürn, Inhaber Klaus Zürn e.K.",SEAT,Allmand 5,74670,Forchtenberg,DE,49.291,9.56423,07947-2044,service@autohaus-zuern.de,https://zuern.seat.de
+Autozentrum Josten e.K. Inh. Michael Josten,SEAT,Herzogstraße 75-77,40215,Düsseldorf,DE,51.21546,6.78369,0211-9388870,info@auto-josten.de,https://auto-josten.seat.de
+"Schwaba GmbH, Schwaba Gebrauchtwagenzentrum",SEAT,Porschestr. 2,86368,Gersthofen,DE,48.40872,10.87161,0821 490010,gwz@schwaba.de,
+Autohaus Georg,SEAT,Marienstraße 141,68794,Oberhausen-Rheinhausen,DE,49.2597,8.48501,07254-203030,disposition@autohaus-georg.com,https://autohaus-georg.seat.de
+AutoTreffpunkt Stamm GmbH,SEAT,Bismarckstraße 41 - 43,42659,Solingen,DE,51.16285,7.08978,0212-811709,seat@auto-stamm.de,https://stamm.seat.de
+Autohaus Jacob Fleischhauer GmbH & Co. KG,SEAT,Fröbelstraße 15,50823,Köln,DE,50.94437,6.91604,0221-57740,service-koeln-mitte@fleischhauer.com,https://fleischhauer-koeln.seat.de
+Autohaus A.Kulzer Inh.J.Trundt,SEAT,Hauptstraße 114,67283,Obrigheim,DE,49.59469,8.21155,06359-92030,info@autohauskulzer.de,https://kulzer.seat.de
+Autohaus Heß GmbH,SEAT,Im Langen Feld 12,71711,Murr,DE,48.95796,9.24561,07144-860260,seathess@web.de,https://hess.seat.de
+Autohaus Schedler e.K. Inh. Mike Schedler,SEAT,Neuhausstr. 8,74182,Obersulm-Willsbach,DE,49.12842,9.36373,07134-13826-0,mike.schedler@ah-schedler.de,https://schedler.seat.de
+Ramsperger Automobile GmbH & Co. KG,SEAT,Otto-Hahn-Str. 3,72622,Nürtingen,DE,48.62327,9.35738,07021-5001-900,info@ramsperger-automobile.de,https://ramsperger.seat.de
+Autohaus Johann Schmid,SEAT,Zeppelinstraße 2,93158,Teublitz,DE,49.24318,12.09982,09471-90832,seat-schmid@t-online.de,https://schmid.seat.de
+Autohaus G. Lo Destro GmbH,SEAT,Bahnhofstr. 63,73033,Göppingen,DE,48.70479,9.64323,07161-50 49 50,info@autohaus-lodestro.de,https://lodestro.seat.de
+Brümmer & Henkelmann GmbH,SEAT,Klöcknerstr. 2,59368,Werne,DE,51.66248,7.64569,02389 9830 0,seat@bruemmerundhenkelmann.de,
+Fisser & Scheers GmbH & Co. KG,SEAT,Sandbahn 9,46446,Emmerich am Rhein,DE,51.84711,6.23971,02822 4075,seat@fisser-scheers.de,https://emmerich-am-rhein.seat.de
+Autohaus Paaßen GmbH,SEAT,Erzbergerstr. 31,46145,Oberhausen,DE,51.53241,6.85253,0208 994470,info@autohaus-paassen.de,
+Autohaus Becher GmbH,SEAT,Im Buttendicksfeld 15,46485,Wesel,DE,51.66204,6.67127,0281 952840,seat@auto-becher.de,https://autohaus-becher.seat.de
+Autohaus Berres-Hirsch GmbH,SEAT,Etterweg 1,63928,Eichenbühl,DE,49.7069,9.32191,09371-6086,thorsten.bonn@berres-hirsch.vapn.de,https://berres-hirsch.seat.de
+Autohaus Wilstacke+Growe GmbH & Co. KG,SEAT,Hauptstraße 3,48249,Dülmen,DE,51.89571,7.27526,02548-919990,info@wilstackegrowe.de,https://wilstacke-growe.seat.de
+Autohaus Heiler,SEAT,Augsburger Str. 58,86842,Türkheim,DE,48.07007,10.64523,08245-90810,info@auto-heiler.de,https://autohaus-heiler.seat.de
+Autohaus Duingen GmbH,SEAT,Im Südfeld 2,31089,Duingen,DE,52.00163,9.69619,05185-958181,autohaus-duingen@t-online.de,https://duingen.seat.de
+Auto & Service PIA GmbH,SEAT,Meglingerstraße 8,81477,München,DE,48.09339,11.50637,089 748870 2200,info.sued@autoundservice.de,
+Autohaus Gehlert GmbH & Co.KG,SEAT,Tullastraße 82,79108,Freiburg,DE,48.0294,7.84294,0761-510460,seat@gehlert.de,https://autohaus-gehlert.seat.de
+Auto Krälemann GmbH,SEAT,Industriestraße 2,48308,Senden,DE,51.84651,7.48776,02597-696960,verkauf.senden@auto-kraelemann.de,https://kraelemann-senden.seat.de
+Autohaus Salzmann GmbH & Co. KG,SEAT,An der Haune 2,36251,Bad Hersfeld,DE,50.86087,9.72225,06621 5054 0,seat@salzmann-automobile.de,https://autohaus-salzmann.seat.de
+Autohaus Bernd Beivers,SEAT,Bahnstraße 106,41569,Rommerskirchen,DE,51.03319,6.69388,02183-82120,info@seat-beivers.de,https://beivers.seat.de
+Petschallies Volksdorf GmbH,SEAT,Eulenkrugstr. 59-61,22359,Hamburg,DE,53.64797,10.16984,040 603145 0,volksdorf@petschallies.de,https://petschallies-hamburg.seat.de
+Autozentrum Hagelauer GmbH & Co. KG,SEAT,Südstraße 50-54,74072,Heilbronn,DE,49.13469,9.21596,07131 6234 0,seat@hagelauer.de,https://hagelauer.seat.de
+Auto Köhler GmbH & Co. KG,SEAT,Schlachthausstraße 6a,67098,Bad Dürkheim,DE,49.46261,8.16465,06322 979910,info@autokoehler.de,autokoehler.seat.de
+bhg Autohandelsgesellschaft mbH,SEAT,Mörscher Str. 3,76275,Ettlingen,DE,48.94808,8.38242,07243 5770 0,seat-ettlingen@bhg-mobile.de,https://bhg-ettlingen.seat.de/
+Auto Hartmann GmbH,SEAT,Gundstraße 11,91056,Erlangen,DE,49.58305,10.96269,09131-991718,anmeldung@seat-hartmann.de,https://auto-hartmann-erlangen.seat.de
+Autohaus Marnet GmbH & Co. KG,SEAT,Sodener Straße 3,61462,Königstein,DE,50.17679,8.47539,06174-29930,seat@marnet.de,https://marnet-koenigstein.seat.de/
+Alexandra Weinzierl e.K.,SEAT,Kufsteiner Straße 50,83022,Rosenheim,DE,47.84975,12.12767,08031-9413333,info@autohaus-weinzierl.com,
+Auto Bierschneider Aalen GmbH,SEAT,Lorcher Straße 35,73525,Schwäbisch Gmünd,DE,48.79888,9.78653,07171 35040,info.sg@bierschneider.de,https://auto-bierschneider-aalen.seat.de/
+Ratio Mobil Autohandel und Service GmbH - Altmittweida,SEAT,Südstraße 2,09648,Altmittweida,DE,50.96894,12.97671,03727-2548,altmittweida@ratiomobil.de,https://ratiomobil-altmittweida.seat.de
+Autohaus Kornkoog GmbH & Co. KG,SEAT,Bahnhofstraße 28,25899,Niebüll,DE,54.78409,8.83119,04661-96820,info@kornkoog.de,https://kornkoog.seat.de
+Autohaus Küver GmbH,SEAT,Börsten 38,27628,Hagen,DE,53.35858,8.67402,04746-94930,service@kuever.com,kuever.seat.de
+Auto Bödeker GmbH,SEAT,Große Wendelstr. 67,35510,Butzbach,DE,50.43472,8.6781,06033-96730,seat@de447410.vapn.de,
+RATIO MOBIL Zwönitz GmbH,SEAT,Lenkersdorfer Str. 2 A,08297,Zwönitz,DE,50.63526,12.79287,037754-33630,zwoenitz@ratiomobil.de,https://ratiomobil-zwoenitz.seat.de/
+Autohaus Anton Gotzen GmbH & Co. KG,SEAT,Industriestraße 1,53909,Zülpich,DE,50.70033,6.66239,02252-1044,info@autohaus-gotzen.de,https://gotzen.seat.de
+Autohaus Utbremen Schmidt + Koch GmbH,SEAT,Norderneystr. 2,28217,Bremen,DE,53.09291,8.79488,0421 3899 888,utb@schmidt-und-koch.de,https://autohaus-utbremen.seat.de
+bhg Autohandelsgesellschaft mbH,SEAT,Schaffhausenstr. 111,72072,Tübingen,DE,48.51847,9.08099,07071/94257 0,seat-tuebingen39251@bhg-mobile.de,https://bhg-tuebingen-schaffhausenstrasse.seat.de
+Hoppmann Automobil GmbH,SEAT,Burger Landstraße 38,35745,Herborn,DE,50.68791,8.30205,02772 7009 0,info-herborn@hoppmann-autowelt.de,
+Autohaus Ostmann GmbH & Co. KG,SEAT,Festungsstraße 17,34613,Schwalmstadt,DE,50.9065,9.2343,06691 5064910,kundendienst-seat-zig@autohaus-ostmann.de,https://ostmann-schwalmstadt.seat.de/
+Auto-Kohler GmbH & Co. KG,SEAT,Wildbader Str. 1-3,72250,Freudenstadt,DE,48.46827,8.40612,07441 88890,info@auto-kohler.de,https://auto-kohler.seat.de
+Autohaus Koch GmbH,SEAT,An den drei Hasen 3,61440,Oberursel,DE,50.20311,8.59583,06171-59000,seat@autohauskoch.com,
+Auto & Service PIA GmbH - München Ost,SEAT,Schatzbogen 37,81829,München,DE,48.13443,11.66504,089-420796-2400,info.ost@autoundservice.de,https://muenchen-ost.seat.de
+Autohaus Osterwieck GmbH,SEAT,Lüttgenröder Straße 1,38835,Osterwieck,DE,51.9685,10.6997,039421-6140,info@autohaus-osterwieck.de,
+Autohaus Evers GmbH & Co. KG,SEAT,Bei der Lohmühle 6,23554,Lübeck,DE,53.87634,10.66688,0451-479070,seat@autohaus-evers.de,
+Autohaus Balke GmbH,SEAT,Hermesstraße 6,31275,Lehrte-Hämelerwald,DE,52.35698,10.11797,05175-980030,c.balke@autohaus-balke.de,
+Autohaus Jacob Fleischhauer GmbH & Co. KG ,SEAT,Bosenheimer Str. 45 A-77,55543,Bad Kreuznach,DE,49.84199,7.86668,0671-88000,service-bad-kreuznach@fleischhauer.com,https://fleischhauer-badkreuznach.seat.de
+Autowelt Marton+ GmbH & Co. KG,SEAT,Hauptstraße 57,73527,Schwäbisch Gmünd,DE,48.80869,9.85101,07171-878200,info@martonplus.de,https://autowelt-martonplus.seat.de
+Willi Nies  NL der Voets Autozentrum GmbH,SEAT,Friedrich-Seele-Str. 1,38122,Braunschweig,DE,52.24089,10.50865,0531-88800,seat@willi-nies.de,
+Richard Stein GmbH & Co. KG,SEAT,Brölstraße 30-36,51545,Waldbröl,DE,50.87233,7.60939,02291-92690,werkstatt.waldbroel@steingruppe.de,https://stein-waldbroel.seat.de
+asw.AUTOMOBILE GmbH & Co. KG,SEAT,Kreuzenstraße 80,74076,Heilbronn,DE,49.15768,9.2246,07131-98420,seat.heilbronn@asw-automobile.de,https://asw.seat.de
+"Autohaus Ludwig Brodmann, Inhaber Bernd Brodmann",SEAT,Kaltbrunner Str. 26,78476,Allensbach,DE,47.71941,9.07249,07533-8020,info@brodmann.de,ah-brodmann.seat.de
+Autohaus Janko oHG,SEAT,Im Geisbaum 21,63329,Egelsbach,DE,49.96335,8.6708,06103-403630,info@autojanko.de,
+Autozentrum Vogt GmbH & Co. KG,SEAT,Industriestraße 37,74357,Bönnigheim,DE,49.04457,9.10447,07143-88410,info.boennigheim@sevo.de,
+Senger Münster GmbH,SEAT,Rudolf-Diesel-Str. 1,48157,Münster,DE,51.99028,7.66547,0251-141500,info.seat-muenster@auto-senger.de,https://muenster.seat.de
+Graupner GmbH,SEAT,Gewerbeallee 2,04821,Brandis,DE,51.32982,12.58227,034292-6500,seat@autohaus-graupner.de,
+Motor Center Heinen GmbH,SEAT,Zur Alten Kolonie 6,59439,Holzwickede,DE,51.51695,7.62014,02301-29660,service@heinen-nrw.de,https://heinen-nrw.seat.de
+C.Thomsen GmbH,SEAT,Glüsinger Straße 82,21217,Meckelfeld/Seevetal,DE,53.41159,10.01701,04105-14240,seevetal-mail@auto-thomsen.de,https://thomsen-meckelfeld.seat.de
+Autohaus Strobel GmbH ,SEAT,Kirschenleite 20,91220,Schnaittach,DE,49.56648,11.3373,09153-926530,info@auto-strobel.de,
+Fischer & Bourtscheidt Automobilhandels GmbH,SEAT,An der Burg Sülz 38,53797,Lohmar,DE,50.87461,7.19901,02205-901080,info@fischer-bourtscheidt.de,https://fischer-bourtscheidt.seat.de
+D + G Automobile Inh. G. Hoensch ,SEAT,Plantagenweg 10,19288,Ludwigslust ,DE,53.31589,11.50338,03874-28112,dgautomobile@t-online.de,https://dgautomobile-ludwigslust.seat.de
+"Audi Zentrum Aachen Jacobs Automobile GmbH, Zweigniederlassung Düren",SEAT,Felix-Wankel-Straße 2,52351,Düren,DE,50.7795,6.51123,02421-591010-0,info@jacobs-dueren.de,https://jacobs-dueren.seat.de
+Autohaus Schmidtke GmbH,SEAT,Fritz-Thiele-Str. 23,28279,Bremen,DE,53.04877,8.84604,0421-838625,autohaus-schmidtke@gmx.de,https://schmidtke.seat.de
+Autohaus Schön GmbH,SEAT,Dresdener Str. 53 b,02625,Bautzen,DE,51.17951,14.40103,03591-36980 ,mail@autoschoen.de,https://autoschoen.seat.de
+Gebr. Gieraths GmbH,SEAT,Kölner Str. 105,51429,Bergisch Gladbach,DE,50.95965,7.145,02204-40080,info@gieraths.de,https://gieraths.seat.de
+Autohaus Scherer GmbH & Co. KG,SEAT,Wiesenstr. 3,66115,Saarbrücken ,DE,49.2283,7.01806,0681-9687980,seat-saarbruecken@scherer-gruppe.de,https://scherer-saarbruecken.seat.de
+Autohaus Schnaitheim GmbH & Co. KG,SEAT,Nördlinger Str. 66,89520,Heidenheim,DE,48.72398,10.19296,07321-96950,info@autohausschnaitheim.de,https://schnaitheim.seat.de
+Autohaus Feser GmbH,SEAT,Rother Str. 15,91126,Schwabach,DE,49.32359,11.04016,09122 308 2700,seat.schwabach@feser-graf.de,https://feser-schwabach.seat.de
+Dannacker & Laudien GmbH ,SEAT,August-Horch-Strasse 22,21337,Lüneburg,DE,53.23978,10.45757,04131-8886800,cupra.lueneburg@maz-gruppe.de,https://dannacker-laudien.seat.de
+Autohaus Südhannover GmbH,SEAT,Kasseler Landstr. 53-69,37081,Göttingen,DE,51.53062,9.89788,0551-903-0,seat@suedhannover-gruppe.de,https://goettingen.seat.de
+Autohaus Brass Vertriebs GmbH & Co. KG,SEAT,August-Sunkel-Straße 1,63452,Hanau,DE,50.1441,8.94492,06181-2905 0,seat.hanau@brass-gruppe.de,https://brasshanau.seat.de
+Feser Magdeburg GmbH,SEAT,August-Bebel-Damm 6,39126,Magdeburg,DE,52.17713,11.66761,0391-509790,seat.magdeburg@feser-graf.de,https://feser-magdeburg.seat.de
+Gottschalk - Dein Auto GmbH & Co. KG,SEAT,Im Sülzeteiche 5,38820,Halberstadt,DE,51.88243,11.07555,03941-625560,seat@autohaus-gottschalk.de,https://gottschalk.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,Lübecker Straße 17,41540,Dormagen,DE,51.0915,6.81241,02133-2516 0,seat.dormagen@gottfried-schultz.de,https://dormagen.seat.de
+Autohaus Stützenberger GmbH,SEAT,Gebrüder-Kolb-Straße 1,88353,Kißlegg,DE,47.7925,9.89449,07563-9091-0,cs@vw-autohaus-stuetzenberger.de,
+Emil Frey Küstengarage GmbH,SEAT,Eckernförder Str. 274,24119,Kronshagen,DE,54.34518,10.09808,0431-39967-0,seat.ki@kath-gruppe.de,https://kuestengarage-kiel.seat.de
+Autohaus Elmar Fahrbach  e.K.,SEAT,Wilhelm-Frank-Str. 78,97980,Bad Mergentheim,DE,49.49721,9.76007,07931-991950,info@autohaus-fahrbach.de,https://autohaus-fahrbach.seat.de
+ABV Automobile GmbH,SEAT,Berleburger Str. 10,35066,Frankenberg,DE,51.05351,8.78213,06451-714040,seat@abv-automobile.de,https://abv-automobile.seat.de
+Autohaus Siebrecht GmbH,SEAT,Langes Feld 10,31789,Hameln,DE,52.09805,9.39506,05151-5551-0,info@autohaus-fischer.eu,https://autohaus-siebrecht.seat.de
+Löhr & Becker Automobile GmbH,SEAT,Andernacher Str. 222,56070,Koblenz,DE,50.37952,7.58128,0261-8077-600,info.sek@loehrgruppe.de,https://koblenz.seat.de
+Fischer Automobile Amberg GmbH & Co. KG,SEAT,Speckmannshofer Str. 2,92224,Amberg,DE,49.4494,11.82811,09621-309-0,seat.amberg@fischer-automobile.de,https://fischer-automobile-amberg.seat.de
+AVP Autoland GmbH & Co.KG,SEAT,Gewerbestr. 2,94209,Regen,DE,48.98273,13.13056,09921-94100,regen@avp-autoland.de,https://avp-autoland-regen.seat.de
+Hahn Automobile GmbH + Co KG NL Göppingen,SEAT,Heilbronner Str. 2,73037,Göppingen,DE,48.69482,9.67877,07161-6526-10,seat.goeppingen@hahn-automobile.de,https://hahn-goeppingen.seat.de
+Autohaus Weiland GmbH,SEAT,Am Mühlengarten 1,66292,Riegelsberg,DE,49.31746,6.91393,06806-994810,seat-rgb@autohaus-weiland.de,https://autohaus-weiland-rgb.seat.de
+Autohaus und MotorCenter Sattelberg GmbH,SEAT,Vierradener Chaussee 27A,16303,Schwedt,DE,53.08114,14.28802,03332-418057,info@seat-sattelberg.de,https://autohaus-sattelberg.seat.de
+Autohaus Glinicke GmbH,SEAT,Ringstr. 9,32427,Minden,DE,52.27935,8.90163,0571-88870,seat.minden@glinicke.de,https://minden.seat.de
+Autohaus Gerstenmaier GmbH,SEAT,Industriestr. 11,77815,Bühl,DE,48.71009,8.13018,07223 916300,seat-buehl@gerstenmaier.com,https://gerstenmaier-buehl.seat.de
+AVP Autoland GmbH & Co.KG,SEAT,Burgkirchener Str. 147,84489,Burghausen,DE,48.16375,12.80706,08677/873900,burghausen@avp-autoland.de,
+Autohaus Weeber GmbH,SEAT,Glemseckstr. 39-49,71229,Leonberg,DE,48.78799,9.01438,07152-9765-100,info-seat-leo@autohaus-weeber.de,https://ah-weeber-leo.seat.de
+Autohaus Fink GmbH,SEAT,Sonthoferstr. 31,87541,Bad Hindelang,DE,47.50414,10.35897,08324/445,info@fink-autohaus.de,
+Weber + Seitz GmbH,SEAT,Hauptstr 79,88161,Lindenberg,DE,47.59929,9.88423,08381-92770,kontakt@weber-seitz.de,https://lindenberg.seat.de
+Gebr. Schmidt GmbH,SEAT,Neustadtmühlendamm 25,31226,Peine,DE,52.31109,10.21676,05171-95900,gf@schmidt-peine.de,https://seat-peine.seat.de
+CarUnion Primus GmbH,SEAT,Industriestr. 17,98544,Zella-Mehlis,DE,50.64292,10.69422,03682-89660,zella-mehlis@carunion.de,https://carunion-primus.seat.de
+Autohaus Waser GmbH,SEAT,Carl-Zeiss-Str. 5,79761,Waldshut-Tiengen,DE,47.6277,8.26296,07741-6803-0,seat@autohaus-waser.de,https://autohaus-waser.seat.de
+Orth Automobile GmbH,SEAT,Gottlieb-Daimler-Str. 1,65614,Beselich,DE,50.46721,8.13535,06484-9131-0,seat@orth-automobile.de,https://orth-automobile.seat.de
+Scherer GmbH & Co. KG,SEAT,Mußbacher Landstraße 18,67433,Neustadt,DE,49.36029,8.15307,06321-4009-0,seat-neustadt@scherer-gruppe.de,https://scherer-neustadt.seat.de
+Tix Automobile GmbH,SEAT,Klausener Weg 31,54516,Wittlich,DE,49.97671,6.88526,06571 269-400,wittlich@tix.de,https://tix-wittlich.seat.de/
+Autohaus Rudolf Sedlmaier GmbH & Co. KG,SEAT,Wasserbruck 1,84174,Weixerau,DE,48.48803,12.02105,08709-9200-0,seat@as-sedlmaier.de,
+Autohaus Boese & Born GmbH & Co. KG,SEAT,Stephan-Niderehe-Straße 24,35037,Marburg,DE,50.79319,8.75116,06421-9363-0,service@boese-und-born.de,https://boese-und-born.seat.de
+Die Schneider Gruppe GmbH,SEAT,Leipziger Str. 113,08058,Zwickau ,DE,50.73586,12.48968,0371-45000-0,seat.zwickau-bc@dieschneidergruppe.de,https://schneidergruppezwickau.seat.de/
+Autohaus Gerken GmbH & Co. KG,SEAT,Böcklerallee 4,27721,Ritterhude,DE,53.19255,8.75499,04292-81199-0,seat@autohaus-gerken.de,https://gerken.seat.de
+Autohaus Brass GmbH & Co. KG,SEAT,Guerickestr. 9,60488,Frankfurt,DE,50.13659,8.59868,069-976712-0,seat.roedelheim@brass-gruppe.de,https://brass-frankfurt-roedelheim.seat.de
+Autohaus Lampa GmbH,SEAT,Handruper Str. 12,49838,Lengerich,DE,52.55774,7.53376,05904-93611,service@lampa.de,
+Autohaus Dallgow GmbH,SEAT,Wilmsstr. 120,14624,Dallgow-Döberitz,DE,52.55058,13.05555,03322-5050-0,info@autohaus-dallgow.de,
+Schmidt & Hoffmann Neumünster GmbH & Co. KG,SEAT,Altonaer Str. 111,24539,Neumünster,DE,54.0617,9.98386,04321-9494-0,info@seat-nms.de,nms.seat.de
+Audi Hamburg GmbH - CUPRA Garage HH + SEAT Zentrum HH,SEAT,Nedderfeld 2,22529,Hamburg,DE,53.60322,9.96386,040-556166 0,seat@hamburg-seat.com,https://hamburg.seat.de
+Autohaus Brass GmbH & Co. KG,SEAT,Kasinostraße 62,64293,Darmstadt,DE,49.87952,8.64319,06151 108 6,seat.darmstadt@brass-gruppe.de,https://brass-darmstadt.seat.de
+Autohaus Wagner GmbH,SEAT,Lörracher Str. 47,79585,Steinen,DE,47.64301,7.73137,07627-91010,seat@autohauswagner.de,https://wagnersteinen.seat.de
+Karl Thiel GmbH & Co. KG,SEAT,Karl-Thiel-Straße 1,33378,Rheda-Wiedenbrück,DE,51.85958,8.31384,05242 5905 0,seat.rw@thiel-gruppe.de,https://thielrheda.seat.de/
+Autohaus Kuhn & Witte GmbH & Co. KG,SEAT,Allerbeeksring 2-12,21266,Jesteburg,DE,53.30618,9.94783,04183 933 0,seat@kuhn-witte.de,ah-kuhn-witte.seat.de
+Träger Autohaus GmbH,SEAT,Ascherslebener Straße 18f,06467,Hoym,DE,51.78495,11.32765,034741 389,seat@traeger-autohaus.de,https://traeger-autohaus.seat.de
+Autohaus Fischer-Schädler GmbH,SEAT,Zeppelinstr.10-12+ 13-15,61118,Bad Vilbel,DE,50.19291,8.7262,06101 52 67 0,seat@fischer-schaedler.de,
+Hahn Automobile GmbH & Co. KG,SEAT,Schwieberdinger Str. 140,71636,Ludwigsburg,DE,48.89044,9.15856,07141 2852-0,seat.ludwigsburg@hahn-automobile.de,
+Autohaus Rinnetal GmbH,SEAT,Breitscheidstraße 128,07407,Rudolstadt,DE,50.69886,11.32771,03672 3484 0,seat@rinnetal.com,
+Autohaus Staaf GmbH,SEAT,Friedberger Straße 91-95,61130,Nidderau,DE,50.24229,8.85896,06187 2011-0,seat@staaf.de,https://staaf.seat.de
+Die Schneider Gruppe GmbH,SEAT,Hofer Str. 30,08527,Plauen,DE,50.48991,12.13965,03741-48770,seat.plauen@dieschneidergruppe.de,https://schneidergruppeplauen.seat.de/
+VGRHH GmbH,SEAT,Langenhorner Chaussee 666,22419,Hamburg,DE,53.6785,10.00198,040-5272270,SEAT.VGRHH.Stockfleth@hamburg-seat.com,https://hamburg-nord.seat.de/
+Gottfried Schultz Automobilhandels SE,SEAT,Hammer Landstr. 99,41460,Neuss,DE,51.20295,6.71691,02131-5656-0,seat_46@gottfried-schultz.de,https://neuss.seat.de/
+Senger Holstein GmbH,SEAT,Am Petroleumhafen 1,23611,Bad Schwartau,DE,53.90683,10.69178,0451-289930,info.seat.bad-schwartau@auto-senger.de,https://bad-schwartau.seat.de/
+Autohaus Minrath GmbH & Co. KG,SEAT,Weseler Straße 150-152,47608,Geldern,DE,51.52188,6.34675,02831 93040,seat-geldern@minrath.de,https://ahminrath-geldern.seat.de/
+Autohaus Brass Vertriebs GmbH & Co. KG,SEAT,Paul-Brass-Str. 10,63128,Dietzenbach,DE,50.00864,8.79099,06074 801 0,seat.dietzenbach@brass-gruppe.de,https://brass-dietzenbach.seat.de/
+Autohaus Ostmann Bad Arolsen GmbH,SEAT,Landstraße 11-15,34454,Bad Arolsen,DE,51.37058,8.99013,05691 8989 0,info-ba@autohaus-ostmann.de,https://ostmann-badarolsen.seat.de
+Knubel GmbH & Co. KG,SEAT,Weseler Straße 485,48163,Münster,DE,51.92896,7.59287,0251 97131 200,info@knubel.de,https://knubel.seat.de
+Autohaus Vortkamp GmbH,SEAT,Enscheder Str. 313,48599,Gronau,DE,52.21439,6.98543,02562-93360,info@vortkamp.de,
+Autohaus Nahetal GmbH & Co. KG,SEAT,Käseicher Weg 4,55743,Idar-Oberstein,DE,49.73292,7.40992,06784-9838-0,seat-nahetal@autohaus-nahetal.de,https://autohaus-nahetal.seat.de
+Widukind GmbH,SEAT,Lambernweg 47,32130,Enger,DE,52.14853,8.56247,05224-98800,ah-widukind-seat@schnieder.de,https://widukind.seat.de
+Auto Bierschneider GmbH,SEAT,Nürnberger Str. 94,91710,Gunzenhausen,DE,49.1248,10.76849,09831 880996-0,info.gunzenhausen@bierschneider.de,https://bierschneider-gunzenhausen.seat.de
+Tiemeyer automobile GmbH & Co. KG,SEAT,Bahnhofstr. 55,58840,Plettenberg,DE,51.22062,7.87347,02391-92220,info.seatplettenberg@tiemeyer.de,https://tiemeyer-plettenberg.seat.de/
+Autohaus Hantke GmbH,SEAT,Im Vogelsang 103,45527,Hattingen,DE,51.39932,7.21424,02324-32830,info@autohaus-hantke.de,https://hantke.seat.de
+RK Autowelt Ennigerloh GmbH,SEAT,Neubeckumer Str. 150,59320,Ennigerloh,DE,51.8173,8.02406,02525-93100,ennigerloh@rk-autowelt.de,https://rk-autowelt.seat.de
+Grafschafter Autozentrale Heinrich Krüp GmbH ,SEAT,Bentheimer Str. 243,48529,Nordhorn,DE,52.41563,7.0854,05921-3060,kontakt@autohaus-kruep.de,https://nordhorn.seat.de
+Feser-Biemann Erlangen GmbH ,SEAT,Schallershofer Str. 78,91056,Erlangen,DE,49.58823,10.97477,09131-686 400 ,seat.erlangen2@feser-graf.de,https://feser-biemann.seat.de
+Weller Performance Deutschland GmbH,SEAT,Pagenstecher Str. 77-83,49090,Osnabrück,DE,52.29096,8.0234,0541-69115-0,info@autoweller.de,https://wellergruppe-osnabrueck.seat.de
+Friedrich Frohn GmbH & Co. KG,SEAT,Dieselstraße 2,44805,Bochum,DE,51.52422,7.29877,0234-89196-60,info@auto-frohn.de,https://seat-bochum.seat.de
+Autohaus Hartner GmbH,SEAT,Äußere Nürnberger Str. 41,91301,Forchheim,DE,49.70959,11.06224,09191-72820,Info.hartner@feser-graf.de,
+Autohaus Peter Böhmer,SEAT,Oderlandstr. 16,15890,Eisenhüttenstadt,DE,52.14937,14.65267,03364-62095,info@autohaus-boehmer.de,https://seat-boehmer-eisenhuettenstadt.seat.de
+Autohaus Bellendorf GmbH,SEAT,Pelsstraße 35,46244,Bottrop,DE,51.61123,6.92871,02045-41110-0,info@bellendorf.de,https://bellendorf.seat.de
+Autohaus Albertsmeyer Nordhausen GmbH & Co. KG,SEAT,Helmestr. 111,99734,Nordhausen,DE,51.47614,10.8081,03631-61800,anfragen-seat@albertsmeyer.com,https://albertsmeyer.seat.de
+RK Autowelt Werl GmbH,SEAT,Soester Str. 50,59457,Werl,DE,51.549,7.92877,02922-877990,service.werl@rk-autowelt.de,https://rk-autowelt-werl.seat.de
+Gottfried Schultz Automobilhandels SE ,SEAT,Höherweg 85,40233,Düsseldorf,DE,51.22181,6.81332,0211-7378777,seat_35@gottfried-schultz.de,https://automeile.seat.de
+"Autohaus Amsl, Inhaber Thomas Amsl",SEAT,Marktstr. 54,94107,Untergriesbach,DE,48.57265,13.67634,08593-9002-0,service@amsl-autohaus.de,https://amsl-autohaus.seat.de
+Autohaus Timmer GmbH,SEAT,Bentheimer Str. 247,48529,Nordhorn,DE,52.41444,7.08628,05921-72725-0,seat.noh@auto-timmer.de,https://timmer-nordhorn.seat.de
+Autohaus Evers GmbH & Co. KG,SEAT,Wiesenstr. 7-11,47533,Kleve,DE,51.79349,6.145,02821-719930,seat.kle@evers-auto.de,https://autohausevers.seat.de
+Autohaus Timmer GmbH,SEAT,Meppener Straße 100-114,49808,Lingen,DE,52.53211,7.30452,0591-96361-0,seat.lin@auto-timmer.de,https://timmer-lingen.seat.de
+Koch Mobile GmbH,SEAT,Ludwig-Erhard-Str. 118,74564,Crailsheim,DE,49.13477,10.03809,07951 30941,seat-cr@koch-autogruppe.de,https://koch-mobile-crailsheim.seat.de
+Autohaus KAHLE GmbH & Co. KG,SEAT,Am Leineufer 49,30419,Hannover,DE,52.41799,9.63387,0511-27999-0,seat@kahle.de,https://hannover.seat.de
+CarUnion HESS GmbH,SEAT,Kasseler Str. 48,98574,Schmalkalden,DE,50.71782,10.42678,03683-69960,schmalkalden-seat@carunion.de,https://carunion-hess-schmalkladen.seat.de
+G & S Automobile GmbH,SEAT,Grünewaldstr. 2,96215,Lichtenfels,DE,50.13631,11.0629,09571-75535-0,seat@gelderundsorg.de,https://lichtenfels.seat.de
+Autohaus Schwalm GmbH & Co. KG,SEAT,Niederrheinische Str. 96,35274,Kirchhain,DE,50.82457,8.94047,06422-9285-0,seat@autohaus-schwalm.de,https://autohaus-schwalm.seat.de
+Tiemeyer automobile GmbH & Co. KG,SEAT,Auf der Höhe 55,47059,Duisburg,DE,51.4414,6.75691,0203-346947-0 ,info.seatduisburg@tiemeyer.de,https://tiemeyer-duisburg.seat.de
+Auto Bierschneider Aalen GmbH,SEAT,In den Kocherwiesen 4,73460,Hüttlingen,DE,48.88618,10.09757,07361-97860,info.huettlingen@bierschneider.de,https://bierschneider-huettlingen.seat.de
+Marc Zyrull GmbH,SEAT,Carl-Fr.-Gauß-Str. 2,66793,Saarwellingen ,DE,49.35551,6.79095,06838-864880,info.saw@autohaus-zyrull.de,https://seat-zyrull-saw.seat.de
+Autohaus Ostmann GmbH & Co. KG - Verkaufsst. Schwalmstadt,SEAT,Festungsstr. 17,34613,Schwalmstadt ,DE,50.90525,9.23345,06691-506491-0,Seat-GF@Autohaus-Ostmann.de,https://seat-carpoint-schwalmstadt.seat.de
+Autohaus Brass Vertriebs GmbH & Co. KG,SEAT,Hanauer Landstr. 263-265,60314,Frankfurt,DE,50.11588,8.72359,069-405005-0,seat.frankfurt@brass-gruppe.de,https://brassfrankfurt.seat.de
+bhg Autohandelsgesellschaft mbH,SEAT,Emil-Adolff-Str. 12,72760,Reutlingen,DE,48.49799,9.20058,07121-3337200,bhg-seat-rt@bhg-mobile.de,https://bhg-reutlingen.seat.de
+Autohaus Louis Wessel GmbH & Co. KG,SEAT,Bremer Str. 43,27211,Bassum,DE,52.85134,8.72662,04241-9366-0,seat@autohaus-wessel.de,https://autohaus-wessel.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,Ruhrorter Str. 13-15,45478,Mülheim a.d. Ruhr,DE,51.43033,6.83696,0208-599000,seat_17@gottfried-schultz.de,https://muelheim.seat.de
+Seitz Autohandels- GmbH + Co. KG,SEAT,Narzissenstr. 3,87600,Kaufbeuren,DE,47.88376,10.63364,08341 955560,kontakt@seitz-kaufbeuren.de,https://seitz-kaufbeuren.seat.de
+Autohaus Oskar Bleicher GmbH & Co. KG,SEAT,Ravensburger Str. 27,88046,Friedrichshafen,DE,47.65993,9.49886,07541-7075-0,info@autohaus-bleicher.de,https://bleicher-fn.seat.de
+Ehrhardt AG NL Eisenach,SEAT,Neue Wiese 6,99817,Eisenach,DE,50.99952,10.35764,03691-724889-0,seat.eisenach@ah-ehrhardt.com,https://eisenach.seat.de/
+WELLER Premium GmbH,SEAT,Goebenstraße 90,32051,Herford,DE,52.10174,8.58978,05221-99448-0,seat.hf@wellergruppe.de,https://portak.seat.de
+Gebr. Conrad GmbH,SEAT,Bonner Ring 7,50374,Erftstadt,DE,50.80035,6.78078,02235-955855,info@gebr-conrad.de,
+Horst Büchner Automobile GmbH,SEAT,Löbauer Str. 2 a,02763,Eckartsberg,DE,50.91825,14.80346,03583-770380,seat-zittau@ambestenbuechner.de,https://seat-zittau.seat.de
+Auto Thomas GmbH,SEAT,Donnerbachweg 3,53332,Bornheim,DE,50.76747,6.94713,02227-9098-0,seat-bornheim@auto-thomas.de,https://auto-thomas-bornheim.seat.de
+Autohaus Stöber GmbH & Co. KG,SEAT,Bischhäuser Aue 3,37213,Witzenhausen,DE,51.34889,9.85079,05542-6000-0,seat.wiz@glinicke.de,https://stoeber.seat.de
+Autohaus Thomas Rudolph GmbH,SEAT,Turleyring 6,09376,Oelsnitz,DE,50.72303,12.7196,037298-327-0,service@vw-rudolph.com,
+Autohaus Seebacher GmbH & Co. KG,SEAT,Schopfheimer Str. 3,77743,Neuried,DE,48.43092,7.81419,07807-9266-0,service@autohaus-seebacher.de,https://autohaus-seebacher.seat.de
+Volkswagen Automobile Stuttgart GmbH,SEAT,Heilbronner Str. 390-392,70469,Stuttgart-Feuerbach,DE,48.8214,9.17489,0711-658158800,info@stuttgart-seat.com,https://stuttgart.seat.de
+Spindler GmbH & Co. KG,SEAT,Nürnberger Str. 43,97076,Würzburg,DE,49.7973,9.95894,0931-2099-300,seat@spindler-gruppe.de,https://spindler.seat.de
+Autohaus Nies GmbH & Co. KG,SEAT,Gießener Str. 4,57234,Wilnsdorf,DE,50.82169,8.10387,02739-87050,info@autohaus-nies.de,
+Autohaus Büchle GmbH,SEAT,Blauenstr. 69,79589,Binzen,DE,47.62896,7.61925,07621-94068-0,info@autohaus-buechle.de,https://autohaus-buechle.seat.de/
+Autohaus Schmitz GmbH & Co. KG - Verkauf,SEAT,Dernbacher Str. 65,56424,Ebernhahn,DE,50.46734,7.77716,02623-7180,Info.co.kg@ahschmitz.de,https://ahschmitz.seat.de
+Auto Bach GmbH,SEAT,Beuerbacher Landstraße 4,65520,Bad Camberg,DE,50.29584,8.25311,06434 2095 0,info-seatservice@autobach.de,
+Autohaus Bergmann Niederlassung der Autohaus Wernigerode GmbH,SEAT,Am Stadtweg 1,38855,Wernigerode - Reddeber,DE,51.86183,10.80224,03943-26622-0,autohaus-bergmann@seatpartner.de,https://bergmann.seat.de
+Halbac-Autohaus-GmbH,SEAT,In den Langen Stücken 1,38820,Halberstadt,DE,51.9021,11.07943,03941 69 96-0,info@halbac.de,https://halbac.seat.de/
+Tiemeyer automobile GmbH & Co. KG,SEAT,Kerkhagen 25,58513,Lüdenscheid,DE,51.24374,7.59743,02351-87440914,seat.luedenscheid@tiemeyer.de,tiemeyer-luedenscheid.seat.de
+Autohaus Haitzler GmbH,SEAT,Schwarzwaldstraße 48,76593,Gernsbach,DE,48.7736,8.34202,07224 9175 0,seat@haitzler.de,
+Autohaus KAHLE GmbH & Co. KG,SEAT,Hagenburg Straße 16-18,31515,Wunstorf,DE,52.42981,9.42029,05031 95600,seat.wun@kahle.de,https://wunstorf.seat.de
+Autohof Reimers GmbH,SEAT,Stawedder 17-21,25462,Rellingen,DE,53.64439,9.83481,04101 4908 0,seat-rellingen@autohof-reimers.de,https://autohof-reimers.seat.de
+Autohaus Keller GmbH,SEAT,Scheffelstraße 1,97209,Veitshöchheim,DE,49.82472,9.87932,0931 90082 0,seat@autohaus-keller.de,autohaus-keller.seat.de
+BONGEN Auto & Service GmbH,SEAT,Niederwipper 20-24,51688,Wipperfürth,DE,51.11911,7.43307,02267 88670,info@bongen-auto.de,https://bongen-auto.seat.de/
+Scherer Automobil GmbH & Co. KG,SEAT,Industriestraße 48,67063,Ludwigshafen,DE,49.48923,8.40222,0621 572 499700,serviceinfo.lua@scherer-gruppe.de,https://scherer-ludwigshafen.seat.de/
+Auto Bierschneider GmbH,SEAT,Dr.-Friedr.-Drechsler-Str 29,86609,Donauwörth,DE,48.70846,10.76013,0906-7092700,info.don@bierschneider.de,https://bierschneider-donauwoerth.seat.de
+Starke Vechta GmbH & Co. KG,SEAT,Stukenborg 130,49377,Vechta,DE,52.73253,8.26246,04441 9096 0,seatvec@starke-gruppe.de,https://starke-vechta.seat.de
+Autohaus KAHLE Schaumburg GmbH,SEAT,Vornhäger Straße 65,31655,Stadthagen,DE,52.32946,9.22576,05721 938 98 0,stadthagen@kahle.de,https://schulze.seat.de/
+"""motor"" Lichtenstein GmbH",SEAT,Äußere Zwickauer Straße 16-20,09350,Lichtenstein,DE,50.7518,12.61938,037204 5819 0,service@motor-lichtenstein.de,
+AWUS mobile GmbH & Co. KG,SEAT,Bremsweg 1,19057,Schwerin,DE,53.64735,11.3511,0385-4803-0,seat@awus-mobile.de,https://awus-mobile.seat.de/
+Autowelt Beer GmbH & Co. KG,SEAT,Am Höllenbach 20,83329,Waging am See,DE,47.93391,12.72885,08681-9660,kontakt@seat-beer.de,https://beer.seat.de
+VGRHH GmbH,SEAT,Ausschläger Weg 74,20537,Hamburg,DE,53.54883,10.03699,0402515160,SEAT.VGRHH.Wendenstr@hamburg-seat.com,
+Autohaus Max Schultz GmbH & Co. KG,SEAT,Im Eichicht 1a,96317,Kronach,DE,50.23383,11.34141,09261 60460,info@vw-max-schultz.de,https://max-schultz.seat.de/
+Autohaus Willy Ernst GmbH,SEAT,Neustadter Str. 14,96450,Coburg,DE,50.27004,10.96751,09561 8630 0,seat@ernst-auto.de,https://ernst-coburg.seat.de/
+Autohaus Brütsch GmbH,SEAT,Gänsäcker 4,78532,Tuttlingen,DE,47.96023,8.78156,07462 9462 0,service-tuttlingen@bruetsch-gruppe.de,
+Autohaus Schnitzler GmbH & Co. KG,SEAT,Raiffeisenstraße 20,40764,Langenfeld,DE,51.12029,6.92554,02173 8506 0,mail@autohaus-schnitzler.de,https://schnitzler-langenfeld.seat.de
+Autohaus Minrath GmbH & Co. KG,SEAT,Krefelder Straße 136,47226,Duisburg,DE,51.40531,6.70542,02065 92990,seat-duisburg@minrath.de,https://ahminrath-duisburg.seat.de/
+Auto Brucker GmbH,SEAT,Wölsauer Straße 6,95615,Marktredwitz,DE,50.00415,12.09731,09231 7027 170,info@auto-brucker.de,
+Koch Mobile GmbH,SEAT,Rudolf-Diesel-Straße 1,74613,Öhringen,DE,49.1996,9.47537,07941/9230-0,seat-oeh@koch-autogruppe.de,https://koch-mobile-oehringen.seat.de/
+ACE Automobil Center Erzgebirge OHG,SEAT,Straße der Einheit 45,08340,Schwarzenberg,DE,50.54678,12.7814,03774 15770,seat@ace-ohg.de,
+Autohaus Lademann GmbH,SEAT,Hettingerstraße 26,74722,Buchen,DE,49.52204,9.33252,06281 5221 0,seat@autohaus-lademann.de,
+Gohm + Graf Hardenberg GmbH,SEAT,Abigstraße 2,88662,Überlingen,DE,47.77212,9.18719,07551 8095 0,Buha-Singen@grafhardenberg.de,
+Autohaus Bahm GmbH,SEAT,Heilbronner Straße 29,76703,Kraichtal,DE,49.14028,8.77188,07250 92620,info@autohaus-bahm.de,
+Auto-Lange GmbH & Co. KG,SEAT,Wriezener Straße 6/8,15344,Strausberg,DE,52.58307,13.88301,03341-33471,Auto-LangeStrausberg@t-online.de,https://auto-lange.seat.de
+Autohaus Hoppe GmbH,SEAT,Am Grenzberg 3,17367,Eggesin,DE,53.69611,14.07661,039779-22441,service@Hoppe-Eggesin.de,https://hoppe-eggesin.seat.de
+Autohaus Stöhr e.K. Inh. S. Vahrenholt,SEAT,Schweriner  Chaussee 13,18273,Güstrow,DE,53.79193,12.14679,03843-684839,seat@vahrenholt.eu,https://stoehr.seat.de
+Autohaus Rolf Brömme GmbH,SEAT,Teutschenth. Landstr. 20,06126,Halle,DE,51.47963,11.88475,0345-232520,info@autohausbroemme.de,https://seat-broemme.seat.de
+Autohaus Peter Eichner e.K.,SEAT,An der Zolltafel 12/13,06295,Lutherstadt Eisleben,DE,51.51344,11.57056,03475-71380,mail@auto-eichner.de,https://eichner.seat.de
+Autohaus Am Südbahnhof GmbH & Co. KG,SEAT,Erfurtstraße 14,07545,Gera,DE,50.86941,12.08037,0365-840110,info@seat-muehlbauer.de,https://muehlbauer.seat.de
+Autohaus Derno GmbH ,SEAT,Muskauer Straße 34D,03159,Döbern,DE,51.60483,14.61036,035600-6842,autohaus.derno@web.de,https://autohaus-derno.seat.de
+Autohaus Gerstenberger GmbH,SEAT,Adelsbergstraße 72,09126,Chemnitz,DE,50.83106,12.94973,0371-523820,service@auto-gerstenberger.de,https://gerstenberger.seat.de
+Autohaus Klonowski GmbH,SEAT,An der  B 96,01983,Großräschen,DE,51.58577,14.00316,035753-3291,seat_klonowski@t-online.de,https://klonowski.seat.de
+Autohaus A 13 GmbH,SEAT,Wustrickweg 1,15755,Schwerin,DE,52.15494,13.64558,033766-62222,autohaus_a13@gmx.de,https://aha13.seat.de
+Autocenter Rübner e.K.,SEAT,Am Hegberg 4,06679,Hohenmölsen OT Zembschen,DE,51.15565,12.10312,034441-27210,31666@ruebner.de,https://ruebner.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,Thyssen Krupp Allee 20,45143,Essen,DE,51.4613,6.99534,0201/87430,seat_11@gottfried-schultz.de,https://automobilhandel-essen.seat.de
+Autohaus Leonhardt GmbH,SEAT,Blankenstein/Dorfstr. 26,01723,Wilsdruff,DE,51.03114,13.4842,035209-23231,service@seat-leonhardt.de,https://leonhardt.seat.de
+Autohaus Thomschke GbR,SEAT,Gewerbegeb. Am Ochsenberg 3,01917,Kamenz,DE,51.27491,14.10249,03578-302431,autohaus-thomschke@web.de,https://thomschke.seat.de
+Autohaus Kuska & Hladky GmbH,SEAT,An der Gartenanlage 7,18209,Bad Doberan,DE,54.1054,11.92464,038203-62107,seat.service@autohaus-kuska-und-hladky.de,https://kh.seat.de
+Autohaus Prochno GmbH,SEAT,Löbauer Str. 49,02708,Lawalde,DE,51.08278,14.61216,03585-404181,info@autohaus-prochno.de,https://prochno.seat.de
+Autohaus Krenz GbR,SEAT,Zittauer Str. 1,01904,Steinigtwolmsdorf,DE,51.06294,14.34903,035951-2001-0,m.krenz@autohaus-krenz.de,https://autohauskrenz.seat.de
+Tiemeyer automobile GmbH & Co. KG - Service,SEAT,Trecknase 6-8,42897,Remscheid,DE,51.1812,7.2524,02191-9640-0,seat.remscheid@tiemeyer.de,https://tiemeyer.seat.de/
+Autohaus Rentsch GmbH,SEAT,Cottbuser Str. 32 b,15907,Lübben,DE,51.92377,13.89623,03546-27500,seat@ahrentsch.de,https://rentsch.seat.de
+VGRDD GmbH,SEAT,Liebstädter Straße 5,01277,Dresden,DE,51.02743,13.78341,0351-2533-0,seat.service@autohaus-reick.de,
+VGRDD GmbH - CUPRA Garage Dresden,SEAT,Bremer Straße 35,01067,Dresden,DE,51.06131,13.70538,0351-4920-0050,info@seat-dresden.de,https://cupra-garage-dresden.seat.de
+VGRDD GmbH,SEAT,Kesselsdorfer Straße 300,01169,Dresden,DE,51.04,13.64886,0351-41010,seat.service@pattusch.de,
+"Autohaus Günnel e.K., Inhaberin Claudia Günnel",SEAT,Hansastr. 4,08060,Zwickau,DE,50.71229,12.43817,0375-5019060,info@seat-guennel.de,https://guennel.seat.de
+Autohaus Gerwins GmbH,SEAT,Oswald-Greiner-Str. 1 B,04720,Döbeln,DE,51.1192,13.15014,03431-574615,AutohausGerwins@t-online.de,https://autohausgerwins.seat.de
+Autosalon Weidauer GmbH,SEAT,Beeskower Str. 6,15890,Eisenhüttenstadt,DE,52.14796,14.65572,03364-40650,info@seateh.de,https://as-autosalon.seat.de
+Autohaus Mayer,SEAT,Legder Chaussee 6,19336,Bad Wilsnack,DE,52.95113,11.94845,038791-2656,service@seat-mayer.de,https://ah-mayer.seat.de
+Ehrhardt AG Niederlassung Hildburghausen,SEAT,Kaltenbronner Weg 2b,98646,Hildburghausen,DE,50.42192,10.75079,03685-703041,seat.hildburghausen@ah-ehrhardt.com,https://hildburghausen.seat.de
+Warmuth Mobile GmbH,SEAT,Adolph-Herbst-Str. 8,07950,Zeulenroda-Triebes,DE,50.67722,12.01012,036622-8010,seat@warmuth-mobile.de,https://warmuth-mobile.seat.de
+Autohaus Derno GmbH,SEAT,Halbendorfer Weg 6,02943,Weißwasser,DE,51.51151,14.61407,03576-28970,verkauf-weisswasser@autohaus-derno.de,https://derno.seat.de
+Auto-Center Göltzschtal GmbH,SEAT,Oelsnitzer Str. 72,08223,Falkenstein,DE,50.46901,12.35566,03745-744630,ACG@seat-falkenstein.de,https://falkenstein.seat.de
+Automobile Simone Sixtus GmbH,SEAT,Breiteweg 32,39179,Barleben,DE,52.20746,11.61881,039203-5268,info@automobilesixtus.de,https://sixtus.seat.de
+Fischer GmbH & Co. KG,SEAT,Damaschkeweg 65,07745,Jena,DE,50.89978,11.58592,03641-2828-90,info.seat@fischer-jena.de,https://fischer-jena.seat.de
+Car Treff GmbH,SEAT,Bechliner Chaussee 25a,16816,Neuruppin,DE,52.91062,12.76463,03391-502308,car-treff@t-online.de,https://car-treff.seat.de
+CCA Autohaus Kirchberg GmbH,SEAT,Auerbacher Str. 66,08107,Kirchberg,DE,50.61696,12.53351,037602-64381,post@cca-mobile.de,https://cca-autohaus-kirchberg.seat.de
+Autohaus Frank Nagel,SEAT,Theodor-Körner-Str. 37,18106,Rostock,DE,54.12373,12.04886,0381-778530,service.hro@seatnagel.de,https://nagel-rostock.seat.de
+Ehrhardt AG NL Erfurt,SEAT,Weimarische Str. 16,99099,Erfurt,DE,50.98477,11.02988,0361-653207 0,seat.erfurt@ah-ehrhardt.com,https://erfurt.seat.de
+Autocenter Leinefelde GmbH,SEAT,Berliner Str. 49,37327,Leinefelde,DE,51.39451,10.32725,03605-519090,news@autocenter-leinefelde.de,https://leinefelde.seat.de
+Günter Schmitt GmbH & Co. KG,SEAT,Aschaffenburger Str. 124,63773,Goldbach,DE,49.99799,9.18849,06021 59980,info@autohausschmitt.de,https://autohaus-schmitt.seat.de/
+Ratio Mobil Autohandel und Service GmbH -Annaberg,SEAT,Oberer Bahnhof 13,09456,Annaberg-Buchholz,DE,50.58186,13.0165,03733 - 671170,annaberg@ratiomobil.de,https://ratiomobil-annaberg.seat.de
+Schuler + Eisner GmbH & Co. KG,SEAT,Pfaffenpfad 2,97440,Werneck,DE,50.00317,10.11481,09722-9470-0,werneck@schuler-eisner.de,https://werneck-schuler-eisner.seat.de
+Autohaus Boos GmbH,SEAT,Rhein-Mosel-Str. 18,56281,Emmelshausen,DE,50.15608,7.56172,06747-8015,info@autohaus-boos.de,https://boos.seat.de
+Auto Krälemann GmbH,SEAT,Römerstr. 1a,59075,Hamm,DE,51.68961,7.77758,02381-307260,verkauf.hamm@auto-kraelemann.de,https://kraelemann.seat.de
+Willi Krämer KG,SEAT,Lichtenbergerstraße 66,64401,Groß-Bieberau,DE,49.79151,8.82184,06162 93140,autohaus.kraemer@willi-kraemer.de,
+Autohaus Best GmbH,SEAT,Dieselstraße 61,63165,Mühlheim / Main,DE,50.11638,8.85136,06108 60020,info-seat@autohaus-best.de,
+Autohaus Früchtl GmbH,SEAT,Arndt-Sallinger-Str. 6,94315,Straubing,DE,48.8773,12.54292,09421-33050,info@autohaus-fruechtl-sr.de,https://fruechtl-straubing.seat.de
+Hotz und Heitmann GmbH,SEAT,Heinr.-Nordhoff-Str. 119,38440,Wolfsburg,DE,52.42617,10.76826,05361-2041460,info@seat-wolfsburg.de,https://wolfsburg.seat.de
+HERCHER Die Service Familie GmbH,SEAT,Am Weissen Berg 1,04600,Altenburg ,DE,51.00143,12.45634,03447-8537-0,info.altenburg@hercher-servicefamilie.de,eckardt.seat.de
+Autohaus Buzziol Mobile GmbH ,SEAT,Autofocus 9,15517,Fürstenwalde ,DE,52.33758,14.06978,03361-301076,info@buzziol-mobile.de,https://buzziol-mobile.seat.de
+Autohaus Glinicke GmbH & Co. Vertriebs KG,SEAT,Erfurter Straße 76,99423,Weimar,DE,50.98148,11.30946,03643 208300,seat@glinicke-weimar.de,
+Autohaus Koch GmbH ,SEAT,Marzahner Chaussee 222,12681,Berlin ,DE,52.5285,13.53443,030-54998860,DE01INFOSEA@KOCH-AG.DE,https://koch-marzahn.seat.de
+Auto Center André Mühlenbruch GmbH ,SEAT,In der Au 26,57290,Neunkirchen,DE,50.78539,8.01058,02735-7848-0,seat@ac-muehlenbruch.de,ac-muehlenbruch.seat.de
+CASA Automobile GmbH ,SEAT,Hanns-Klemm-Str. 44,71034,Böblingen ,DE,48.67982,8.97669,07031-21386-0,info@casa-automobile.de,https://casa.seat.de
+Autohaus St. Kempl GmbH,SEAT,Industriestr. 5,67346,Speyer,DE,49.31,8.4444,06232-6871-0,info@kempl.de,https://kempl.seat.de
+Autohaus Georg Rüthlein GmbH & Co. KG ,SEAT,Nürnberger Str. 126,97076,Würzburg,DE,49.7951,9.9999,0931-279990,seat@autohaus-ruethlein.de,https://ruethlein.seat.de
+Autohaus Lackmann GmbH,SEAT,Uellendahler Str. 437,42109,Wuppertal,DE,51.27979,7.16602,0202/2815000,seat@deinseat.de,https://lackmann.seat.de
+Scheller Beteiligungsgesellschaft mbH,SEAT,Dr.Raabe-Straße 7,36043,Fulda,DE,50.55131,9.71496,0661-939393,info@scheller-auto.de,https://scheller.seat.de
+Autohaus Koitz Inh. Janet Koitz,SEAT,Am Seegraben 5,03051,Cottbus,DE,51.71979,14.31539,0355-542521,seat@autohaus-koitz.de,https://autohaus-koitz.seat.de
+Autohaus Weiland GmbH,SEAT,Saarbrücker Str. 30a,66386,Sankt Ingbert,DE,49.27421,7.10481,06894-9221-0,seat@autohaus-weiland.de,https://autohaus-weiland.seat.de
+Autohaus NORD Weski & Paul GmbH,SEAT,Röntgenstr. 19,48432,Rheine,DE,52.31094,7.43603,05971-911300,info@autohaus-nord.com,https://autohausnord.seat.de
+Volkswagen Zentrum Aachen Jacobs Automobile GmbH,SEAT,Trierer Str. 169,52078,Aachen,DE,50.7663,6.12807,0241-97770,info@volkswagen-zentrum-aachen.de,https://jacobs-aachen.seat.de
+Autohaus Brüning GmbH & Co. KG,SEAT,Nordenhamer Str. 121,27751,Delmenhorst,DE,53.05883,8.64814,04221-152150,info@bruening-del.de,https://autohaus-bruening.seat.de
+AS - Automobile GmbH,SEAT,Hövelstraße 151 - 153,45326,Essen,DE,51.47976,6.99332,0201-831483-0,mb@seat-as.de,https://as.seat.de
+Tiemeyer automobile GmbH & Co. KG,SEAT,Porschestr. 1,44809,Bochum,DE,51.48649,7.19414,0234-91532-500,info.seatbochum@tiemeyer.de,https://tiemeyer-bochum.seat.de
+Motor Center Heinen GmbH,SEAT,Industriestraße 110,59192,Bergkamen,DE,51.62658,7.65612,02307-261100,service@heinen-nrw.de,https://heinen-bergkamen.seat.de
+Autohaus Roschk GmbH & Co. KG,SEAT,Nimschützer Str. 1c,02625,Bautzen,DE,51.19683,14.46042,03591-67440,roschk@t-online.de,https://bautzen-seat.seat.de
+Autowelt Schuler GmbH,SEAT,Talstr. 1-7,78658,Zimmern-Horgen,DE,48.14747,8.54934,0741-309 0,seat@autowelt-schuler.de,https://autowelt-schuler.seat.de
+Autohaus Behm GmbH,SEAT,Birnenstr. 4,17033,Neubrandenburg,DE,53.52699,13.26488,0395-362000,behm.kd@partner.skoda-auto.de,https://autohaus-behm.seat.de
+Autohaus Wolfgang Fritz,SEAT,Gustav-Rau-Straße 11,74321,Bietigheim-Bissingen,DE,48.95078,9.14758,07142 5050,Autohaus.Fritz@autohaus-fritz.de,https://bibifri.seat.de
+Tiemeyer automobile GmbH & Co. KG,SEAT,Rheinstraße 7-9,45663,Recklinghausen,DE,51.58051,7.21502,02361-4042-0,info.recklinghausen@tiemeyer.de,https://tiemeyer-recklinghausen.seat.de
+Autohaus Brass Vertriebs GmbH & Co. KG,SEAT,Hanauer Str. 90-92,63741,Aschaffenburg,DE,49.98083,9.12514,06021-45801230 ,seat.aschaffenburg@brass-gruppe.de,https://brassaschaffenburg.seat.de
+Autohaus Brass Vertriebs GmbH & Co. KG,SEAT,Zum Eisengießer 3,97816,Lohr am Main,DE,49.99966,9.57561,09352-60090,seat.lohr@brass-gruppe.de,https://brasslohr.seat.de
+Autohaus Brass GmbH & Co. KG,SEAT,Mühlheimer Str. 311,63075,Offenbach,DE,50.11013,8.79891,069-986478-0,seat.offenbach@brass-gruppe.de,https://brassoffenbach.seat.de
+Auto Wormser & Co. Service GmbH,SEAT,Fürther Str. 10,91315,Höchstadt a.d. Aisch,DE,49.69675,10.80288,09193-6393-0,service@wormser-service.de,https://auto-wormser.seat.de
+C.Thomsen GmbH,SEAT,Senefelderstr. 2,24568,Kaltenkirchen,DE,53.8182,9.971,04191-507060,kaltenkirchen-mail@auto-thomsen.de,https://thomsen-kaltenkirchen.seat.de
+C.Thomsen GmbH - Wandsbek,SEAT,Kuehnstraße 91,22045,Hamburg,DE,53.58075,10.12413,040-6686140,wandsbek-mail@auto-thomsen.de,https://thomsen-wandsbek.seat.de
+Autohaus Koch GmbH - Neuwagenverkauf,SEAT,Paderborner Ring 1,14974,Ludwigsfelde,DE,52.29377,13.27065,03378 857700,de03infosea@koch-ag.de,https://koch-ludwigsfelde.seat.de
+Feser-Biemann Forchheim GmbH,SEAT,Äußere Nürnberger Str. 60,91301,Forchheim,DE,49.70934,11.06262,09191-3401-151,info.forchheim@feser-graf.de,https://feser-biemann-forchheim.seat.de
+Autohaus Platzer & Wimmer GmbH,SEAT,Goldener Steig 40,94116,Hutthurm,DE,48.66665,13.48418,08505-9000-0,seat@platzer-wimmer.de,https://platzer-wimmer.seat.de
+Autohaus Peter Böhmer,SEAT,Georg-Richter-Str. 12,15234,Frankfurt (Oder),DE,52.3536,14.50548,0335-4007135,seat@autohaus-boehmer.de,https://boehmer.seat.de
+MTS Automobile GmbH,SEAT,Frankfurter Landstr. 88,61440,Oberursel,DE,50.19184,8.59535,06171 95177100,oberursel-seat@mts-mobile.de,https://mts-mobile.seat.de
+Graf Hardenberg GmbH,SEAT,Murgstraße 9-13,76646,Bruchsal,DE,49.13728,8.59449,07251-91010,info-bruchsal@grafhardenberg.de,https://bruchsal.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,Kleine Schönscheidtstr. 1,45307,Essen,DE,51.45829,7.06623,0201-8598 0,seat.kray@gottfried-schultz.de,https://essen.seat.de
+Scherer GmbH & Co. KG Mainz,SEAT,Robert-Koch-Str. 18,55129,Mainz,DE,49.95979,8.26653,06131/5809-0,seat-mainz@scherer-gruppe.de,https://scherer-mainz.seat.de
+Leiting Automobile GmbH,SEAT,Franzstraße 23-25,46395,Bocholt,DE,51.83117,6.62426,02871-21120,seat@leiting-automobile.de,https://leiting-automobile.seat.de
+Autohaus Christmann GmbH ,SEAT,August-Horch-Str. 6,67547,Worms,DE,49.61751,8.35452,06241 9772900,seat@autohaus-christmann.com,https://autohaus-christmann.seat.de
+Jllig Automobile GmbH + Co. KG,SEAT,Hauptstr. 62,72525,Münsingen,DE,48.40924,9.49997,07381-9303-0,info@jllig.de,https://jllig.seat.de/
+Emil Frey Küstengarage GmbH,SEAT,Schleswiger Chaussee 26,24768,Rendsburg,DE,54.31157,9.64805,04331-701-0,info.rendsburg@kuestengarage.de,https://kuestengarage-rendsburg.seat.de
+Auto Kölbl Vertriebs GmbH & Co. KG - Verkauf,SEAT,Michael-Kölbl-Str. 1-3,85716,Unterschleißheim,DE,48.28318,11.57583,089-317758-0,seatpartner@auto-forum.de,https://autokoelbl-vertrieb.seat.de
+Autohaus Wiegand GmbH,SEAT,Auf dem Biehm 23,63654,Büdingen,DE,50.29592,9.03595,06041-6939,info@seat-wiegand.de,https://wiegand.seat.de
+Hülpert VZ GmbH,SEAT,Planetenfeldstr. 87,44379,Dortmund,DE,51.50404,7.39514,0231-61005-0,seat@huelpert.de,https://huelpert-planetenfeldstrasse.seat.de
+Autogalerie Köhler GmbH,SEAT,Kölner Str. 260,51645,Gummersbach,DE,50.99577,7.54316,02261-29070,gm@koehler-seat.de,https://autogalerie-koehler.seat.de
+Auto Thomas GmbH,SEAT,Am Volkspark 5-7,50321,Brühl,DE,50.83647,6.90832,02232-945250,seat-bruehl@auto-thomas.de,https://auto-thomas-bruehl.seat.de
+Kamp-EAW GmbH ,SEAT,Walzwerkstraße 10,57537,Wissen / Sieg,DE,50.78202,7.7455,02742-968980,info@kamp-eaw.de,https://kamp-eaw.seat.de
+Ehrhardt AG,SEAT,Stützenbergstr. 1,97225,Zellingen,DE,49.89054,9.82616,0931-660970,seat.wuerzburg@ah-ehrhardt.com,https://zellingen.seat.de/
+Die Schneider Gruppe GmbH,SEAT,An der Hohensaas 15,95030,Hof,DE,50.31739,11.87863,09281-7064-0,seat.hof@dieschneidergruppe.de,https://schneidergruppehof.seat.de
+Feser und Wittig GmbH,SEAT,Hallesche Landstr. 110,06406,Bernburg,DE,51.77118,11.7485,03471-3221-0,info@autohaus-feser-wittig.de,https://feser-wittig-bernburg.seat.de
+Auto Beckmann GmbH,SEAT,Droste-Hülshoff-Str. 35,58089,Hagen,DE,51.38013,7.45218,02331-386080,dispo1@autohaus-beckmann.de,https://beckmann.seat.de
+Waldhausen & Bürkel Rheindahlen GmbH & Co. KG,SEAT,Erkelenzer Str. 32,41179,Mönchengladbach,DE,51.14806,6.35632,02161-58855-0,seat@waldhausen-buerkel.de,https://mg-west.seat.de
+Ing .W. Riemer GmbH & Co.KG,SEAT,Alt-Möllner-Str. 14-18,23879,Mölln,DE,53.6235,10.6949,04542-8090-0,info@riemer-moelln.de,https://riemer-moelln.seat.de
+Autohof Altfranken GmbH,SEAT,Rudolf-Walther-Str. 2,01156,Dresden,DE,51.03737,13.6365,0351-415060,seat@autohof-altfranken.de,https://autohof-altfranken.seat.de
+Löhr Automobile GmbH,SEAT,Stettiner Str. 4-6,56564,Neuwied,DE,50.43472,7.48571,02631-9150-100,info.sen@loehrgruppe.de,https://neuwied.seat.de
+Autohaus von der Weppen GmbH & Co. KG,SEAT,Niederschopheimer Str. 2,77948,Friesenheim/Oberschopfh.,DE,48.40174,7.89335,07808-91433-0 ,oberschopfheim@von-der-weppen.de,https://vdw-friesenheim.seat.de
+Auto Bierschneider GmbH,SEAT,Chamer Str. 130,94315,Straubing,DE,48.90106,12.58527,09421-510280,info.straubing@bierschneider.de,https://bierschneider-straubingen.seat.de
+Autohaus Schröder Senne GmbH & Co. Team KG,SEAT,Industriestraße 6,33689,Bielefeld,DE,51.95216,8.57451,05205-10068 0,info-vw@schroeder-teams.de,
+Hahn Automobile GmbH + Co. KG,SEAT,Heerbergstr. 1,71384,Weinstadt,DE,48.81444,9.35753,07151-1702-0,weinstadt@hahn-automobile.de,https://hahn-weinstadt.seat.de
+Gohm + Graf Hardenberg GmbH,SEAT,Max-Stromeyer-Str. 122,78467,Konstanz,DE,47.67494,9.16479,07531-5816-0,info.kon@grafhardenberg.de,
+Weller Performance Deutschland GmbH,SEAT,Osterdeich 151,28205,Bremen,DE,53.06521,8.85315,0421/46840-0,seat.bremen@autoweller.de,https://wellergruppe-bremen.seat.de
+Autohaus Ostermaier GmbH,SEAT,Watzmannstr. 64,84034,Landshut,DE,48.53797,12.12028,0871-975150-0,seat.landshut@ostermaier.de,
+Autohaus Kuhn & Witte GmbH & Co. KG,SEAT,Kronskamp 98,22880,Wedel,DE,53.58198,9.72697,04103-3904,seat_w@kuhn-witte.de,https://kuhn-witte.seat.de
+Ulrich Senger GmbH - Verkauf,SEAT,Bayernstraße 50,48429,Rheine,DE,52.28959,7.4399,05971-79100,info.vw-rheine@auto-senger.de,https://senger-rheine.seat.de
+Autohaus Siebrecht GmbH,SEAT,Wiesenstraße 15,37170,Uslar,DE,51.65874,9.62986,05571 92300,info@autohaus-siebrecht.de,
+Filiale der Autohaus Ebersberg GmbH & Co. KG ,SEAT,Rosenheimer Straße 22,83549,Eiselfing,DE,48.03738,12.23895,08071-904459-0,info@cupra-wasserburg.de,https://ah-ebersberg.seat.de
+Elb-Havel Automobile GmbH,SEAT,Genthiner Str. 18,39539,Havelberg,DE,52.81935,12.07129,039387 721287,kontakt@elb-havel-automobile.de,https://elb-havel-automobile.seat.de
+Graf Hardenberg GmbH,SEAT,Nußdorfer Heide 1,76829,Landau,DE,49.21255,8.12415,06341 9946400,info-ld@grafhardenberg.de,https://grafhardenberg-landau.seat.de
+Gottfried Schultz Automobilhandels SE,SEAT,Lilienthalstraße 6,41515,Grevenbroich,DE,51.08526,6.61352,02181/23370,seat_48@gottfried-schultz.de,https://schultz-grevenbroich.seat.de
+Hans und Harald Wittmer GmbH,SEAT,Ludwig-Kegel-Str. 11,79853,Lenzkirch,DE,47.86817,8.20593,07653 9605 0,seat@autofamilie-wittmer.de,https://wittmer-lenzkirch.seat.de
+Autohaus Schmitt GmbH,SEAT,Hanauer Str. 61,63579,Freigericht,DE,50.14691,9.11136,06055 91520,info-seat@schmitt-freigericht.de,
+Tiemeyer automobile GmbH & Co. KG,SEAT,Mendenerstr. 64,58675,Hemer,DE,51.39511,7.77292,02372 94800,seat.hemer@tiemeyer.de,https://tiemeyer-hemer.seat.de
+Auto König GmbH & Co. KG,SEAT,Gundelfinger Strasse 15,89415,Lauingen,DE,48.5656,10.42317,09072 9531 0,infolau@autokoenig.de,
+Autohaus von Keitz GmbH & Co. KG,SEAT,Heerstraße 358-364,50169,Kerpen-Brüggen,DE,50.85115,6.76941,02237 973050,seat-kerpen@vonkeitz.de,
+AutoForum Münchberg GmbH,SEAT,Weißenbacher Str. 41-49,95100,Selb,DE,50.16979,12.12324,09251 43030,info@autoforum-selb.de,autoforum-muenchberg.seat.de
+Autohaus Stegelmann GmbH & Co. KG,SEAT,Bielefelder Str. 86-88,32756,Detmold,DE,51.93667,8.85727,05231-63070,info@stegelmann.de,https://autohaus-stegelmann-detmold.seat.de
+Autohaus Lang GmbH,SEAT,Max-von Müller Straße 57,84056,Rottenburg,DE,48.71021,12.01693,08781 94440,seat@vw-lang.de,https://autohaus-lang.seat.de
+Friedrich Hoffmann GmbH & Co. KG,SEAT,Niedereimerfeld 37-39,59823,Arnsberg,DE,51.42309,8.03485,02932-89018-0,Seat67100@friedrich-hoffmann.de,
+Friedrich Hoffmann GmbH & Co. KG,SEAT,Remmeswiese 24,59955,Winterberg,DE,51.20131,8.52667,02981-9207-0,seat@friedrich-hoffmann.de,https://friedrich-hoffmann.seat.de
+Autohaus Johann Schlömer GmbH & Co. KG,SEAT,B 70 Nr. 3,26892,Lehe,DE,53.00187,7.34377,04962 377,info@auto-schloemer.de,https://autohaus-schloemer.seat.de/
+Audi Zentrum Siegen Walter Schneider GmbH & Co. KG,SEAT,Leimbachstraße 165,57074,Siegen,DE,50.85918,8.02013,0271 23446 0,seat@audi-siegen.de,https://zentrum-siegen.seat.de
+Auto-Denk GmbH,SEAT,Dreisesselstr. 39,94089,Neureichenau,DE,48.74473,13.74934,08583 96070,info@auto-denk.de,
+Auto Thönes GmbH,SEAT,Bliestalstraße 116,66440,Blieskastel,DE,49.23692,7.26704,06842 946430,info@auto-thoenes.de,https://auto-thoenes.seat.de
+Autohaus Schneider GmbH & Co. KG,SEAT,Besigheimerstr. 62,74366,Kirchheim / Neckar,DE,49.03904,9.14401,07143 89470,info.kirchheim@sevo.de,
+Autohaus Hornberger Gmbh,SEAT,Haselquanten 3,94336,Hunderdorf,DE,48.95611,12.72537,09961 7464,service@autohaus-hornberger.de,
+Auto Meyer GmbH & Co. KG,SEAT,Uffenheimer Str. 18,97199,Ochsenfurt,DE,49.66048,10.0717,09331 87290,seat@automeyer-ochsenfurt.de,
+Autohaus Hoff GmbH & Co. KG,SEAT,Westerwaldstraße 1,53757,Sankt Augustin-Hangelar,DE,50.75756,7.17159,02241 39183 0,seathangelar@ah-hoff.de,https://ah-hoff-sa.seat.de/
+Gierse & Schöllmann GmbH,SEAT,Auf der Lake 5,57392,Schmallenberg,DE,51.15661,8.29363,02972 97720,seat@gierse-schoellmann.de,
+Dein Autozentrum Altentreptow GmbH,SEAT,Gewerbehof 11,17087,Altentreptow,DE,53.68709,13.2664,03961-25900,info@dein-autozentrum-altentreptow.de,https://dein-autozentrum-altentreptow.seat.de/
+Autohaus Schmidt & Söhne Aschersleben GmbH & Co. KG,SEAT,Siemensstrasse 1,06449,Aschersleben,DE,51.77022,11.48892,03473 8733 0,autohaus@schmidt-soehne.com,https;//schmidt-und-soehne.seat.de/
+Autohaus Glinicke GmbH & Co. Vertriebs KG,SEAT,Hermsdorfer Straße 2,99099,Erfurt,DE,50.97235,11.05716,036134350,seat78352@glinicke.de,https://glinicke-erfurt.seat.de
+Autohaus Hirth GmbH,SEAT,Mügelner Str. 2,04769,Mügeln,DE,51.23686,13.07161,034362 4030,info@autohaushirth.de,https://autohaus-hirth.seat.de
+Autohaus Thieme GmbH,SEAT,Eichenweg 1,07616,Petersberg,DE,50.96925,11.85304,036691 7570,info@thiemegruppe.com,https://autohaus-thieme.seat.de
+"Scherer GmbH & Co. KG, Homburg",SEAT,Hertelsbrunnenring 25,67657,Kaiserslautern,DE,49.45496,7.788,0631-550792-0,seat-kaiserslautern@scherer-gruppe.de,https://scherer-homburg.seat.de
+Tölke & Fischer GmbH & Co. KG,SEAT,Gladbacher Str. 467,47805,Krefeld,DE,51.31033,6.55196,02151-339-0,seat-krefeld@toefi.de,https://toelke-fischer.seat.de
+Autohaus Ladurner GmbH - Verkaufsstelle,SEAT,Nunnensteig 10,78052,Villingen-Schwenningen,DE,48.0845,8.5015,07721-402390,vs@autohaus-ladurner.de,https://ladurner-villingen.seat.de
+Hans Eichbichler GmbH & Co. KG,SEAT,"Liebigstr. 4,8",84030,Landshut,DE,48.55058,12.14887,0871-709-700,cupragarage@eichbichler.com,https://eichbichler.seat.de
+WELLER Premium Deutschland GmbH,SEAT,Johann-Uttinger-Str. 6-12,49324,Melle,DE,52.19471,8.34382,05422-928-0,Seat.melle@autoweller.de,wellergruppe-melle.seat.de
+Feser Cadolzburg GmbH,SEAT,Seckendorfer Str. 4,90556,Cadolzburg,DE,49.47489,10.86134,09103 508 0,info.cadolzburg@feser-graf.de,https://feser-cadolzburg.seat.de
+Fahrzeugwelt Buggel GmbH,SEAT,Untermarxgrüner Str. 4,08606,Ölsnitz,DE,50.42709,12.17225,037421-595-0,fahrzeugwelt-buggel@t-online.de,https://fahrzeugwelt-buggel.seat.de
+Autohaus Farnbacher GmbH,SEAT,Eichenbachstraße 2,91522,Ansbach,DE,49.29326,10.60551,0981-38380,SEAT@autohaus-farnbacher.de,https://farnbacher.seat.de
+Schwaba GmbH Schwaba Augsburg Süd,SEAT,Bischofsackerweg 10,86179,Augsburg ,DE,48.32281,10.89765,0821-80898-0,info.augsburgsued@schwaba.de,https://schwaba-sued.seat.de
+aurego GmbH,SEAT,Lenneper Str. 166,42855,Remscheid,DE,51.1801,7.22784,02191-36240  ,info@aurego.de,https://aurego.seat.de
+Pro Car Service & Vertriebs GmbH,SEAT,Neckarstr. 8,66955,Pirmasens,DE,49.19034,7.58172,06331-27000,seat@procar-auto.de,https://procar.seat.de
+Autohaus Ewald Göttgens GmbH,SEAT,Schüttweg 1,59494,Soest,DE,51.5558,8.08255,02921-361040,seat@goettgens.de,https://goettgens.seat.de
+"Hülpert SK GmbH  - ""Phönixsee""",SEAT,Berghofer Str. 11,44269,Dortmund,DE,51.48416,7.51921,0231-41980,seatsued@huelpert.de,https://huelpert-phoenixsee.seat.de/
+Jacobs automobile GmbH Zweigstelle Hürth,SEAT,Rondorfer Straße 72-74,50354,Hürth,DE,50.89046,6.91021,02233-97400-8,service@bautz-klinkhammer.de,https://jacobs-huerth.seat.de
+Autohaus Sievert GmbH,SEAT,Hamelner Str. 60,32683,Barntrup,DE,51.98972,9.12429,05263-2080,info@autohaus-sievert.de,https://sievert.seat.de
