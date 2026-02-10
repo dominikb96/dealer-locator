@@ -75,12 +75,23 @@ async function handleSearch(payload: {
         @search="handleSearch"
       />
 
-      <p v-if="loading" class="text-sm text-gray-500">
-        Suche läuft …
-      </p>
+      <div
+        v-if="loading"
+        class="flex min-h-[60vh] flex-col items-center justify-center gap-4 text-sm text-gray-500"
+      >
+        <span>Suche läuft …</span>
+        <span
+          class="h-12 w-12 animate-spin rounded-full border-4 border-gray-300 border-t-gray-600"
+          aria-hidden="true"
+        />
+      </div>
 
       <p v-if="error" class="text-sm text-red-600">
         {{ error }}
+      </p>
+
+      <p v-if="!loading && !error && results.length === 0" class="text-sm text-gray-500">
+        Keine Ergebnisse gefunden
       </p>
 
       <DealerResults
