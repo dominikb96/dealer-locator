@@ -11,6 +11,7 @@ const brandSelection = ref<string[]>(["Alle"]);
 const results = ref<DealerWithDistance[]>([]);
 const loading = ref(false);
 const error = ref<string | null>(null);
+const hasSearched = ref(false);
 
 function exportResults() {
   const params = new URLSearchParams({
@@ -35,6 +36,7 @@ async function handleSearch(payload: {
   radius: number;
   brands: string[];
 }) {
+  hasSearched.value = true;
   searchQuery.value = payload.query;
   radius.value = payload.radius;
   brandSelection.value = payload.brands;
@@ -90,7 +92,10 @@ async function handleSearch(payload: {
         {{ error }}
       </p>
 
-      <p v-if="!loading && !error && results.length === 0" class="text-sm text-gray-500">
+      <p
+        v-if="hasSearched && !loading && !error && results.length === 0"
+        class="text-sm text-gray-500"
+      >
         Keine Ergebnisse gefunden
       </p>
 
