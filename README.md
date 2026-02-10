@@ -73,6 +73,7 @@ Datenbank zurücksetzen<br/>
 - Weitere Hersteller
 - Pagination und Caching
 - Kartenansicht
+- env File hinzufügen (local, dev, prod)
 
 ## Setup
 Voraussetzungen
